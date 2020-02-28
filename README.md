@@ -3,4 +3,4 @@ A english translation of the Faith of Danshant game
 
 
 ## This mod is a work in progress
-If you want to use this mod, you need to turn the folder into a .pak file
+If you want to use this mod, you need to turn the JoyFunRPG folder into a .pak file
