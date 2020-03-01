@@ -1,0 +1,4952 @@
+[
+{
+"ID": 60001,
+"ZH_Text0": "Normal attack", Normal Attack
+"ZH_Text1": "weak point{bec}％　１段 attack", weak point {bec}% 1 attack
+"ZH_Text2": "",
+"CH_Text0": "Đánh thường",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần",
+"CH_Text2": ""
+},
+{
+"ID": 60011,
+"ZH_Text0": "南斗．破空　1", SouthStar-Break 1 
+"ZH_Text1": "weak point{bec}％　５段 attack
+Sword gathering {sword}　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 1", Break No 1
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60012,
+"ZH_Text0": "南斗．破空　2", Nandou. Break No 2
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60013,
+"ZH_Text0": "南斗．破空　3", Nandou. Break No 3
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60014,
+"ZH_Text0": "南斗．破空　4", Nandou. Break No 4
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60015,
+"ZH_Text0": "南斗．破空　5", Nandou. Break No 5
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60016,
+"ZH_Text0": "南斗．破空　6", Nandou. Break No 6
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60017,
+"ZH_Text0": "南斗．破空　7", Nandou. Break No 7
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60018,
+"ZH_Text0": "南斗．破空　8", Nandou. Break No 8
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60019,
+"ZH_Text0": "南斗．破空　9", Nandou. Break No 9
+"ZH_Text1": "weak point{bec}％　５段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu. Phá Không 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60021,
+"ZH_Text0": "Xiuluo huangquan　1", 修羅黃泉 Underworld ruler 1
+"ZH_Text1": "weak point{bec}％　５段 attack
+Spirit gathering {spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60022,
+"ZH_Text0": "Xiuluo huangquan　2",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 2",
+"CH_Text1": "Đơn công - Nhược điểm{bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60023,
+"ZH_Text0": "Xiuluo huangquan　3",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60024,
+"ZH_Text0": "Xiuluo huangquan　4",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60025,
+"ZH_Text0": "Xiuluo huangquan　5",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60026,
+"ZH_Text0": "Xiuluo huangquan　6",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60027,
+"ZH_Text0": "Xiuluo huangquan　7",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60028,
+"ZH_Text0": "Xiuluo huangquan　8",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60029,
+"ZH_Text0": "Xiuluo huangquan　9",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Hoàng Tuyền 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60031,
+"ZH_Text0": "Evil blood sword　1", 煞血劍
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash sword {sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60032,
+"ZH_Text0": "Evil blood sword　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60033,
+"ZH_Text0": "Evil blood sword　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60034,
+"ZH_Text0": "Evil blood sword　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60035,
+"ZH_Text0": "Evil blood sword　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60036,
+"ZH_Text0": "Evil blood sword　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60037,
+"ZH_Text0": "Evil blood sword　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60038,
+"ZH_Text0": "Evil blood sword　8",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60039,
+"ZH_Text0": "Evil blood sword　9",
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Huyết Kiếm 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 60041,
+"ZH_Text0": "Violence blaze　1",兇．爆閃
+"ZH_Text1": "weak point{bec}％　３段 attack
+each add{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60042,
+"ZH_Text0": "Violence blaze　2",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60043,
+"ZH_Text0": "Violence blaze　3",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60044,
+"ZH_Text0": "Violence blaze　4",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60045,
+"ZH_Text0": "Violence blaze　5",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60046,
+"ZH_Text0": "Violence blaze　6",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60047,
+"ZH_Text0": "Violence blaze　7",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60048,
+"ZH_Text0": "Violence blaze　8",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60049,
+"ZH_Text0": "Violence blaze　9",
+"ZH_Text1": "weak point{bec}％　３段 attack
+each Spirit multiple{spiritdmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Hung. Bạo Thiểm 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60051, xxxxxxxxxxxxxxxxxxxxx
+"ZH_Text0": "Force of life　1", 生之力
+"ZH_Text1": "Team
+Healing HP１０％ 
+HP rise slowly, 2 turns", 
+"ZH_Text2": "Target HP rise slowly, 2 turns",
+"CH_Text0": "Sinh Chi Lực 1",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60052,
+"ZH_Text0": "Force of life　2",
+"ZH_Text1": "The whole team
+Healing. HP１５％
+Target HP rise slowly, 2 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 2",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60053,
+"ZH_Text0": "Force of life　3",
+"ZH_Text1": "The whole team
+Healing. HP２０％
+Target HP rise slowly, 2 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 3",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60054,
+"ZH_Text0": "Force of life　4",
+"ZH_Text1": "The whole team
+Healing. HP２５％
+Target HP rise slowly, 2 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 4",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60055,
+"ZH_Text0": "Force of life　5",
+"ZH_Text1": "The whole team
+Healing. HP３０％
+Target HP rise slowly, 2 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 5",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60056,
+"ZH_Text0": "Force of life　6",
+"ZH_Text1": "The whole team
+Healing. HP３５％
+Target HP rise slowly, 2 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 6",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60057,
+"ZH_Text0": "Force of life　7",
+"ZH_Text1": "The whole team
+Healing. HP４０％
+Target HP rise slowly, 3 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 7",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60058,
+"ZH_Text0": "Force of life　8",
+"ZH_Text1": "The whole team
+Healing. HP４５％
+Target HP rise slowly, 3 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 8",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60059,
+"ZH_Text0": "Force of life　9",
+"ZH_Text1": "The whole team
+Healing. HP５０％
+Target HP rise slowly, 3 turns",
+"ZH_Text2": "",
+"CH_Text0": "Sinh Chi Lực 9",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 10%
+Mục tiêu được hồi máu, HP tiếp tục tăng từ từ, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 60061,
+"ZH_Text0": "Assault the sky　1", 襲天滅地 Assault the sky / Strike - Heaven and earth
+"ZH_Text1": "one enemy,　２ attack
+unleash sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 1",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60062,
+"ZH_Text0": "Assault the sky　2",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 2",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60063,
+"ZH_Text0": "Assault the sky　3",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 3",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60064,
+"ZH_Text0": "Assault the sky　4",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 4",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60065,
+"ZH_Text0": "Assault the sky　5",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 5",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60066,
+"ZH_Text0": "Assault the sky　6",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 6",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60067,
+"ZH_Text0": "Assault the sky　7",
+"ZH_Text1": "one enemy　　　　　　　２段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　",
+"ZH_Text2": "",
+"CH_Text0": "Tập Thiên Diệt Địa 7",
+"CH_Text1": "Đơn công - Tấn công 2 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60071,
+"ZH_Text0": "ocean sword skill　1", 劍意如海 ocean sword formation
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60072,
+"ZH_Text0": "ocean sword skill　2",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60073,
+"ZH_Text0": "ocean sword skill　3",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60074,
+"ZH_Text0": "ocean sword skill　4",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60075,
+"ZH_Text0": "ocean sword skill　5",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60076,
+"ZH_Text0": "ocean sword skill　6",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60077,
+"ZH_Text0": "ocean sword skill　7",
+"ZH_Text1": "weak point{bec}％　１０段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Ý Như Hải 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 10 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60081,
+"ZH_Text0": "Force of Star　1", 星之力 StarForce move
+"ZH_Text1": "whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 1",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60082,
+"ZH_Text0": "Force of Star　2",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 2",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60083,
+"ZH_Text0": "Force of Star　3",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 3",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60084,
+"ZH_Text0": "Force of Star　4",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 4",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60085,
+"ZH_Text0": "Force of Star　5",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 5",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60086,
+"ZH_Text0": "Force of Star　6",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 6",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60087,
+"ZH_Text0": "Force of Star　7",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tinh Chi Lực 7",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 60091,
+"ZH_Text0": "thousand night sword　1", 千宵劍 eternal night sword
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 1", break down sky
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60092,
+"ZH_Text0": "thousand night sword　2",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 2",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60093,
+"ZH_Text0": "thousand night sword　3",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 3",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60094,
+"ZH_Text0": "thousand night sword　4",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 4",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60095,
+"ZH_Text0": "thousand night sword　5",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 5",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60096,
+"ZH_Text0": "thousand night sword　6",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 6",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60097,
+"ZH_Text0": "thousand night sword　7",
+"ZH_Text1": "one enemy　　　　　　　６段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu Kiếm 7",
+"CH_Text1": "Đơn công - Tấn công 6 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60101,
+"ZH_Text0": "punish sword, fall god　1",Punishment, angel fall 劍誅．落仙
+"ZH_Text1": "weak point{bec}％　１２段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Tru. Lạc Tiên 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 12 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60102,
+"ZH_Text0": "punish sword, fall god　2",
+"ZH_Text1": "weak point{bec}％　１２段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Tru. Lạc Tiên 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 12 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60103,
+"ZH_Text0": "punish sword, fall god　3",
+"ZH_Text1": "weak point{bec}％　１２段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Tru. Lạc Tiên 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 12 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60104,
+"ZH_Text0": "punish sword, fall god　4",
+"ZH_Text1": "weak point{bec}％　１２段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Tru. Lạc Tiên 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 12 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60105,
+"ZH_Text0": "punish sword, fall god　5",
+"ZH_Text1": "weak point{bec}％　１２段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Tru. Lạc Tiên 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 12 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60111,
+"ZH_Text0": "Tai yi jin xu　1", 太乙盡虛 Taiyi sword art ,yin&yang
+"ZH_Text1": "weak point{bec}％　７段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thái Ất Tẫn Hư 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 7 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60112,
+"ZH_Text0": "Tai yi jin xu　2",
+"ZH_Text1": "weak point{bec}％　７段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thái Ất Tẫn Hư 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 7 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60113,
+"ZH_Text0": "Tai yi jin xu　3",
+"ZH_Text1": "weak point{bec}％　７段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thái Ất Tẫn Hư 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 7 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60114,
+"ZH_Text0": "Tai yi jin xu　4",
+"ZH_Text1": "weak point{bec}％　７段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thái Ất Tẫn Hư 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 7 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60115,
+"ZH_Text0": "Tai yi jin xu　5",
+"ZH_Text1": "weak point{bec}％　７段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thái Ất Tẫn Hư 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 7 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 60121,
+"ZH_Text0": "Yu Hua Sha sword　1", Yu Hua Sha sword - evil spirit rain sword 劍雨化煞
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Hóa Sát 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60122,
+"ZH_Text0": "Yu Hua Sha sword　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Hóa Sát 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60123,
+"ZH_Text0": "Yu Hua Sha sword　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Hóa Sát 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60124,
+"ZH_Text0": "Yu Hua Sha sword　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Hóa Sát 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60125,
+"ZH_Text0": "Yu Hua Sha sword　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Hóa Sát 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 60131,
+"ZH_Text0": "Yi guan sanqian　1", Yi guan sanqian - intention pass through "immense stab" 意貫三千
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　each add {sworddmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Ý Quán Tam Thiên 1",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60132,
+"ZH_Text0": "Yi guan sanqian　2",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　each add {sworddmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Ý Quán Tam Thiên 2",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60133,
+"ZH_Text0": "Yi guan sanqian　3",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　each add {sworddmg}％",
+"ZH_Text2": "",
+"CH_Text0": "Ý Quán Tam Thiên 3",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 60141,
+"ZH_Text0": "Nandou Sword heart　1", SouthStar - sword essence 南斗劍心
+"ZH_Text1": "whole team
+ Sword gathering {sword}",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Kiếm Tâm 1",
+"CH_Text1": "Toàn đội 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60142,
+"ZH_Text0": "Nandou Sword heart　2",
+"ZH_Text1": "The whole team
+ Sword gathering {sword}",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Kiếm Tâm 2",
+"CH_Text1": "Toàn đội 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 60143,
+"ZH_Text0": "Nandou Sword heart　3",
+"ZH_Text1": "The whole team
+ Sword gathering {sword}",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Kiếm Tâm 3",
+"CH_Text1": "Toàn đội 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61001, xxxxxxxxxxxxxxxxxxxx
+"ZH_Text0": "normal attack",
+"ZH_Text1": "weak point{bec}％　１段attack",
+"ZH_Text2": "",
+"CH_Text0": "Đánh thường",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần",
+"CH_Text2": ""
+},
+{
+"ID": 61011,
+"ZH_Text0": "sword skill of wind　1", wind Sword array  劍陣之風
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61012,
+"ZH_Text0": "sword skill of wind　2",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61013,
+"ZH_Text0": "sword skill of wind　3",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61014,
+"ZH_Text0": "sword skill of wind　4",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61015,
+"ZH_Text0": "sword skill of wind　5",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61016,
+"ZH_Text0": "sword skill of wind　6",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61017,
+"ZH_Text0": "sword skill of wind　7",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61018,
+"ZH_Text0": "sword skill of wind　8",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61019,
+"ZH_Text0": "sword skill of wind　9",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Trận Chi Phong 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61021,
+"ZH_Text0": "聚靈之風　1", Spirit Wind
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61022,
+"ZH_Text0": "聚靈之風　2",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61023,
+"ZH_Text0": "聚靈之風　3",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61024,
+"ZH_Text0": "聚靈之風　4",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61025,
+"ZH_Text0": "聚靈之風　5",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61026,
+"ZH_Text0": "聚靈之風　6",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61027,
+"ZH_Text0": "聚靈之風　7",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61028,
+"ZH_Text0": "聚靈之風　8",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61029,
+"ZH_Text0": "聚靈之風　9",
+"ZH_Text1": "weak point{bec}％　４段 attack
+Primal Increase{spirit}
+Critical Damage{crit}％　Life drain{heal}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tụ Linh Chi Phong 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Nguyên Linh gia tăng {spirit}
+Bạo kích S.thương {crit}% Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61031,
+"ZH_Text0": "風刃侵體　1", Wind Blade Invasion
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61032,
+"ZH_Text0": "風刃侵體　2",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61033,
+"ZH_Text0": "風刃侵體　3",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61034,
+"ZH_Text0": "風刃侵體　4",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61035,
+"ZH_Text0": "風刃侵體　5",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61036,
+"ZH_Text0": "風刃侵體　6",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61037,
+"ZH_Text0": "風刃侵體　7",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61038,
+"ZH_Text0": "風刃侵體　8",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 8",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61039,
+"ZH_Text0": "風刃侵體　9",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Phong Nhận Xâm Thể 9",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 61041,
+"ZH_Text0": "元靈龍捲　1", Primal Dragon Roll
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 1",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61042,
+"ZH_Text0": "元靈龍捲　2",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 2",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61043,
+"ZH_Text0": "元靈龍捲　3",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 3",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61044,
+"ZH_Text0": "元靈龍捲　4",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 4",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61045,
+"ZH_Text0": "元靈龍捲　5",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 5",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61046,
+"ZH_Text0": "元靈龍捲　6",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 6",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61047,
+"ZH_Text0": "元靈龍捲　7",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 7",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61048,
+"ZH_Text0": "元靈龍捲　8",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 8",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61049,
+"ZH_Text0": "元靈龍捲　9",
+"ZH_Text1": "Enemy　　　　　　　５段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Long Quyển 9",
+"CH_Text1": "Quần công - Tấn công 5 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61051,
+"ZH_Text0": "甘露之風　1", Nectar wind
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 1",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61052,
+"ZH_Text0": "甘露之風　2",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 2",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61053,
+"ZH_Text0": "甘露之風　3",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 3",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61054,
+"ZH_Text0": "甘露之風　4",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 4",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61055,
+"ZH_Text0": "甘露之風　5",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 5",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61056,
+"ZH_Text0": "甘露之風　6",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 6",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61057,
+"ZH_Text0": "甘露之風　7",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 7",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61058,
+"ZH_Text0": "甘露之風　8",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 8",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61059,
+"ZH_Text0": "甘露之風　9",
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong 9",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61061, xxxxxxxx
+"ZH_Text0": "四氣諸與　1", "Four sacred breath" / 4th Qi against all
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Whole team reduced damage 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61062,
+"ZH_Text0": "四氣諸與　2",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61063,
+"ZH_Text0": "四氣諸與　3",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61064,
+"ZH_Text0": "四氣諸與　4",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61065,
+"ZH_Text0": "四氣諸與　5",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61066,
+"ZH_Text0": "四氣諸與　6",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61067,
+"ZH_Text0": "四氣諸與　7",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　　　 Sword gathering {sword}
+The whole team　　Injury reduction２０％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tứ Khí Chư Dữ 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Toàn đội giảm tổn thương 20%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 61071,
+"ZH_Text0": "禺強之怒　1", Stubborn fury - "wrath wing" Yu qiang
+"ZH_Text1": "weak point{bec}％　１段 attack
+unleash the spirits, each add{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61072,
+"ZH_Text0": "禺強之怒　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61073,
+"ZH_Text0": "禺強之怒　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61074,
+"ZH_Text0": "禺強之怒　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61075,
+"ZH_Text0": "禺強之怒　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61076,
+"ZH_Text0": "禺強之怒　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61077,
+"ZH_Text0": "禺強之怒　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Cường Chi Nộ 7",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61081,
+"ZH_Text0": "夕羽閃光　1", "Xiyu glitter" / Evening feather
+	
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 1",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61082,
+"ZH_Text0": "夕羽閃光　2",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 2",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61083,
+"ZH_Text0": "夕羽閃光　3",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 3",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61084,
+"ZH_Text0": "夕羽閃光　4",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 4",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61085,
+"ZH_Text0": "夕羽閃光　5",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 5",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61086,
+"ZH_Text0": "夕羽閃光　6",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 6",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61087,
+"ZH_Text0": "夕羽閃光　7",
+"ZH_Text1": "The whole team
+Reduced cooldown{cd}",
+"ZH_Text2": "",
+"CH_Text0": "Tịch Vũ Thiểm Quang 7",
+"CH_Text1": "Toàn đội 
+Thời gian hồi chiêu giảm bớt {CD}",
+"CH_Text2": ""
+},
+{
+"ID": 61091,
+"ZH_Text0": "七彩之風　1", seven color wind
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61092,
+"ZH_Text0": "七彩之風　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61093,
+"ZH_Text0": "七彩之風　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61094,
+"ZH_Text0": "七彩之風　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61095,
+"ZH_Text0": "七彩之風　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61096,
+"ZH_Text0": "七彩之風　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61097,
+"ZH_Text0": "七彩之風　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　 Sword gathering {sword}
+Support skills　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thất Thải Chi Phong 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61101,
+"ZH_Text0": "暴風之心　1", "Violent wind essence" heart
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　Critical Damage{crit}％　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạo Phong Chi Tâm 1",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}% S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 61102,
+"ZH_Text0": "暴風之心　2",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　Critical Damage{crit}％　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạo Phong Chi Tâm 2",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}% S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 61103,
+"ZH_Text0": "暴風之心　3",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　Critical Damage{crit}％　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạo Phong Chi Tâm 3",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}% S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 61104,
+"ZH_Text0": "暴風之心　4",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　Critical Damage{crit}％　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạo Phong Chi Tâm 4",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}% S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 61105,
+"ZH_Text0": "暴風之心　5",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Life drain{heal}％　Critical Damage{crit}％　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạo Phong Chi Tâm 5",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Hút máu {heal}% S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 61111,
+"ZH_Text0": "颶風招來　1", "storm wind" wave come hurricane
+"ZH_Text1": "weak point{bec}％　　１０段
+Primal Increase{spirit}　　　 Sword gathering {sword}
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cụ Phong Chiêu Lai 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 10 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61112,
+"ZH_Text0": "颶風招來　2",
+"ZH_Text1": "weak point{bec}％　　１０段
+Primal Increase{spirit}　　　 Sword gathering {sword}
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cụ Phong Chiêu Lai 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 10 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61113,
+"ZH_Text0": "颶風招來　3",
+"ZH_Text1": "weak point{bec}％　　１０段
+Primal Increase{spirit}　　　 Sword gathering {sword}
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cụ Phong Chiêu Lai 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 10 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61114,
+"ZH_Text0": "颶風招來　4",
+"ZH_Text1": "weak point{bec}％　　１０段
+Primal Increase{spirit}　　　 Sword gathering {sword}
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cụ Phong Chiêu Lai 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 10 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61115,
+"ZH_Text0": "颶風招來　5",
+"ZH_Text1": "weak point{bec}％　　１０段
+Primal Increase{spirit}　　　 Sword gathering {sword}
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cụ Phong Chiêu Lai 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 10 lần 
+Nguyên Linh gia tăng {spirit} Kiếm Trận gia tăng {Sword}
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 61121,
+"ZH_Text0": "元靈大流轉　1", great spirit flow
+"ZH_Text1": "The whole team
+Primal Increase{spirit}　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Đại Lưu Chuyển 1",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 61122,
+"ZH_Text0": "元靈大流轉　2",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Đại Lưu Chuyển 2",
+"CH_Text1": "Toàn đội
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 61123,
+"ZH_Text0": "元靈大流轉　3",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Đại Lưu Chuyển 3",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 61124,
+"ZH_Text0": "元靈大流轉　4",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Đại Lưu Chuyển 4",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 61125,
+"ZH_Text0": "元靈大流轉　5",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Linh Đại Lưu Chuyển 5",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 61131,
+"ZH_Text0": "血色寂靜　1", Scarlet Silence
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Huyết Sắc Tịch Tĩnh 1",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61132,
+"ZH_Text0": "血色寂靜　2",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Huyết Sắc Tịch Tĩnh 2",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61133,
+"ZH_Text0": "血色寂靜　3",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+ Sword gathering {sword}　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Huyết Sắc Tịch Tĩnh 3",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 61141, xxxxxxxxxxxxxxxxxxxxxxxxx
+"ZH_Text0": "濁氣之氛　1",unclear air / "Primal Qi Aura" /
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Trọc Khí Chi Phân 1",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61142,
+"ZH_Text0": "濁氣之氛　2",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Trọc Khí Chi Phân 2",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 61143,
+"ZH_Text0": "濁氣之氛　3",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Trọc Khí Chi Phân 3",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62001,
+"ZH_Text0": "Normalattack",
+"ZH_Text1": "weak point{bec}％　１段attack",
+"ZH_Text2": "",
+"CH_Text0": "Đánh thường",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần",
+"CH_Text2": ""
+},
+{
+"ID": 62011,
+"ZH_Text0": "流雪飛螢　1", "Flying snow" / flow snow fly firefly
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62012,
+"ZH_Text0": "流雪飛螢　2",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62013,
+"ZH_Text0": "流雪飛螢　3",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62014,
+"ZH_Text0": "流雪飛螢　4",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62015,
+"ZH_Text0": "流雪飛螢　5",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62016,
+"ZH_Text0": "流雪飛螢　6",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62017,
+"ZH_Text0": "流雪飛螢　7",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Tuyết Phi Huỳnh 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 62021,
+"ZH_Text0": "八方滅　1", Destroy eight directions
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62022,
+"ZH_Text0": "八方滅　2",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62023,
+"ZH_Text0": "八方滅　3",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62024,
+"ZH_Text0": "八方滅　4",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62025,
+"ZH_Text0": "八方滅　5",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62026,
+"ZH_Text0": "八方滅　6",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62027,
+"ZH_Text0": "八方滅　7",
+"ZH_Text1": "weak point{bec}％　４段 attack
+ Sword gathering {sword}　　
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bát Phương Diệt 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62031,
+"ZH_Text0": "巧手無痕　1", "shadowless clever" hand no mark array flexible
+"ZH_Text1": "weak point{bec}％　１段 attack 
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 1", Cunning Capital
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62032,
+"ZH_Text0": "巧手無痕　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62033,
+"ZH_Text0": "巧手無痕　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62034,
+"ZH_Text0": "巧手無痕　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62035,
+"ZH_Text0": "巧手無痕　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62036,
+"ZH_Text0": "巧手無痕　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62037,
+"ZH_Text0": "巧手無痕　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Xảo Thủ Vô Ngân 7", 
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62041,
+"ZH_Text0": "紅梅殘雪　1", red snow flower
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62042,
+"ZH_Text0": "紅梅殘雪　2",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62043,
+"ZH_Text0": "紅梅殘雪　3",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62044,
+"ZH_Text0": "紅梅殘雪　4",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62045,
+"ZH_Text0": "紅梅殘雪　5",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62046,
+"ZH_Text0": "紅梅殘雪　6",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62047,
+"ZH_Text0": "紅梅殘雪　7",
+"ZH_Text1": "weak point{bec}％　５段 attack
+Primal Increase{spirit}
+Drop defense２０％，１round　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồng Mai Tàn Tuyết 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Nguyên Linh gia tăng {spirit}
+Giảm phòng ngự 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62051,
+"ZH_Text0": "倏忽禁訣　1", "Ignoring Prohibit" Prosperous suddenly mortal  tactics การละเลย ความประมาท
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１４％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 1", absolutely
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62052,
+"ZH_Text0": "倏忽禁訣　2",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１５％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 2",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62053,
+"ZH_Text0": "倏忽禁訣　3",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１６％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 3",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62054,
+"ZH_Text0": "倏忽禁訣　4",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１７％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 4",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62055,
+"ZH_Text0": "倏忽禁訣　5",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１８％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 5",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62056,
+"ZH_Text0": "倏忽禁訣　6",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up１９％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 6",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62057,
+"ZH_Text0": "倏忽禁訣　7",
+"ZH_Text1": "The whole team
+Primal Increase{spirit}
+speed up２０％，３round　　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Cấm Quyết 7",
+"CH_Text1": "Toàn đội 
+Nguyên Linh gia tăng {spirit}
+Tăng tốc 14%, 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62061,
+"ZH_Text0": "羅煞返　1", Rebound evil spirit
+"ZH_Text1": "The whole team
+return damage４００％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 1",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 400%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62062,
+"ZH_Text0": "羅煞返　2",
+"ZH_Text1": "The whole team
+Rebound damage４５０％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 2",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 450%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62063,
+"ZH_Text0": "羅煞返　3",
+"ZH_Text1": "The whole team
+Rebound damage５００％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 3",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 500%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62064,
+"ZH_Text0": "羅煞返　4",
+"ZH_Text1": "The whole team
+Rebound damage５５０％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 4",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 550%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62065,
+"ZH_Text0": "羅煞返　5",
+"ZH_Text1": "The whole team
+Rebound damage６００％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 5",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 600%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62066,
+"ZH_Text0": "羅煞返　6",
+"ZH_Text1": "The whole team
+Rebound damage７００％，２round　
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 6",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 700%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62067,
+"ZH_Text0": "羅煞返　7",
+"ZH_Text1": "The whole team
+Rebound damage８００％，２round
+Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "La Sát Phản 7",
+"CH_Text1": "Toàn đội 
+Phản lại S.thương 800%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62071,
+"ZH_Text0": "山河穿　1", mountain river pass  "Destroy the mountains"
+"ZH_Text1": "weak point{bec}％　１段 attack　Primal Increase{spirit}
+Critical Damage{crit}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Hà Xuyên 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần Nguyên Linh gia tăng {spirit}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62072,
+"ZH_Text0": "山河穿　2",
+"ZH_Text1": "weak point{bec}％　１段 attack　Primal Increase{spirit}
+Critical Damage{crit}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Hà Xuyên 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần Nguyên Linh gia tăng {spirit}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62073,
+"ZH_Text0": "山河穿　3",
+"ZH_Text1": "weak point{bec}％　１段 attack　Primal Increase{spirit}
+Critical Damage{crit}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Hà Xuyên 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần Nguyên Linh gia tăng {spirit}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62074,
+"ZH_Text0": "山河穿　4",
+"ZH_Text1": "weak point{bec}％　１段 attack　Primal Increase{spirit}
+Critical Damage{crit}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Hà Xuyên 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần Nguyên Linh gia tăng {spirit}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62075,
+"ZH_Text0": "山河穿　5",
+"ZH_Text1": "weak point{bec}％　１段 attack　Primal Increase{spirit}
+Critical Damage{crit}％　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Hà Xuyên 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần Nguyên Linh gia tăng {spirit}
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62081,
+"ZH_Text0": "修羅殺　1", demon slayer
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Sát 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62082,
+"ZH_Text0": "修羅殺　2",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Sát 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62083,
+"ZH_Text0": "修羅殺　3",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Sát 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62084,
+"ZH_Text0": "修羅殺　4",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Sát 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62085,
+"ZH_Text0": "修羅殺　5",
+"ZH_Text1": "weak point{bec}％　５段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Tu La Sát 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 5 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62091,
+"ZH_Text0": "倏忽瞬影步　1", Suddenly Ignoring "Instant Step"
+"ZH_Text1": "The whole team
+speed up５００，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Thuấn Ảnh Bộ 1",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62092,
+"ZH_Text0": "倏忽瞬影步　2",
+"ZH_Text1": "The whole team
+speed up５００，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Thuấn Ảnh Bộ 2",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62093,
+"ZH_Text0": "倏忽瞬影步　3",
+"ZH_Text1": "The whole team
+speed up５００，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Thuấn Ảnh Bộ 3",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62094,
+"ZH_Text0": "倏忽瞬影步　4",
+"ZH_Text1": "The whole team
+speed up５００，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Thuấn Ảnh Bộ 4",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62095,
+"ZH_Text0": "倏忽瞬影步　5",
+"ZH_Text1": "The whole team
+speed up５００，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Thuấn Ảnh Bộ 5",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 62101,
+"ZH_Text0": "倏忽之心　1", Sudden Prosperous Heart "rapid essence"
+"ZH_Text1": "The whole team
+speed up５００，２round　
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Chi Tâm 1",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62102,
+"ZH_Text0": "倏忽之心　2",
+"ZH_Text1": "The whole team
+speed up５００，２round　
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Chi Tâm 2",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62103,
+"ZH_Text0": "倏忽之心　3",
+"ZH_Text1": "The whole team
+speed up５００，２round　
+Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Thúc Hốt Chi Tâm 3",
+"CH_Text1": "Toàn đội 
+Tăng tốc 500, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 62111,
+"ZH_Text0": "天地斷　1", cut earth and sky
+"ZH_Text1": "weak point{bec}％　１段 attack
+Use Primal Spirit to add {spiritdmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Địa Đoạn 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Use each point of Raw Spirit Spirit Bonus {spiritdmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62112,
+"ZH_Text0": "天地斷　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Địa Đoạn 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62113,
+"ZH_Text0": "天地斷　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Địa Đoạn 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62121,
+"ZH_Text0": "幻劍飛仙　1", unreal "immortal Flying Sword"
+"ZH_Text1": "one enemy　　　　　　１０段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Huyễn Kiếm Phi Tiên 1",
+"CH_Text1": "Đơn công - Tấn công 10 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62122,
+"ZH_Text0": "幻劍飛仙　2",
+"ZH_Text1": "one enemy　　　　　　１０段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Huyễn Kiếm Phi Tiên 2",
+"CH_Text1": "Đơn công - Tấn công 10 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 62123,
+"ZH_Text0": "幻劍飛仙　3",
+"ZH_Text1": "one enemy　　　　　　１０段 attack
+unleash the sword{sword}　　　each add {sworddmg}％
+Critical Damage{crit}％",
+"ZH_Text2": "",
+"CH_Text0": "Huyễn Kiếm Phi Tiên 3",
+"CH_Text1": "Đơn công - Tấn công 10 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương Chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63001,
+"ZH_Text0": "Normalattack",
+"ZH_Text1": "weak point{bec}％　１段attack",
+"ZH_Text2": "",
+"CH_Text0": "Đánh thường",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần",
+"CH_Text2": ""
+},
+{
+"ID": 63011,
+"ZH_Text0": "飲月　1", drink "swallow moon"
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 1", moist
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63012,
+"ZH_Text0": "飲月　2",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 2",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63013,
+"ZH_Text0": "飲月　3",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 3",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63014,
+"ZH_Text0": "飲月　4",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 4",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63015,
+"ZH_Text0": "飲月　5",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 5",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63016,
+"ZH_Text0": "飲月　6",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 6",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63017,
+"ZH_Text0": "飲月　7",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Ẩm Nguyệt 7",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%",
+"CH_Text2": ""
+},
+{
+"ID": 63021,
+"ZH_Text0": "回命針　1", time "life pin" needle  pierce
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２ turn Slow healing. remedy ",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 1",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63022,
+"ZH_Text0": "回命針　2",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 2",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63023,
+"ZH_Text0": "回命針　3",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 3",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63024,
+"ZH_Text0": "回命針　4",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 4",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63025,
+"ZH_Text0": "回命針　5",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 5",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63026,
+"ZH_Text0": "回命針　6",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 6",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63027,
+"ZH_Text0": "回命針　7",
+"ZH_Text1": "user - 　　　　　　　HP recovery　　
+Primal Increase{spirit}
+２round Heal slowly　remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Hồi Mệnh Châm 7",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Nguyên Linh gia tăng {spirit}
+2 lượt hồi máu từ từ. Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 63031,
+"ZH_Text0": "祕劍．追煞　1", "Secret Sword. hunt Evil" Chase Tracking 
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63032,
+"ZH_Text0": "祕劍．追煞　2",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63033,
+"ZH_Text0": "祕劍．追煞　3",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63034,
+"ZH_Text0": "祕劍．追煞　4",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63035,
+"ZH_Text0": "祕劍．追煞　5",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63036,
+"ZH_Text0": "祕劍．追煞　6",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63037,
+"ZH_Text0": "祕劍．追煞　7",
+"ZH_Text1": "weak point{bec}％　４段 attack　Primal Increase{spirit}　　　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bí Kiếm. Truy Sát 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 4 lần Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63041,
+"ZH_Text0": "殞兆　1", "annihilate" harbinger million die
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 1",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63042,
+"ZH_Text0": "殞兆　2",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 2",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63043,
+"ZH_Text0": "殞兆　3",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 3",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63044,
+"ZH_Text0": "殞兆　4",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 4",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63045,
+"ZH_Text0": "殞兆　5",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 5",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63046,
+"ZH_Text0": "殞兆　6",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 6",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63047,
+"ZH_Text0": "殞兆　7",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vẫn Triệu 7",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63051,
+"ZH_Text0": "劍舞流光　1", "blast Sword move" blast ray light
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63052,
+"ZH_Text0": "劍舞流光　2",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63053,
+"ZH_Text0": "劍舞流光　3",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63054,
+"ZH_Text0": "劍舞流光　4",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63055,
+"ZH_Text0": "劍舞流光　5",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63056,
+"ZH_Text0": "劍舞流光　6",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 6",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63057,
+"ZH_Text0": "劍舞流光　7",
+"ZH_Text1": "weak point{bec}％　３段 attack
+ Sword gathering {sword}　
+slow down ２０，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Lưu Quang 7",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 3 lần 
+Kiếm Trận gia tăng {Sword} 
+Giảm tốc 20, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63061,
+"ZH_Text0": "九針之術　1", "Nine-Tails skill", nine needle Of method
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 1",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63062,
+"ZH_Text0": "九針之術　2",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 2",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63063,
+"ZH_Text0": "九針之術　3",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 3",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63064,
+"ZH_Text0": "九針之術　4",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 4",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63065,
+"ZH_Text0": "九針之術　5",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 5",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63066,
+"ZH_Text0": "九針之術　6",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 6",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63067,
+"ZH_Text0": "九針之術　7",
+"ZH_Text1": "The whole team
+２round Heal slowly
+remedy 　Support skills",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châm Chi Thuật 7",
+"CH_Text1": "Toàn đội 
+Hồi máu từ từ , 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63071,
+"ZH_Text0": "殘陽　1", setting sun
+"ZH_Text1": "weak point{bec}％　２段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tàn Dương 1",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 2 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63072,
+"ZH_Text0": "殘陽　2",
+"ZH_Text1": "weak point{bec}％　２段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tàn Dương 2",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 2 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63073,
+"ZH_Text0": "殘陽　3",
+"ZH_Text1": "weak point{bec}％　２段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tàn Dương 3",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 2 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63074,
+"ZH_Text0": "殘陽　4",
+"ZH_Text1": "weak point{bec}％　２段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tàn Dương 4",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 2 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63075,
+"ZH_Text0": "殘陽　5",
+"ZH_Text1": "weak point{bec}％　２段 attack
+Primal Increase{spirit}　　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tàn Dương 5",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 2 lần 
+Nguyên Linh gia tăng {spirit}",
+"CH_Text2": ""
+},
+{
+"ID": 63081,
+"ZH_Text0": "劍舞寂靜　1", "silent Sword" isolation solitude Silence silent
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Tịch Tĩnh 1",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63082,
+"ZH_Text0": "劍舞寂靜　2",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Tịch Tĩnh 2",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63083,
+"ZH_Text0": "劍舞寂靜　3",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Tịch Tĩnh 3",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63084,
+"ZH_Text0": "劍舞寂靜　4",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Tịch Tĩnh 4",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63085,
+"ZH_Text0": "劍舞寂靜　5",
+"ZH_Text1": "one enemy　　　　　　　３段 attack
+unleash the sword{sword}　　　　each add {sworddmg}％
+Critical Damage{crit}％　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kiếm Vũ Tịch Tĩnh 5",
+"CH_Text1": "Đơn công - Tấn công 3 lần 
+Phát kiếm {Sword}, mỗi thanh S.thương tăng {Sworddmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63091,
+"ZH_Text0": "忌劍之舞　1",Cavalry envy "solitude Sword"  wield
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỵ Kiếm Chi Vũ 1",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63092,
+"ZH_Text0": "忌劍之舞　2",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỵ Kiếm Chi Vũ 2",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63093,
+"ZH_Text0": "忌劍之舞　3",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỵ Kiếm Chi Vũ 3",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63094,
+"ZH_Text0": "忌劍之舞　4",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỵ Kiếm Chi Vũ 4",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63095,
+"ZH_Text0": "忌劍之舞　5",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+each Spirit multiple{spiritdmg}％
+Critical Damage{crit}％　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỵ Kiếm Chi Vũ 5",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+S.thương chí mạng {crit}%",
+"CH_Text2": ""
+},
+{
+"ID": 63101,
+"ZH_Text0": "元剎天命　1", divine Destiny
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+Support skills　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Sát Thiên Mệnh 1",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63102,
+"ZH_Text0": "元剎天命　2",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+Support skills　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Sát Thiên Mệnh 2",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63103,
+"ZH_Text0": "元剎天命　3",
+"ZH_Text1": "one enemy　　　　　　　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+Support skills　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nguyên Sát Thiên Mệnh 3",
+"CH_Text1": "Đơn công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 63111,
+"ZH_Text0": "死之力．涅槃　1",deadly "death power. nibbana" The power of death. Nirvana force serenity nibbana
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+Primal Spirit damage increase {spiritdmg}％
+３％Burning  ，２round　　　　", injury
+"ZH_Text2": "",
+"CH_Text0": "Tử Chi Lực. Niết Bàn 1",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Thiêu đốt 3% HP, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63112,
+"ZH_Text0": "死之力．涅槃　2",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+３％Burning，２round　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tử Chi Lực. Niết Bàn 2",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Thiêu đốt 3% HP, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63113,
+"ZH_Text0": "死之力．涅槃　3",
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+Use Primal Spirit to multiply each Primal Spirit{spiritdmg}％
+３％Burning，２round　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tử Chi Lực. Niết Bàn 3",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}%
+Thiêu đốt 3% HP, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 63121,
+"ZH_Text0": "殺意劍　1", "Murderous intention" Killing slaughter Sword
+"ZH_Text1": "weak point{bec}％　７段 attack
+ Sword gathering {sword}　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Ý Kiếm 1", Murderous Sword
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 7 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 63122,
+"ZH_Text0": "殺意劍　2",
+"ZH_Text1": "weak point{bec}％　７段 attack
+ Sword gathering {sword}　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Ý Kiếm 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 7 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 63123,
+"ZH_Text0": "殺意劍　3",
+"ZH_Text1": "weak point{bec}％　７段 attack
+ Sword gathering {sword}　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Sát Ý Kiếm 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 7 lần 
+Kiếm Trận gia tăng {Sword}",
+"CH_Text2": ""
+},
+{
+"ID": 64001,
+"ZH_Text0": "Normalattack",
+"ZH_Text1": "weak point{bec}％　１段attack",
+"ZH_Text2": "",
+"CH_Text0": "Đánh thường",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần",
+"CH_Text2": ""
+},
+{
+"ID": 64011, xxxxxxxxxxxxxxxxxxxxxx
+"ZH_Text0": "巫舞．納川　1", Witch Dance cleansing river
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64012,
+"ZH_Text0": "巫舞．納川　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64013,
+"ZH_Text0": "巫舞．納川　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64014,
+"ZH_Text0": "巫舞．納川　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64015,
+"ZH_Text0": "巫舞．納川　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64016,
+"ZH_Text0": "巫舞．納川　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64017,
+"ZH_Text0": "巫舞．納川　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Life drain{heal}％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Vu Vũ. Nạp Xuyên 7",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64021,
+"ZH_Text0": "祀舞．冑炎　1", Worship dance protect
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 1", Treating Inflammation
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64022,
+"ZH_Text0": "祀舞．冑炎　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64023,
+"ZH_Text0": "祀舞．冑炎　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64024,
+"ZH_Text0": "祀舞．冑炎　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64025,
+"ZH_Text0": "祀舞．冑炎　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64026,
+"ZH_Text0": "祀舞．冑炎　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64027,
+"ZH_Text0": "祀舞．冑炎　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+Increase defense ２５％，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Tự Vũ. Trụ Viêm 7",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Tăng phòng ngự 25%, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64031,
+"ZH_Text0": "祈舞．食日　1", Prayer dance eclipse
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64032,
+"ZH_Text0": "祈舞．食日　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64033,
+"ZH_Text0": "祈舞．食日　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64034,
+"ZH_Text0": "祈舞．食日　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64035,
+"ZH_Text0": "祈舞．食日　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64036,
+"ZH_Text0": "祈舞．食日　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64037,
+"ZH_Text0": "祈舞．食日　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+Primal Increase{spirit}　
+evade boost　１００，２round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Kỳ Vũ. Thực Nhật 7",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit} 
+Né tránh tăng 100, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64041,
+"ZH_Text0": "慈悲天願　1", merciful heavens will
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 1",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64042,
+"ZH_Text0": "慈悲天願　2",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 2",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64043,
+"ZH_Text0": "慈悲天願　3",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 3",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64044,
+"ZH_Text0": "慈悲天願　4",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 4",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64045,
+"ZH_Text0": "慈悲天願　5",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 5",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64046,
+"ZH_Text0": "慈悲天願　6",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 6",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64047,
+"ZH_Text0": "慈悲天願　7",
+"ZH_Text1": "The whole team　　　　　　　HP recovery
+remedy 　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Từ Bi Thiên Nguyện 7",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giải độc",
+"CH_Text2": ""
+},
+{
+"ID": 64051,
+"ZH_Text0": "法舞．雷司　1", ruler principle dance thunder control
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64052,
+"ZH_Text0": "法舞．雷司　2",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64053,
+"ZH_Text0": "法舞．雷司　3",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64054,
+"ZH_Text0": "法舞．雷司　4",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64055,
+"ZH_Text0": "法舞．雷司　5",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64056,
+"ZH_Text0": "法舞．雷司　6",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 6",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64057,
+"ZH_Text0": "法舞．雷司　7",
+"ZH_Text1": "weak point{bec}％　１段 attack
+ Sword gathering {sword}　
+Hit boost６０，２round　",
+"ZH_Text2": "",
+"CH_Text0": "Pháp Vũ. Lôi Ti 7",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kiếm Trận gia tăng {Sword} 
+Tỉ lệ chính xác tăng 60, 2 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64061, xxxxxxxxxxxxxxxxxxxxx
+"ZH_Text0": "天舞．玄武　1", Sky Dance - Black turtle
+"ZH_Text1": "The whole team
+Attack Ineffective 3s
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 1",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64062,
+"ZH_Text0": "天舞．玄武　2",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 2",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64063,
+"ZH_Text0": "天舞．玄武　3",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 3",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64064,
+"ZH_Text0": "天舞．玄武　4",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 4",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64065,
+"ZH_Text0": "天舞．玄武　5",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 5",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64066,
+"ZH_Text0": "天舞．玄武　6",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 6",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64067,
+"ZH_Text0": "天舞．玄武　7",
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vũ. Huyền Vũ 7",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64071,
+"ZH_Text0": "祭舞．天憐　1", Sacrifice  dance - sky solace 
+"ZH_Text1": "weak point{bec}％　４段 attack
+each Spirit multiple{spiritdmg}％　
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thiên Liên 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 4 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}% 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64072,
+"ZH_Text0": "祭舞．天憐　2",
+"ZH_Text1": "weak point{bec}％　４段 attack
+each Spirit multiple{spiritdmg}％　
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thiên Liên 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 4 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}% 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64073,
+"ZH_Text0": "祭舞．天憐　3",
+"ZH_Text1": "weak point{bec}％　４段 attack
+each Spirit multiple{spiritdmg}％　
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thiên Liên 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 4 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}% 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64074,
+"ZH_Text0": "祭舞．天憐　4",
+"ZH_Text1": "weak point{bec}％　４段 attack
+each Spirit multiple{spiritdmg}％　
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thiên Liên 4",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 4 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}% 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64075,
+"ZH_Text0": "祭舞．天憐　5",
+"ZH_Text1": "weak point{bec}％　４段 attack
+each Spirit multiple{spiritdmg}％　
+Life drain{heal}％　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thiên Liên 5",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 4 lần 
+Sử dụng mỗi điểm Nguyên Linh S.thương tăng {spiritdmg}% 
+Hút máu {heal}%",
+"CH_Text2": ""
+},
+{
+"ID": 64081,
+"ZH_Text0": "命舞．朱雀　1", Life dance - red sparrow Vermilion Bird
+"ZH_Text1": "The whole team　HP recovery
+Injury reduction２０％，２round　
+remedy 　Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "Mệnh Vũ. Chu Tước 1",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giảm tổn thương 20%, 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64082,
+"ZH_Text0": "命舞．朱雀　2",
+"ZH_Text1": "The whole team　HP recovery
+Injury reduction２０％，２round　
+remedy 　Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "Mệnh Vũ. Chu Tước 2",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giảm tổn thương 20%, 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64083,
+"ZH_Text0": "命舞．朱雀　3",
+"ZH_Text1": "The whole team　HP recovery
+Injury reduction２０％，２round　
+remedy 　Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "Mệnh Vũ. Chu Tước 3",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giảm tổn thương 20%, 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64084,
+"ZH_Text0": "命舞．朱雀　4",
+"ZH_Text1": "The whole team　HP recovery
+Injury reduction２０％，２round　
+remedy 　Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "Mệnh Vũ. Chu Tước 4",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giảm tổn thương 20%, 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64085,
+"ZH_Text0": "命舞．朱雀　5",
+"ZH_Text1": "The whole team　HP recovery
+Injury reduction２０％，２round　
+remedy 　Support skills　",
+"ZH_Text2": "",
+"CH_Text0": "Mệnh Vũ. Chu Tước 5",
+"CH_Text1": "Toàn đội Hồi phục HP 
+Giảm tổn thương 20%, 2 lượt 
+Giải độc Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 64091,
+"ZH_Text0": "反轉乾坤　1", "reverse the Universe" Yin and Yang   Heaven and earth
+"ZH_Text1": "The whole team　
+Healing. HP５０％",
+"ZH_Text2": "",
+"CH_Text0": "Phản Chuyển Càn Khôn 1", Counter-Strike
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 50%",
+"CH_Text2": ""
+},
+{
+"ID": 64092,
+"ZH_Text0": "反轉乾坤　2",
+"ZH_Text1": "The whole team
+Healing. HP６０％",
+"ZH_Text2": "",
+"CH_Text0": "Phản Chuyển Càn Khôn 2",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 60%",
+"CH_Text2": ""
+},
+{
+"ID": 64093,
+"ZH_Text0": "反轉乾坤　3",
+"ZH_Text1": "The whole team
+Healing. HP７０％",
+"ZH_Text2": "",
+"CH_Text0": "Phản Chuyển Càn Khôn 3",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 70%",
+"CH_Text2": ""
+},
+{
+"ID": 64094,
+"ZH_Text0": "反轉乾坤　4",
+"ZH_Text1": "The whole team
+Healing. HP８５％",
+"ZH_Text2": "",
+"CH_Text0": "Phản Chuyển Càn Khôn 4",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 85%",
+"CH_Text2": ""
+},
+{
+"ID": 64095,
+"ZH_Text0": "反轉乾坤　5",
+"ZH_Text1": "The whole team
+Healing. HP１００％",
+"ZH_Text2": "",
+"CH_Text0": "Phản Chuyển Càn Khôn 5",
+"CH_Text1": "Toàn đội 
+Hồi máu. HP 100%",
+"CH_Text2": ""
+},
+{
+"ID": 64101,
+"ZH_Text0": "祭舞．十陽　1", "Sacrifice dance-ShiYang"
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　
+slow down ２０％，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thập Dương 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} 
+Giảm tốc 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64102,
+"ZH_Text0": "祭舞．十陽　2",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　
+slow down ２０％，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thập Dương 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} 
+Giảm tốc 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64103,
+"ZH_Text0": "祭舞．十陽　3",
+"ZH_Text1": "weak point{bec}％　３段 attack
+Primal Increase{spirit}　
+slow down ２０％，１round　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Tế Vũ. Thập Dương 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 3 lần 
+Nguyên Linh gia tăng {spirit} 
+Giảm tốc 20%, 1 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 64111,
+"ZH_Text0": "戰舞．神鼓　1", War dance God drum
+"ZH_Text1": "weak point{bec}％　８段 attack
+ Sword gathering {sword}　
+increase combo＋３％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Chiến Vũ. Thần Cổ 1",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 8 lần 
+Kiếm Trận gia tăng {Sword} 
+Mỗi lần liên kích S.thương tăng +3%",
+"CH_Text2": ""
+},
+{
+"ID": 64112,
+"ZH_Text0": "戰舞．神鼓　2",
+"ZH_Text1": "weak point{bec}％　８段 attack
+ Sword gathering {sword}　
+increase combo＋３％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Chiến Vũ. Thần Cổ 2",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 8 lần 
+Kiếm Trận gia tăng {Sword} 
+Mỗi lần liên kích S.thương tăng +4%",
+"CH_Text2": ""
+},
+{
+"ID": 64113,
+"ZH_Text0": "戰舞．神鼓　3",
+"ZH_Text1": "weak point{bec}％　８段 attack
+ Sword gathering {sword}　
+increase combo＋３％　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Chiến Vũ. Thần Cổ 3",
+"CH_Text1": "Quần công - Nhược điểm {bec}% - Tấn công 8 lần 
+Kiếm Trận gia tăng {Sword} 
+Mỗi lần liên kích S.thương tăng +5%",
+"CH_Text2": ""
+},
+{
+"ID": 65001,
+"ZH_Text0": "南斗神援LV1", south star Divine aid
+"ZH_Text1": "Deals 5600 damage", Deals 5600 damage
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Thần Viên LV1",
+"CH_Text1": "Gây ra 5600 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65002,
+"ZH_Text0": "南斗神援LV2",
+"ZH_Text1": "Deals 13500 damage",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Thần Viên LV2",
+"CH_Text1": "Gây ra 13500 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65003,
+"ZH_Text0": "南斗神援LV3",
+"ZH_Text1": "Deals 21667 damage",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Thần Viên LV3",
+"CH_Text1": "Gây ra 21667 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65004,
+"ZH_Text0": "南斗神援LV4",
+"ZH_Text1": "Deals 50000 damage",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đấu Thần Viên LV4",
+"CH_Text1": "Gây ra 50000 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65011, 
+"ZH_Text0": "傲狠神援LV1", Aohen Divine aid
+"ZH_Text1": "Deals 4050 damage，recovering entire team", recovering entire team
+"ZH_Text2": "",
+"CH_Text0": "Ngạo Ngoan Thần Viên LV1",
+"CH_Text1": "Gây ra 4050 S.thương, đồng thời hồi phục Toàn đội.",
+"CH_Text2": ""
+},
+{
+"ID": 65012,
+"ZH_Text0": "傲狠神援LV2",
+"ZH_Text1": "Deals 8400 damage，recovering entire team",
+"ZH_Text2": "",
+"CH_Text0": "Ngạo Ngoan Thần Viên LV2",
+"CH_Text1": "Gây ra 8400 S.thương, đồng thời hồi phục Toàn đội.",
+"CH_Text2": ""
+},
+{
+"ID": 65013,
+"ZH_Text0": "傲狠神援LV3",
+"ZH_Text1": "Deals 13500 damage，recovering entire team",
+"ZH_Text2": "",
+"CH_Text0": "Ngạo Ngoan Thần Viên LV3",
+"CH_Text1": "Gây ra 13500 S.thương, đồng thời hồi phục Toàn đội.",
+"CH_Text2": ""
+},
+{
+"ID": 65014,
+"ZH_Text0": "傲狠神援LV4",
+"ZH_Text1": "Deals 28350 damage，recovering entire team",
+"ZH_Text2": "",
+"CH_Text0": "Ngạo Ngoan Thần Viên LV4",
+"CH_Text1": "Gây ra 28350 S.thương, đồng thời hồi phục Toàn đội.",
+"CH_Text2": ""
+},
+{
+"ID": 65021,
+"ZH_Text0": "饕餮神援LV1", Taotie Divine aid
+"ZH_Text1": "Deals 24000 damage，recovering the whole team 3round",
+"ZH_Text2": "",
+"CH_Text0": "Thao Thiết Thần Viên LV1",
+"CH_Text1": "Gây ra 24000 S.thương, đồng thời hồi phục Toàn đội trong 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 65022,
+"ZH_Text0": "饕餮神援LV2",
+"ZH_Text1": "Deals 32000 damage，recovering the whole team 3round",
+"ZH_Text2": "",
+"CH_Text0": "Thao Thiết Thần Viên LV2",
+"CH_Text1": "Gây ra 32000 S.thương, đồng thời hồi phục Toàn đội trong 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 65023,
+"ZH_Text0": "饕餮神援LV3",
+"ZH_Text1": "Deals 126000 damage，recovering the whole team 3round",
+"ZH_Text2": "",
+"CH_Text0": "Thao Thiết Thần Viên LV3",
+"CH_Text1": "Gây ra 126000 S.thương, đồng thời hồi phục Toàn đội trong 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 65024,
+"ZH_Text0": "饕餮神援LV4",
+"ZH_Text1": "Deals 156000 damage，recovering the whole team 3round",
+"ZH_Text2": "",
+"CH_Text0": "Thao Thiết Thần Viên LV4",
+"CH_Text1": "Gây ra 156000 S.thương, đồng thời hồi phục Toàn đội trong 3 lượt",
+"CH_Text2": ""
+},
+{
+"ID": 65031,
+"ZH_Text0": "北斗神援LV1", North Star Divine aid
+"ZH_Text1": "Deals 60000 damage",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Đấu Thần Viên LV1",
+"CH_Text1": "Gây ra 60000 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65032,
+"ZH_Text0": "北斗神援LV2",
+"ZH_Text1": "Deals 150000 damage",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Đấu Thần Viên LV2",
+"CH_Text1": "Gây ra 150000 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65033,
+"ZH_Text0": "北斗神援LV3",
+"ZH_Text1": "Deals 200000 damage",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Đấu Thần Viên LV3",
+"CH_Text1": "Gây ra 200000 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 65034,
+"ZH_Text0": "北斗神援LV4",
+"ZH_Text1": "Deals 300000 damage",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Đấu Thần Viên LV4",
+"CH_Text1": "Gây ra 300000 S.thương",
+"CH_Text2": ""
+},
+{
+"ID": 66001,
+"ZH_Text0": "九藜之茅", "dried flower" frostbite
+"ZH_Text1": "Enemy　　　　　　　１段 attack
+attack down ２０％，２round
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Lê Chi Mao",
+"CH_Text1": "Quần công - Tấn công 1 lần 
+Giảm công 20%, 2 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 66002,
+"ZH_Text0": "神力解放", Divine liberation
+"ZH_Text1": "The whole team　　　　　　　必定先攻
+Sword skill and Primal damage doubled，１round
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Thần Lực Giải Phóng",
+"CH_Text1": "Toàn đội Sử dụng trước công  Whole team Use in advance
+Kiếm Trận cùng Nguyên Linh S.thương gấp bội, 1 lượt 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 67001,
+"ZH_Text0": "一箭穿雲", One arrow through clouds
+"ZH_Text1": "Enemy weakness {bec}％　１段 attack
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Nhất Tiễn Xuyên Vân",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 67002,
+"ZH_Text0": "巨石壓頂", stone crush
+"ZH_Text1": "Enemy weakness {bec}％　１段 attack
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cự Thạch Áp Đỉnh",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 67003,
+"ZH_Text0": "木之結界", "barricade forest"
+"ZH_Text1": "The whole team
+Attack Ineffective 3s　
+Support skills　　　",
+"ZH_Text2": "",
+"CH_Text0": "Mộc Chi Kết Giới",
+"CH_Text1": "Toàn đội 
+Miễn dịch S.thương trong 3s 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 67004,
+"ZH_Text0": "白虹貫日", "Sun halo" White Rainbow through Sun
+"ZH_Text1": "Enemy weakness {bec}％　１段 attack
+Primal Increase{spirit}
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Bạch Hồng Quán Nhật",
+"CH_Text1": "Đơn công - Nhược điểm {bec}% - Tấn công 1 lần 
+Nguyên Linh gia tăng {spirit}
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 67005,
+"ZH_Text0": "甘露之風", Nectar wind
+"ZH_Text1": "user - 　　　　　　　HP recovery
+Support skills　　　　　　　　　",
+"ZH_Text2": "",
+"CH_Text0": "Cam Lộ Chi Phong",
+"CH_Text1": "Đơn thể - Hồi phục HP 
+Kỹ năng Viện Hộ",
+"CH_Text2": ""
+}
+]

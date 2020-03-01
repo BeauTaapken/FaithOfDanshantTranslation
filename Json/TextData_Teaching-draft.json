@@ -1,0 +1,978 @@
+[
+{
+"ID": 370011,
+"ZH_Text0": "操作與提示",
+"ZH_Text1": "操作與提示",
+"ZH_Text2": "",
+"CH_Text0": "Control and tips",
+"CH_Text1": "Control and tips",
+"CH_Text2": ""
+},
+{
+"ID": 370012,
+"ZH_Text0": "任務資訊",
+"ZH_Text1": "任務資訊",
+"ZH_Text2": "",
+"CH_Text0": "Mission",
+"CH_Text1": "Mission Information",
+"CH_Text2": ""
+},
+{
+"ID": 370013,
+"ZH_Text0": "地點資訊",
+"ZH_Text1": "地點資訊",
+"ZH_Text2": "",
+"CH_Text0": "Location,
+"CH_Text1": "Location information",
+"CH_Text2": ""
+},
+{
+"ID": 370014,
+"ZH_Text0": "進行互動",
+"ZH_Text1": "進行互動",
+"ZH_Text2": "",
+"CH_Text0": "Interact",
+"CH_Text1": "Interact",
+"CH_Text2": ""
+},
+{
+"ID": 370015,
+"ZH_Text0": "儲存進度",
+"ZH_Text1": "儲存進度",
+"ZH_Text2": "",
+"CH_Text0": "Save",
+"CH_Text1": "Save progress",
+"CH_Text2": ""
+},
+{
+"ID": 370016,
+"ZH_Text0": "載入進度",
+"ZH_Text1": "載入進度",
+"ZH_Text2": "",
+"CH_Text0": "Load",
+"CH_Text1": "Loading progress",
+"CH_Text2": ""
+},
+{
+"ID": 370021,
+"ZH_Text0": "基礎介紹",
+"ZH_Text1": "基礎介紹",
+"ZH_Text2": "",
+"CH_Text0": "Basic introduction",
+"CH_Text1": "Basic introduction",
+"CH_Text2": ""
+},
+{
+"ID": 370022,
+"ZH_Text0": "【安置巫獵】",
+"ZH_Text1": "【安置巫獵】",
+"ZH_Text2": "",
+"CH_Text0": "【Place the Witch Hunt】",
+"CH_Text1": "【An Trí Vu Liệp】",
+"CH_Text2": "An Tri Vu Liep"
+},
+{
+"ID": 370023,
+"ZH_Text0": "【奇肱飛車】",
+"ZH_Text1": "【奇肱飛車】",
+"ZH_Text2": "",
+"CH_Text0": "【Odd Bracket】",
+"CH_Text1": "【Chiến Xa Kỳ Quăng】",
+"CH_Text2": "Chien Xa Ky Quang"
+},
+{
+"ID": 370024,
+"ZH_Text0": "【破除血陣】",
+"ZH_Text1": "【破除血陣】",
+"ZH_Text2": "",
+"CH_Text0": "【Bài trừ Huyết Trận】",
+"CH_Text1": "【Break blood】",
+"CH_Text2": "Elimination of Blood Battle"
+},
+{
+"ID": 370025,
+"ZH_Text0": "【逃離閶闔宮】",
+"ZH_Text1": "【逃離閶闔宮】",
+"ZH_Text2": "",
+"CH_Text0": "【Rời khỏi Xương Hạp Cung】",
+"CH_Text1": "【Escape from the palace】",
+"CH_Text2": "Roi khoi Xuong Hap Cung"
+},
+{
+"ID": 370026,
+"ZH_Text0": "【土伯之眼】",
+"ZH_Text1": "【土伯之眼】",
+"ZH_Text2": "",
+"CH_Text0": "【Thổ Bá Chi Nhãn】",
+"CH_Text1": "【Eye of Tho Ba - Earthlord]",
+"CH_Text2": ""
+},
+{
+"ID": 370027,
+"ZH_Text0": "【Strange Brachial】",
+"ZH_Text1": "【奇肱巨靈】",
+"ZH_Text2": "",
+"CH_Text0": "【United States Cu Linh】",
+"CH_Text1": "【Kỳ Quăng Cự Linh】",
+"CH_Text2": "Ky Quang Cu Linh" - Spirit
+},
+{
+"ID": 370028,
+"ZH_Text0": "【Chaotic erosion】",
+"ZH_Text1": "【混沌侵蝕】",
+"ZH_Text2": "",
+"CH_Text0": "【Corrosive Chaos】",
+"CH_Text1": "【Hon Don An Mon】",
+"CH_Text2": "corrosive gas"
+},
+{
+"ID": 370029,
+"ZH_Text0": "【前進寒荒】cold",
+"ZH_Text1": "【Advance into the famine】",
+"ZH_Text2": "",
+"CH_Text0": "【Go to Han Hoang】",
+"CH_Text1": "【Tiến đến Hàn Hoang】",
+"CH_Text2": "Tien den Han Hoang"
+},
+{
+"ID": 370030,
+"ZH_Text0": "【Start the mirror】",
+"ZH_Text1": "【啟動鏡星儀】",
+"ZH_Text2": "star wheel",
+"CH_Text0": "【Starts at Glass Boot】",
+"CH_Text1": "【Khởi động Kính Tinh Nghi】",
+"CH_Text2": ""
+},
+{
+"ID": 370031,
+"ZH_Text0": "商店NPC",
+"ZH_Text1": "商店NPC",
+"ZH_Text2": "",
+"CH_Text0": "NPC Store",
+"CH_Text1": "Cửa hàng NPC",
+"CH_Text2": ""
+},
+{
+"ID": 370032,
+"ZH_Text0": "戰備品",
+"ZH_Text1": "戰備品",
+"ZH_Text2": "",
+"CH_Text0": "War preparations",
+"CH_Text1": "Combat items",
+"CH_Text2": ""
+},
+{
+"ID": 370033,
+"ZH_Text0": "武器",
+"ZH_Text1": "武器",
+"ZH_Text2": "",
+"CH_Text0": "Weapons",
+"CH_Text1": "Vũ khí",
+"CH_Text2": ""
+},
+{
+"ID": 370034,
+"ZH_Text0": "靈魄",
+"ZH_Text1": "靈魄",
+"ZH_Text2": "",
+"CH_Text0": "Spirit",
+"CH_Text1": "Linh phách",
+"CH_Text2": ""
+},
+{
+"ID": 370041,
+"ZH_Text0": "基礎介紹",
+"ZH_Text1": "基礎介紹",
+"ZH_Text2": "",
+"CH_Text0": "Basic introduction",
+"CH_Text1": "Giới thiệu căn bản",
+"CH_Text2": ""
+},
+{
+"ID": 370042,
+"ZH_Text0": "神祇能力",
+"ZH_Text1": "神祇能力",
+"ZH_Text2": "Năng lực thần chỉ",
+"CH_Text0": "Oracle ability",
+"CH_Text1": "God power",
+"CH_Text2": ""
+},
+{
+"ID": 370051,
+"ZH_Text0": "隊伍",
+"ZH_Text1": "隊伍",
+"ZH_Text2": "",
+"CH_Text0": "Team",
+"CH_Text1": "Đội ngũ",
+"CH_Text2": ""
+},
+{
+"ID": 370052,
+"ZH_Text0": "敵我狀態",
+"ZH_Text1": "敵我狀態",
+"ZH_Text2": "",
+"CH_Text0": "enemy",
+"CH_Text1": "Enemy status",
+"CH_Text2": ""
+},
+{
+"ID": 370053,
+"ZH_Text0": "我方資訊",
+"ZH_Text1": "我方資訊",
+"ZH_Text2": "",
+"CH_Text0": "Our Information",
+"CH_Text1": "Tin tức phe ta",
+"CH_Text2": "Player Info"
+},
+{
+"ID": 370054,
+"ZH_Text0": "敵我位置",
+"ZH_Text1": "敵我位置",
+"ZH_Text2": "",
+"CH_Text0": "Foe position",
+"CH_Text1": "Position",
+"CH_Text2": ""
+},
+{
+"ID": 370055,
+"ZH_Text0": "敵物的區域攻擊",
+"ZH_Text1": "敵物的區域攻擊",
+"ZH_Text2": "Enemy's area attack",
+"CH_Text0": "Search area of the opponent",
+"CH_Text1": "Khu vực c.kích của đối thủ",
+"CH_Text2": "Area of the Enemy"
+},
+{
+"ID": 370056,
+"ZH_Text0": "進行攻擊",
+"ZH_Text1": "Carry out an attack",
+"ZH_Text2": "attack",
+"CH_Text0": "Tiến hành công kích",
+"CH_Text1": "Tiến hành công kích",
+"CH_Text2": "Conducting an offensive"
+},
+{
+"ID": 370057,
+"ZH_Text0": "戰備品與援護",
+"ZH_Text1": "War Preparations and Support",
+"ZH_Text2": "Support item",
+"CH_Text0": "Entertainment products, Household",
+"CH_Text1": "Vật phẩm c.đấu, Viện Hộ",
+"CH_Text2": ""
+},
+{
+"ID": 370058,
+"ZH_Text0": "敵物陣型",
+"ZH_Text1": "敵物陣型",
+"ZH_Text2": "Enemy formation",
+"CH_Text0": "Match the opponent",
+"CH_Text1": "Trận hình đối thủ",
+"CH_Text2": ""
+},
+{
+"ID": 370059,
+"ZH_Text0": "Combat mission",
+"ZH_Text1": "戰鬥任務",
+"ZH_Text2": "",
+"CH_Text0": "Fight mission",
+"CH_Text1": "Chiến đấu nhiệm vụ",
+"CH_Text2": ""
+},
+{
+"ID": 370060,
+"ZH_Text0": "Battle evaluation",
+"ZH_Text1": "戰鬥評價",
+"ZH_Text2": "",
+"CH_Text0": "Assessing the fight",
+"CH_Text1": "Đánh giá chiến đấu",
+"CH_Text2": ""
+},
+{
+"ID": 370061,
+"ZH_Text0": "Great God War",
+"ZH_Text1": "大神戰",
+"ZH_Text2": "",
+"CH_Text0": "War god",
+"CH_Text1": "Đại thần chiến",
+"CH_Text2": ""
+},
+{
+"ID": 370062,
+"ZH_Text0": "Support【Dasao】",
+"ZH_Text1": "援護【大羿】",
+"ZH_Text2": "Dasao's Technique",
+"CH_Text0": "Institute of Households【Dai Nghe】",
+"CH_Text1": "Viện Hộ【Đại Nghệ】",
+"CH_Text2": ""
+},
+{
+"ID": 370071,
+"ZH_Text0": "Move icon description-1",
+"ZH_Text1": "招式圖示說明-1",
+"ZH_Text2": "",
+"CH_Text0": "Actual voiceover 1",
+"CH_Text1": "H.ảnh thuyết minh C.thức 1",
+"CH_Text2": "Skill icon - [1]"
+},
+{
+"ID": 370072,
+"ZH_Text0": "Move icon description-2",
+"ZH_Text1": "招式圖示說明-2",
+"ZH_Text2": "",
+"CH_Text0": "Actual voiceover 2",
+"CH_Text1": "H.ảnh thuyết minh C.thức 2",
+"CH_Text2": "Skill icon - [2]"
+},
+{
+"ID": 370073,
+"ZH_Text0": "弱點系統",
+"ZH_Text1": "弱點系統",
+"ZH_Text2": "",
+"CH_Text0": "Weakness",
+"CH_Text1": "Weakness system",
+"CH_Text2": ""
+},
+{
+"ID": 370074,
+"ZH_Text0": "【弱點】與【傲狠】",
+"ZH_Text1": "【弱點】與【傲狠】",
+"ZH_Text2": "",
+"CH_Text0": "NhượcĐiểm với【NgạoNgoan】",
+"CH_Text1": "weakness and 【Arrogant】",
+"CH_Text2": "weakness - god [Aohen]"
+},
+{
+"ID": 370075,
+"ZH_Text0": "劍陣系統",
+"ZH_Text1": "劍陣系統",
+"ZH_Text2": "",
+"CH_Text0": "Sword skill",
+"CH_Text1": "Sword array system",
+"CH_Text2": ""
+},
+{
+"ID": 370076,
+"ZH_Text0": "【劍陣】與【南斗】",
+"ZH_Text1": "【劍陣】與【南斗】",
+"ZH_Text2": "",
+"CH_Text0": "KiếmTrận với【NamĐẩu】",
+"CH_Text1": "Sword skill and god 【Nandou】",
+"CH_Text2": ""
+},
+{
+"ID": 370077,
+"ZH_Text0": "元靈系統",
+"ZH_Text1": "元靈系統",
+"ZH_Text2": "",
+"CH_Text0": "Hệ thống Nguyên Linh",
+"CH_Text1": "Primal Spirit",
+"CH_Text2": ""
+},
+{
+"ID": 370078,
+"ZH_Text0": "【元靈】與【饕餮】",
+"ZH_Text1": "【元靈】與【饕餮】",
+"ZH_Text2": "",
+"CH_Text0": "NguyênLinh với【ThaoThiết】",
+"CH_Text1": "Primal Spirit & 【Taotie】",
+"CH_Text2": ""
+},
+{
+"ID": 370079,
+"ZH_Text0": "【北斗】",
+"ZH_Text1": "【北斗】",
+"ZH_Text2": "",
+"CH_Text0": "【Bắc Đẩu】",
+"CH_Text1": "special gods 【Beidou】",
+"CH_Text2": ""
+},
+{
+"ID": 370080,
+"ZH_Text0": "敵物與招式系統",
+"ZH_Text1": "敵物與招式系統",
+"ZH_Text2": "",
+"CH_Text0": "Enemies and Move",
+"CH_Text1": "Enemies and Move Systems",
+"CH_Text2": ""
+},
+{
+"ID": 370101,
+"ZH_Text0": "◆ 搖桿【左類比】，各方向移動。【右類比】，旋轉視角。【A】：跳躍。
+◆ 操作提示：位於主畫面右下方，常駐顯示，將顯示當前可進行操作的熱鍵資訊。
+◆ 提示訊息：位於主畫面中下方，每當有資訊更新時即會顯示。如角色加入離開、獲得物品金錢等等。",
+"ZH_Text1": "◆ 鍵盤【D、W、A、S】，各方向移動。滑鼠，旋轉視角。【space】：跳躍。
+◆ 操作提示：位於主畫面右下方，常駐顯示，將顯示當前可進行操作的熱鍵資訊。
+◆ 提示訊息：位於主畫面中下方，每當有資訊更新時即會顯示。如角色加入離開、獲得物品金錢等等。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Gamepad【L Stick】: Move. 【R Stick】: Rotation. 【A】: jump. 
+◆ Operation Tips: Located at the bottom right of the main screen, it is resident and will display the hot key information that can be operated currently. 
+◆ Prompt message: Located at the bottom of the main screen, it will be displayed whenever information is updated. Such as characters joining and leaving, gaining items, money, etc.",
+"CH_Text1": "◆ Keyboard【D, W, A, S】: Move. mouse - Rotation. 【Space】: jump. 
+◆ Tips: Located at the bottom right of the screen, it will display the hot key information. 
+◆ Message: Located at the bottom of the screen, it will be displayed whenever information is updated. Such as characters joining, gaining items, etc.",
+"CH_Text2": ""
+},
+{
+"ID": 370102,
+"ZH_Text0": "◆ 任務目標：位於主畫面右上方，常駐顯示，若目標有限時則會顯示剩餘時間。
+◆ 任務變更：位於主畫面中上方，每當任務承接與完成，即會顯示短暫時間後消失。
+◆ 隊伍對話：位於主畫面左下方，可透過角色對話內容獲取相關劇情與提示資訊。",
+"ZH_Text1": "◆ 任務目標：位於主畫面右上方，常駐顯示，若目標有限時則會顯示剩餘時間。
+◆ 任務變更：位於主畫面中上方，每當任務承接與完成，即會顯示短暫時間後消失。
+◆ 隊伍對話：位於主畫面左下方，可透過角色對話內容獲取相關劇情與提示資訊。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Mission objective: located at top right of the screen, remaining time will show if there is time limited. 
+◆ Task change: located at top of the screen, whenever the task is begin or complete, it will disappear after a short time. 
+◆ Team dialogue: located at bottom left of the screen. You can get information through the dialogue.",
+"CH_Text1": "◆ Mission objectives: located at the top right of the screen, if the objectives are limited, the remaining time is displayed. 
+◆ Task change: located at the top of the screen, whenever the task is undertaken and completed, it will disappear after a short time. 
+◆ Team dialogue: It is located at the bottom left of the screen. You can get relevant plot and information through the character dialogue.",
+"CH_Text2": ""
+},
+{
+"ID": 370103,
+"ZH_Text0": "◆ 目前地點：位於主畫面左上方，常駐顯示玩家所在地點名稱。
+◆ 前往地點：在場景特定位置，出現可前往另一地點的名稱標示。往名稱處前去，即可前往該地點。",
+"ZH_Text1": "◆ 目前地點：位於主畫面左上方，常駐顯示玩家所在地點名稱。
+◆ 前往地點：在場景特定位置，出現可前往另一地點的名稱標示。往名稱處前去，即可前往該地點。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Current location: displayed permanently at top left of the screen. 
+◆ Travel: Name sign will appear at specific location. Go to the name to travel to that place.",
+"CH_Text1": "◆ Current location: Located at the top left of the screen, displayed permanently. 
+◆ Go to place: At a specific location in the scene, a name sign appears. Go to the name to get to that place.",
+"CH_Text2": ""
+},
+{
+"ID": 370104,
+"ZH_Text0": "◆ 接近可互動的NPC、物件、特殊移動區域一定距離內，會有對應的顯示提示。進入可互動範圍後，搖桿【B】，即可進行互動。
+◆ 留意周遭環境與多進行探索，場景中有許多隱藏的互動地點，可取得更多的道具物品。",
+"ZH_Text1": "◆ 接近可互動的NPC、物件、特殊移動區域一定距離內，會有對應的顯示提示。進入可互動範圍後，搖桿【B】，即可進行互動。
+◆ 留意周遭環境與多進行探索，場景中有許多隱藏的互動地點，可取得更多的道具物品。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Within a certain distance from NPCs, objects, and special areas, there will be display prompts. After entering the interactive range, press [B] to interact. 
+◆ Pay attention to the surrounding environment and explore more. There are many hidden places in the scene to get more props and items.",
+"CH_Text1": "◆ Within a certain distance from NPCs, objects and special areas, there will be display prompts. Press [E] to interact. 
+◆ Pay attention to surrounding and explore more. There are many hidden places in the scene to get more items.",
+"CH_Text2": ""
+},
+{
+"ID": 370105,
+"ZH_Text0": "◆ 系統自動儲存進度：每當新的任務開始時，系統會自動儲存在自動存檔紀錄。
+◆ 手動儲存進度：與場景中的「金烏靈壺」互動後即可開啟進度儲存介面，可自行選擇儲存欄位使用。",
+"ZH_Text1": "◆ 系統自動儲存進度：每當新的任務開始時，系統會自動儲存在自動存檔紀錄。
+◆ 手動儲存進度：與場景中的「金烏靈壺」互動後即可開啟進度儲存介面，可自行選擇儲存欄位使用。",
+"ZH_Text2": "",
+"CH_Text0": "◆ The system automatically saves the progress: whenever a new task starts, the system will save. 
+◆ Manually save: After interact with the Jin Wu Ling Pot, you can save manually .",
+"CH_Text1": "◆ The system automatically saves the progress: whenever a new task starts, the system will automatically save it. 
+◆ Manually save: After interacting with the Jin Wu Ling Pot in the scene, you can open the progress storage, and you can choose the storage field to use it.",
+"CH_Text2": ""
+},xxxxxxxxxxxxxxxxxxx 00 33 00 37 00 30 00 31 00 30 00 36 00 2C
+{
+"ID": 370106,
+"ZH_Text0": "◆ 載入進度：於系統選單的「設定」頁中，可選擇載入自動儲存與手動儲存進度。",
+"ZH_Text1": "◆ 載入進度：於系統選單的「設定」頁中，可選擇載入自動儲存與手動儲存進度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Loading: On settings of the system menu, you can choose to load the automatic save or manual save.",
+"CH_Text1": "◆ Loading progress: On the Settings of the system menu, you can choose to load the automatic or manual saving progress.",
+"CH_Text2": ""
+},
+{
+"ID": 370201,
+"ZH_Text0": "◆ 冒險任務會有專屬的達成數值，主要分為將數值提升與避免數值降低兩種形式。
+◆ 冒險任務開始時，主畫面中上方，會顯示專屬數值，過程中每當有數值的變化即會顯示於此。
+◆ 變更系統設定中的「難度設置」，也會影響部分冒險任務的難易度。
+◆ 要特別注意某些冒險任務期間是無法進行儲存進度的。",
+"ZH_Text1": "◆ 冒險任務會有專屬的達成數值，主要分為將數值提升與避免數值降低兩種形式。
+◆ 冒險任務開始時，主畫面中上方，會顯示專屬數值，過程中每當有數值的變化即會顯示於此。
+◆ 變更系統設定中的「難度設置」，也會影響部分冒險任務的難易度。
+◆ 要特別注意某些冒險任務期間是無法進行儲存進度的。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Adventure missions will have their own achieved values, which are divided into two: increasing the value and avoiding the decrease. 
+◆ At the beginning of mission, the value will be displayed at top of the screen, if there is a change, it will be displayed here. 
+◆ Changing the difficulty in the settings will also affect the difficulty of some adventure missions. 
+◆ Pay attention to the inability to save during certain missions.",
+"CH_Text1": "◆ Adventure missions will have their own achieved values, which are divided into two: increasing the value and avoiding the decrease. 
+◆ At the beginning of adventure mission, the value will be displayed at top of the screen, and whenever there is a change, it will be displayed here. 
+◆ Changing the difficulty in the settings will also affect the difficulty of some adventure missions. 
+◆ Pay attention to the inability to save during certain adventure missions.",
+"CH_Text2": ""
+},
+{
+"ID": 370202,
+"ZH_Text0": "◆ 需避免被守夜人撞見，若不幸被發現，則任務失敗！
+◆ 多留意村中是否有神靈或動物朋友，也許他們可以提供適時的幫助。
+◆ 可使用場景中有指標的地點來躲藏，躲藏後可轉動鏡頭觀察，待守夜人遠離後再行動。",
+"ZH_Text1": "◆ 需避免被守夜人撞見，若不幸被發現，則任務失敗！
+◆ 多留意村中是否有神靈或動物朋友，也許他們可以提供適時的幫助。
+◆ 可使用場景中有指標的地點來躲藏，躲藏後可轉動鏡頭觀察，待守夜人遠離後再行動。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Avoid being caught by the night watchers, if discovered, the mission will fail!
+◆ Additional note in the village sometimes the Spirit or the companion can provide assistance.
+◆ You can use hidden places in the map, then change the direction to observe, wait for the watchmen to leave.",
+"CH_Text1": "◆ Tránh bị thôn dân gác đêm bắt gặp, nếu không may bị phát hiện thì nhiệm vụ sẽ thất bại! 
+◆ Lưu ý thêm trong thôn đôi khi có Thần Linh hoặc động vật bằng hữu có thể cung cấp các trợ giúp cần thiết. 
+◆ Có thể sử dụng những địa điểm ẩn núp chỉ định trong map, sau đó chuyển hướng để quan sát, đợi thôn dân gác đêm rời xa rồi lại tiếp tục hành động.",
+"CH_Text2": ""
+},
+{
+"ID": 370203,
+"ZH_Text0": "◆ 過程中要注意地面閃躲轟炸外，也需留意燃燒的火焰。
+◆ The first stage: dodge the bombing for a certain period of time, and go to the guest house as soon as possible.
+◆ The second stage: when heading to the guest house to encounter obstacles, observe the surroundings more, you can try to jump to find a moving line.
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text1": "◆ 過程中要注意地面閃躲轟炸外，也需留意燃燒的火焰。
+◆ 第一階段：在封閉區域一定時間內閃躲轟炸，一但脫困後盡快前往客舍。
+◆ 第二階段：當前往客舍遭遇阻擋去路，多觀察周遭，可嘗試跳躍找出可前進的動線。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ While taking action pay attention to the ground to avoid being bombarded by artillery and surrounding hot fire.
+◆ First: dodge the bombing for a certain period of time, and go to safe place as soon as possible.
+◆ Second: On the way to safe place, if encounter with a person, observing the surrounding, try to find the next route.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Trong khi hành động phải chú ý mặt đất để tránh bị đạn pháo oanh tạc, cũng cần lưu ý né tránh lửa nóng xung quanh. 
+◆ Giai đoạn thứ nhất: Tại khu vực phong bế trong thời gian nhất định né tránh oanh tạc, sau khi thoát được thì mau chóng tiến về khách sạn. 
+◆ Giai đoạn thứ hai: Trên đường đi khách sạn nếu gặp người cản đường, quan sát tình hình xung quanh, thử nhảy lên để tìm lộ tuyến đi tiếp. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370204,  33 00 37 00 30 00 32 00 30 00 34
+"ZH_Text0": "◆ While traveling in the formation method, it will be eroded by the blood array and inhaled by essence gas.。
+◆ 要注意身上血氣的變化，若持續遭受血陣侵蝕，暴露出行蹤後，邪物則會由天降下襲擊。
+◆ Properly observe the fire light on the course, go to the position, defeat it, and then break the array.
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text1": "◆ 在陣法中行進時會受血陣侵蝕，遭吸食精氣，而有火光的盆架可以除去血陣影響。
+◆ 要注意身上血氣的變化，若持續遭受血陣侵蝕，暴露出行蹤後，邪物則會由天降下襲擊。
+◆ 妥善觀察行徑上的火光明滅，前往陣眼位置，將之擊敗，方能破陣。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ While traveling, the player will fall into corrosive Chaos, approaching fire to reduce the effects.
+◆ pay attention to the transformation, being corroded for too long will be leading to ambush.
+◆ Observe the light on the course, go to the position, defeat it.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Dưới ảnh hưởng của trận pháp người chơi sẽ liên tục rơi vào trạng thái bị ăn mòn huyết khí, đến gần hỏa bồn để có thể tạm thời giảm bớt ảnh hưởng của huyết trận. 
+◆ Phải chú ý biến hóa của huyết khí bản thân, bị ăn mòn khí huyết quá lâu sẽ bị lộ hành tung dẫn đến việc bị tà vật tập kích. 
+◆ Quan sát quầng sáng để tiến về vị trí trận nhãn, đánh bại tà vật trấn thủ trận nhãn mới có thể phá trận. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370205,
+"ZH_Text0": "◆ You need to memorize the direction (absolute direction) that the Holy Beast represents, and follow the correct direction to advance safely.。
+◆ If you go wrong and lose your position, you will return to the original position of Lost.
+◆ When encountering failures, pay attention to the totems encountered, and the streamer will give directions.
+◆ You can change the difficulty setting in the system settings to change the difficulty of this adventure mission.",
+"ZH_Text1": "◆ 需熟記聖獸所代表指引的方位（絕對方位），依照正確的方位才能安然前進。
+◆ 若走錯迷失了方位，將會回到迷陣初始之位。
+◆ 當遭遇失敗時，留意遭遇過的圖騰，流光將會給予指引提示。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ You need to memorize direction that the Holy Beasts represents, follow the direction to safety.
+◆ If you go in the wrong direction, you will return to starting point.
+◆ When you fail, search the totems. it show directions.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Cần nhớ kỹ phương vị mà các Thánh Thú đã chỉ dẫn, đi theo chính xác các hướng đã được gợi ý mới có thể tiến lên. 
+◆ Nếu đi nhầm phương hướng sẽ trở lại vị trí ban đầu của mê trận. 
+◆ Khi gặp thất bại, lưu ý tìm kiếm xung quanh sẽ có chỉ dẫn nhắc nhở. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370206,
+"ZH_Text0": "◆ Everyone enters the underground to search for Qiqi Emperor, and the guardian of the place, Tubo, will relentlessly use his magic eyes to evaporate all foreigners！
+◆ It is necessary to move carefully in the Tubo territory, make good use of shelters to avoid Tubo's inspection, find the lost partner, and the whereabouts of Yiqi Emperor.
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text1": "◆ 大夥進入地底不周山找尋伊祁帝，而該地守護者「土伯」，會無情的用其魔眼，蒸發一切的外來者！
+◆ 在土伯領地中需小心移動，善用遮蔽物來躲避土伯的視察，找到失散夥伴，以及伊祁帝的下落。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Entered the underground to search for Emperor YiQi, the guardian "Tho ba - Earthlord" will use magic eyes to evaporate all those who come from outside.! 
+◆ In the underground, move carefully, use the corner or cover to avoid Earthlord's eyes, find the lost companion and the Emperor YiQi.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Đoàn người tiến vào lòng đất Bất Chu Sơn để tìm kiếm Y Kỳ Đế, thủ hộ giả nơi đó “Thổ bá“ có thể dùng ma nhãn làm bốc hơi toàn bộ những kẻ đến từ bên ngoài! 
+◆ Bên trong lãnh địa của Thổ bá cần cẩn thận di chuyển, cố gắng dùng góc khuất hoặc vật che để tránh né ánh mắt của Thổ bá, từ đó tìm ra đồng bạn thất lạc và nơi Y Kỳ Đế mất tích. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370207,
+"ZH_Text0": "◆ The strange brachial giant moves forward and pounds the inner city, and defeating it can temporarily paralyze the giant spirit and stop moving forward.
+◆ For a limited time, try to delay the giants to enter the inner city and rescue the sergeants and people in the outer city.
+◆ During the rescue, pay attention to whether the paralyzed strange brachial giant spirit is advancing again. ",
+"ZH_Text1": "◆ 奇肱巨靈進逼直搗內城，將之擊敗可使巨靈暫時癱瘓停止前進。
+◆ 在有限的時間內，盡力拖延巨靈進入內城，救援在外城中的軍士與百姓。
+◆ 救援期間要留意癱瘓的奇肱巨靈是否又再次前進。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Cu Linh's arm is approaching the inner city, defeating it can make Cu Linh(the giant spirit) paralyzed.
+◆ For a limited time, keep Cu Linh from moving, saving soldiers and people in the city.
+◆ During the rescue, pay attention to Cu Linh movement.",
+"CH_Text1": "◆ Kỳ quăng Cự Linh đang áp sát tiến đánh nội thành, đánh bại nó có thể làm cho Cự Linh tạm thời tê liệt, đình chỉ tiến lên. 
+◆ Trong thời gian có hạn, cố gắng cầm chân Cự Linh tiến vào nội thành, cứu viện quân sĩ cùng bách tính trong ngoài thành. 
+◆ Trong lúc cứu viện lưu ý tới việc kỳ quăng Cự Linh đã tê liệt sẽ phục hồi hành động.",
+"CH_Text2": ""
+},
+{
+"ID": 370208,
+"ZH_Text0": "◆ Attention should be paid to the chaotic energy of walking, and to avoid being touched by chaos when moving, otherwise chaos erodes the soul, and the soul is scattered.。
+◆ When trapped, keep an eye on the doors around you and allow new routes.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"ZH_Text1": "◆ 要注意觀察游走的混沌能量，移動間要避免遭混沌觸碰，否則混沌侵蝕心靈，則魂飛魄散。
+◆ 當受困時，留意周遭的房門，也許可開啟新的路線。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Attention to the chaotic energy, avoid being touched by it. It will corroded the Spirit leading to the dispersal of the soul.
+◆ When trapped, keep an eye on the surrounding and follow new route.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Phải chú ý quan sát năng lượng Hỗn Độn trôi nổi, vừa di chuyển vừa tránh bị nó đụng vào, nếu không sẽ bị Hỗn Độn ăn mòn tâm linh dẫn đến việc hồn phi phách tán. 
+◆ Khi bị mắc kẹt, chú ý các cánh cửa xung quanh, nó có thể dẫn mở ra đường đi mới. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370209,
+"ZH_Text0": "◆ Need to avoid being discovered by the Frigid Defenders, if unfortunately found, it will lead to disputes。
+◆ You can use indicators or terrain in the scene to hide and avoid being discovered by the defenders。
+◆ You need to observe the movement of the defenders on the road. If you are stunned from the back of the defenders, you can avoid doing it.。
+◆ You can change the difficulty setting in the system settings to change the difficulty of this adventure mission.",
+"ZH_Text1": "◆ 需避免被寒荒守軍發現，若不幸被發現，則會引發爭端。
+◆ 可使用場景中有指標的物件或地形躲藏，避免被守軍發現。
+◆ 需觀察路上守軍的動向，若從守軍背後將之擊暈，亦可避免干戈。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Avoid being discovered by HanHoang guards, if discovered, it will lead to a dispute.
+◆ Use objects or terrain to hide, avoid being detected.
+◆ Watch guard's movements, stun from behind to avoid trouble.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ Cần tránh bị lính gác Hàn Hoang phát hiện, nếu không may bị phát hiện sẽ dẫn đến việc xảy ra tranh chấp. 
+◆ Có thể sử dụng vật dụng hoặc địa hình để ẩn núp, tránh cho bị lính gác phát hiện. 
+◆ Cần quan sát cử động của lính tuần trên đường, có thể kích choáng từ phía sau quân lính để tránh gặp phải rắc rối. 
+◆ Có thể mở giao diện thiết lập game, chuyển đến mục “Thiết lập độ khó“ để thay đổi độ khó nhiệm vụ mạo hiểm.",
+"CH_Text2": ""
+},
+{
+"ID": 370210,
+"ZH_Text0": "◆ To use the star ring ring, the keyboard [left analogy] rotates the mirror star instrument, so that the ring light and the star light point overlap, and the power of the star can be dissipated.。
+◆ Each star's light spot will gradually expand, if it is too large, it will be out of balance and needs to be repeated.
+◆ There are three stages of testing required to complete the start of the spectroscope.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"ZH_Text1": "◆ 要使用星輪指環，鍵盤【D、W、A、S】轉動鏡星儀，讓指環光芒與星辰光點重疊，即可消散星辰之力。
+◆ 每個星辰光點會逐漸擴大，若過大時則會失衡，需重新來過。
+◆ 要完成啟動鏡星儀需要通過三個階段的考驗。
+◆ 可變更系統設定中的「難度設置」，變更此冒險任務的難易度。",
+"ZH_Text2": "",
+"CH_Text0": "◆ To use the star wheel, [left Stick] rotates the mirror, so that the ring and the star light overlap, so power of the star can be dissipated. 
+◆ The light of star will slowly expand, if too large, it will lose balance, need to do it again.
+◆ There are three stages of test to complete.
+◆ You can open the game setup, go to "Difficulty setting" to change the difficulty. ",
+"CH_Text1": "◆ To use the star wheel, [D, W, A, S] rotates the mirror, so that the ring and the star light overlap, so power of the star can be dissipated. . 
+◆ Each optical crystal will slowly expand, if too large, it will lose balance, need to do it again.
+◆ There are three stages of test to complete the mirroring instrument. 
+◆ You can change the difficulty setting in the system settings to change the difficulty of this adventure mission.",
+"CH_Text2": ""
+},
+{
+"ID": 370301,
+"ZH_Text0": "◆ There is a special icon on the head of the NPC with a store function. After interacting with it, the store can be opened for product transactions.",
+"ZH_Text1": "◆ 有商店功能的NPC頭上會有專屬的圖示，與其互動後即可開啟商店進行商品交易。",
+"ZH_Text2": "",
+"CH_Text0": "◆ NPCs with symbols can conduct transactions, interact with the NPC to open a trading.",
+"CH_Text1": "◆ Những NPC có biểu tượng đặc thù thì có thể tiến hành giao dịch, tương tác với NPC để mở ra giao diện mua bán thương phẩm.",
+"CH_Text2": ""
+},
+{
+"ID": 370302,
+"ZH_Text0": "◆ 「War preparations」Type items can be used in battle. You can set items in the item interface that you want to use on the battlefield.",
+"ZH_Text1": "◆ 「戰備品」類型物品是可以在戰鬥中使用的，可在物品介面中設置欲在戰場中使用的戰備品。",
+"ZH_Text2": "",
+"CH_Text0": "◆ “Combat items“ is items used in battle, need to install the item you want to use on the battlefield.",
+"CH_Text1": "◆ “Vật phẩm chiến đấu“ là loại vật phẩm có thể sử dụng trong khi đang chiến đấu, cần cài đặt vật phẩm muốn dùng tại giao diện vật phẩm.",
+"CH_Text2": ""
+},
+{
+"ID": 370303,
+"ZH_Text0": "◆ In the equipment interface, each protagonist can be equipped with two weapons of the main and deputy, and can set favorite moves and spirits on the weapons.",
+"ZH_Text1": "◆ 在裝備介面中，每位主角可裝備主副手兩把武器，並可在武器上設置喜好的招式與靈魄。",
+"ZH_Text2": "",
+"CH_Text0": "◆ In the equipment menu, character can use 2 weapons, main and secondary weapon, need to set up the moves and spirit to suit each weapon.",
+"CH_Text1": "◆ Trong giao diện trang bị, mỗi nhân vật có thể sử dụng hai tay hai thanh vũ khí chính và phụ, đồng thời cần thiết lập chiêu thức cùng linh phách phù hợp với mỗi vũ khí.",
+"CH_Text2": ""
+},
+{
+"ID": 370304,
+"ZH_Text0": "◆ Defeating an enemy in the battlefield may get its soul. In the equipment menu, you can enter the equipment to gain spiritual attributes.",
+"ZH_Text1": "◆ 戰場中擊敗敵物即有可能獲得其專屬的靈魄。在裝備介面中，可崁入裝備之中，獲得靈魄上的屬性能力。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Defeat enemy in the battlefield may get its soul. In the equipment menu, you can use it to gain spiritual attributes.",
+"CH_Text1": "◆ Trong chiến trường đánh bại đối thủ thì có khả năng thu hoạch được linh phách tương ứng. Trong giao diện trang bị, nếu khảm vào trong trang bị sẽ thu được thuộc tính năng lực của linh phách.",
+"CH_Text2": ""
+},
+{xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+"ID": 370401, 33 00 37 00 30 00 34 00 30 00 31
+"ZH_Text0": "◆ Sacrifice: sacrifice items obtained can be sacrificed to god to increase its level and get the blessed sand。
+◆ Jiu Li Ding: Various types of equipment and props can be strengthened, each god has a different strengthening direction。
+◆ Divine Artifact: Can create more powerful equipment, and promote hero's moves.",
+"ZH_Text1": "◆ 獻祭：獲得的各種獻祭物品，可在此獻予神祇，提升其等級，並可獲得神佑之沙。
+◆ 九藜鼎：可對各種類型的裝備、道具進行強化，每位神祇有不同的強化方向。
+◆ 神之器：可製造出更強大的裝備、道具，以及對各主角招式的提升。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Hien te (Sacrifice): When obtaining the sacrificial items, it can be sacrificed to the god just to increase the level and get the blessed sand. 
+◆ Jiu Li Ding (Nine Peaks): Can be used to enhance all equipment, each god has a different strengthening. 
+◆ Than chi khi (Divine Artifact): Can create more powerful equipment, props, and promotion of each hero's moves.",
+"CH_Text1": "◆ Hiến tế: Khi lấy được các loại vật phẩm hiến tế có thể hiến cho thần chỉ để tăng level, đồng thời từ đó có thể thu lại được thần cát. 
+◆ Cửu lê đỉnh: Có thể dùng để cường hóa các loại vật phẩm đạo cụ, mỗi vị thần chỉ có thể cường hóa được các loại vật phẩm khác nhau. 
+◆ Thần chi khí: Dùng chế tác ra trang bị, đạo cụ cường đại hơn, cùng với đó có thể học hoặc tăng level từng kỹ năng của mỗi nhân vật.",
+"CH_Text2": ""
+},
+{
+"ID": 370402,
+"ZH_Text0": "◆ Each god can bring two types of powers, one is to enhance the move, and the other is skill that player can summon the gods to battle.",
+"ZH_Text1": "◆ 每位神祇可帶來兩項能力，其一為增強招式系統，其二為在戰鬥中玩家可透過對應的攻擊系統召喚神祇登場。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Each god can only bring two types of powers, one is the passive ability that increases the power of the system moves (Sword Battle, Nguyen Linh), the second is the active skill: The player has through the corresponding tactics to summon the gods to aid attack. ",
+"CH_Text1": "◆ Each god can bring two types of powers, one is to enhance the move, and the other is skill that player can summon the gods to battle.",
+"CH_Text2": ""
+},
+{
+"ID": 370501,
+"ZH_Text0": "◆ Battle settings: In the team interface, you can set the role of battle。
+◆ Support settings: If there are more than three members in the team, you can set the role of battle support in the team interface, and the role must be set up with support moves.",
+"ZH_Text1": "◆ 出戰設置：在隊伍介面中可設置戰鬥出戰的角色。
+◆ 援護設置：若隊伍成員超過三人，可在隊伍介面中可設置戰鬥援護的角色，且該角色必需要有援護招式才可設置。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Battle settings: In the team menu, you can set the role of each characters. 
+◆ Support settings: If there are more than three in the team, you can set the role of battle support in the team menu, and the role must be set up with support moves.",
+"CH_Text1": "◆ Thiết lập xuất chiến: Trong giao diện đội ngũ thiết lập nhân vật xuất chiến. 
+◆ Thiết lập Viện Hộ: Nếu thành viên trong đội ngũ vượt quá ba người, trong giao diện đội ngũ có thể thiết lập nhân vật dưới dạng Viện Hộ chiến đấu, nhân vật viên hộ cần phải có chiêu thức Viện Hộ mới có thể thiết lập.",
+"CH_Text2": ""
+},
+{
+"ID": 370502,
+"ZH_Text0": "◆ Our status: The bottom left of the screen shows the health of the character. Below the health is the character's current status.。
+◆ Enemy status: The selected enemy will display its health, and status is above the health.。
+◆ Joystick [LB, RB], choose character. [Left Analogy], choose target.",
+"ZH_Text1": "◆ 我方狀態：畫面左下顯示出戰角色的生命值，生命值下方為角色目前的增益與減益狀態。
+◆ 敵物狀態：所選擇到的敵方角色會顯示其生命值，生命值上方為其目前的增益與減益狀態。
+◆ The keyboard [Q, E] choose character. [← →], choose target.",
+"ZH_Text2": "",
+"CH_Text0": "◆ Trạng thái bên ta: Hình tượng phía dưới bên trái cho thấy HP nhân vật, dưới thanh HP là trạng thái được gia trì (buff) hoặc giảm ích (debuff) của nhân vật đó. 
+◆ Trạng thái đối thủ: Lựa chọn nhân vật phe địch sẽ hiển thị HP, trên thanh HP là trạng thái tăng thêm cùng giảm ích hiện tại. 
+◆ Tay cầm【LB, RB】, Can choose the character beside us.【Cần gạt trái】, có thể lựa chọn nhân vật địch quân.",
+"CH_Text1": "◆ Trạng thái bên ta: Hình tượng phía dưới bên trái cho thấy HP nhân vật, dưới thanh HP là trạng thái được gia trì (buff) hoặc giảm ích (debuff) của nhân vật đó. 
+◆ Trạng thái đối thủ: Lựa chọn nhân vật phe địch sẽ hiển thị HP, trên thanh HP là trạng thái tăng thêm cùng giảm ích hiện tại. 
+◆ Bàn phím【Q, E】, có thể lựa chọn nhân vật bên ta.【←→】, có thể lựa chọn nhân vật địch quân.",
+"CH_Text2": ""
+},
+{
+"ID": 370503,
+"ZH_Text0": "◆ 戰場中我方行動階段，且沒有角色進行動作時，搖桿【Left Stick】下壓單擊，可開啟與關閉顯示招式、戰備品、援護的相關資訊。",
+"ZH_Text1": "◆ 戰場中我方行動階段，且沒有角色進行動作時，鍵盤【space】下壓單擊，可開啟與關閉顯示招式、戰備品、援護的相關資訊。",
+"ZH_Text2": "",
+"CH_Text0": "◆ When in the action phase of the battlefield and no character is in action, press and hold [Left Stick] to display information about moves, combat preparations and assistance.",
+"CH_Text1": "◆ When we are in the action phase of the battlefield and no character is in action, press and hold [space] on the keyboard to click and turn on and off to display information about moves, combat preparations, and assistance.",
+"CH_Text2": ""
+},
+{
+"ID": 370504,
+"ZH_Text0": "◆ Battlefield: The enemy is in the middle. we can move up to four areas around the enemy。
+◆ Movement area: joystick [right stick], when the left and right arrow icons appear, it means that we can move. After each move, round ends.",
+"ZH_Text1": "◆ 戰場：敵方位於戰場中央。且依照戰鬥內容的不同，我方最多可在敵方外圍四方區域移動。
+◆ 移動區域：鍵盤【[、]】，當畫面出現左右箭頭圖示，則代表可以進行對應方向的移動。每次進行移動後，我方回合即會結束。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Chiến trường: Lấy quân địch làm trung tâm chiến trường, có thể di chuyển 4 hướng xung quanh địch. 
+◆ Di chuyển trong khi chiến đấu: Dùng【Cần gạt phải】trên tay cầm. Trong chiến đấu khi nào xuất hiện biểu tượng mũi tên trái phải thì có thể tiến hành di chuyển. Sau khi di chuyển sẽ tự động kết thúc lượt bên ta.",
+"CH_Text1": "◆ Chiến trường: Lấy quân địch làm trung tâm chiến trường, có thể di chuyển 4 hướng xung quanh địch. 
+◆ Di chuyển trong khi chiến đấu: Ấn【[,]】trên bàn phím. Trong chiến đấu khi nào xuất hiện biểu tượng mũi tên trái phải thì có thể tiến hành di chuyển. Sau khi di chuyển sẽ tự động kết thúc lượt bên ta.",
+"CH_Text2": ""
+},
+{
+"ID": 370505,
+"ZH_Text0": "◆ Some enemies will attack our area, if attacked, will deal large damage。
+◆ Observe the enemy's attack, and pay attention the prompt display of the radar, and move to evade the attack.",
+"ZH_Text1": "◆ 某些敵物會攻擊我方所在區域，若遭受其擊，會對全隊造成重大傷害。
+◆ 可觀察敵物的攻擊時機，以及注意右上方雷達顯示提示，進行移動區域來閃避攻擊。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Some enemies will attack our area, if attacked, will deal large damage。
+◆ Observe the enemy's attack, and pay attention the prompt display of the radar, and move to evade the attack.",
+"CH_Text1": "◆ Một số đối thủ sẽ công kích vào khu vực bên ta, nếu bị công kích sẽ chịu sát thương quần thể lớn. 
+◆ Xem xét lượt công kích của đối thủ, cùng với đó chú ý hiển thị nhắc nhở của rada phía trên bên phải, tiến hành di chuyển để né tránh công kích.",
+"CH_Text2": ""
+},
+{
+"ID": 370506,
+"ZH_Text0": "◆ Joystick: 【B】 ordinary attacks，【Y、X、A】 character's moves。
+◆ Weapon switching: [LT] switch weapons, and change weapon's moves",
+"ZH_Text1": "◆ 鍵盤【D、W、A、S】，可施放角色招式。【D】為普通攻擊，【W、A、S】為玩家設置的招式。
+◆ 武器切換：鍵盤【Tab】，可切換主副武器，進而變更武器上的招式。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Joystick: 【B】 ordinary attacks，【Y、X、A】 character's moves。
+◆ Weapon switching: [LT] switch weapons, and change weapon's moves(instructions -> Items -> Weapons)",
+"CH_Text1": "◆ keyboard【D, W, A, S】: Castable character moves.【D】For ordinary attacks,【W, A, S】Moves for players. 
+◆ Weapon Switch: keyboard:【Tab】: Switch between primary and secondary weapons to change the weapon's moves (Xem Hướng dẫn -> Vật phẩm -> Vũ khí)",
+"CH_Text2": ""
+},
+{
+"ID": 370507,
+"ZH_Text0": "◆ [D-pad], you can use the prepared combat products. According to their functionality, combat preparations are mainly divided into three categories: healing, attack, and defense, which are shared by all characters in our team.。
+◆ The joystick [RT] can be used to summon a set assistant role. In some battles, a temporary assisting role may also be added.",
+"ZH_Text1": "◆ 鍵盤【L、I、J、K】，可使用設置好的戰備品。戰備品依功能性主要分為治療、攻擊、防禦三類，為我方隊伍內所有角色共用。
+◆ 鍵盤【X】，可召喚設置好的援護角色。在某些戰鬥中，也會有暫時協助的援護角色加入。",
+"ZH_Text2": "",
+"CH_Text0": "◆ 【D-pad】 set to use combat items. According to their function, items will be divided into healing, attack and defense, which are shared by team.
+◆ joystick【RT】: summon assistant. In some battles, there will also be characters who temporarily help fighting.",
+"CH_Text1": "◆ Bàn phím【L, I, J, K】, có thể thiết lập để sử dụng vật phẩm chiến đấu. Vật phẩm chiến đấu dựa theo công năng sẽ được chia làm các loại: Trị liệu, công kích, phòng ngự, hồi chiêu. Trong chiến đấu mỗi đồng đội bên ta đều có thể tiêu hao một lượt để sử dụng vật phẩm. 
+◆ Bàn phím【X】: Có thể triệu hoán nhân vật Viện Hộ. Trong một số cuộc chiến, cũng sẽ có nhân vật Viện Hộ tạm thời giúp đỡ chiến đấu.",
+"CH_Text2": ""
+},
+{
+"ID": 370508,
+"ZH_Text0": "◆ Some powerful enemies will assemble their companions to fight, each formation has a different power, which has a great impact on the battle.。
+◆ There will be an enemy headed in the formation, which is the formation eye, as long as you defeat the formation eye, you can crack the formation.",
+"ZH_Text1": "◆ 某些強大的敵物會召集同伴擺開陣勢，每種陣型都有不同的威能，對於戰鬥中的影響重大。
+◆ 陣型當中會有一位敵物為首，其為陣眼，只要擊敗陣眼就能破解陣型。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Powerful opponents will summon companions in battle, each formation has different power, which has a great impact. 
+◆ There will be an leader who holds the formation, just by defeating the leader, you can crack the formation.",
+"CH_Text1": "◆ Một ít đối thủ cường đại sẽ triệu tập đồng bạn triển để khai trận thế, mỗi loại trận hình đều có uy lực khác nhau, từ đó chiếm được ưu thế chiến đấu to lớn. 
+◆ Trong mỗi trận hình sẽ có một tên đối thủ cầm đầu giữ vị trí mắt trận, chỉ cần đánh bại mắt trận liền có thể phá giải trận hình.",
+"CH_Text2": ""
+},
+{
+"ID": 370509,
+"ZH_Text0": "◆ Combat missions: If a combat mission occurs in the battlefield, it will be displayed on the top left of the screen. After reaching the goal, you will have a chance to get reward。
+◆ Mission Reward: If a combat mission is reached, a treasure chest may appear on the field, and you can get a reward by breaking the treasure chest. The higher the difficulty setting of the game, the better the reward.",
+"ZH_Text1": "◆ 戰鬥任務：戰場中若發生戰鬥任務，會顯示於畫面左上，達成目標後，就有機會取得獎勵。
+◆ 任務獎勵：若達成戰鬥任務，場上可能會出現寶箱，擊破寶箱就能獲得獎勵。遊戲的難度設定越高，可獲得更好的獎勵。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Combat missions: If a combat mission occurs, it will be displayed on the top left of the screen, completing to receive a reward.
+◆ Reward: If you complete the mission, treasure chest may appear on battlefield. The higher the difficulty, the greater the reward. ",
+"CH_Text1": "◆ Chiến đấu nhiệm vụ: Trong chiến đấu nếu nảy sinh chiến đấu nhiệm vụ sẽ hiển thị ở phía trên bên trái, hoàn thành mục tiêu liền có cơ hội nhận được nhiệm vụ ban thưởng. 
+◆ Nhiệm vụ ban thưởng: Nếu hoàn thành chiến đấu nhiệm vụ, trên chiến trận sẽ xuất hiện bảo rương, đánh tan bảo rương có thể thu hoạch được ban thưởng. Độ khó trò chơi càng cao được ban thưởng càng lớn.",
+"CH_Text2": ""
+},
+{
+"ID": 370510,
+"ZH_Text0": "◆ In each battle: the number of rounds of battle victory, lower than the setting to get [lightning fire]. Execute the maximum number of combos, higher than the setting can get [Rainfall and Stars]. The average damage value of each battle character is lower than the setting to get "Stable as a Rock". Perform a single attack with the maximum damage, higher than the setting can get [Liguan Qianjun].
+◆ The more additional challenges each battle can achieve, the better the battle rating will be.",
+"ZH_Text1": "◆ 每場戰鬥中：戰鬥勝利的回合數，低於設定可獲得【電光石火】。執行出最大的連擊數，高於設定可獲得【雨落繁星】。每位出戰角色平均受到的傷害值，低於設定可獲得【堅如磐石】。執行出單次攻擊最大傷害，高於設定可獲得【力貫千鈞】。
+◆ 每場戰鬥可達成越多的額外挑戰即可獲得越好的戰鬥評價。",
+"ZH_Text2": "",
+"CH_Text0": "◆ In each battle: The turns use lower than the setting will get [Dien Quang Thach Hoa-lightning fire]. The combos use higher can get [Vu Lac Phon Tinh - Rainfall and Stars]. The average damage is lower can get [Kien Nhu Ban Thach - Stable as a Rock]. The maximum damage is higher can get [Liguan Qianjun]. 
+◆ The more combat can achieve, the more will get in battle rating. "
+"CH_Text1": "◆ 【Dien Quang Thach Hoa】. 【Vũ Lạc Phồn Tinh】. 【Kien Nhu Ban Thach】. 【Lực Quán Thiên Quân】. 
+◆ Mỗi cuộc chiến có thể đạt được càng nhiều khiêu chiến vượt định mức thì sẽ thu được đánh giá chiến đấu càng tốt.",
+"CH_Text2": ""
+},
+{
+"ID": 370511,
+"ZH_Text0": "◆ In the face of huge enemies, the judgment of each round of action needs to be handled carefully, pay attention to the combat mission information on the top left of the screen, and move the area in time to avoid being subjected to powerful attacks.",
+"ZH_Text1": "◆ 面對巨大的敵物時，每個回合的行動判斷需小心應對，注意畫面左上的戰鬥任務訊息，並適時移動區域來避免遭受強大的攻擊。",
+"ZH_Text2": "",
+"CH_Text0": "◆ When facing the boss, every turn needs to be careful, pay attention to the symbol on the left above the mission combat, also move the area to prevent strong attacks. .",
+"CH_Text1": "◆ Khi đối mặt boss, mỗi 1 lượt cần cẩn thận phán đoán để có đối sách hợp lý, chú ý biếu tượng phía trái bên trên tin tức chiến đấu nhiệm vụ, đồng thời tiến hành di chuyển hợp lý để phòng tránh công kích mạnh mẽ.",
+"CH_Text2": ""
+},
+{
+"ID": 370512,
+"ZH_Text0": "◆ (the Great Hall) The Dasao can provide a strong multiple attack and increase a large number of Nguyen Linh (Primal Spirit).",
+"ZH_Text1": "◆ 大羿的援護招式可提供強大的弱點攻擊倍率，並且增加大量元靈值。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Technique of the Great Hall of the Great Technology can increase multiple times multiple disadvantages when attacking enemies, and increase a large number of Nguyen Linh.",
+"CH_Text1": "◆ Chiêu thức Viện Hộ của Đại Nghệ có thể nâng cao nhiều lần bội số nhược điểm khi công kích kẻ địch, đồng thời gia tăng một lượng lớn Nguyên Linh.",
+"CH_Text2": ""
+},
+{
+"ID": 370601,
+"ZH_Text0": "◆ In the icon, the "Sword Skill" is "Red", the "Primal Spirit" is "Purple", and the "Common" is "White".",
+"ZH_Text1": "◆ 招式圖示中，「劍陣系」招式為「紅色」，「元靈系」招式為「紫色」，「通用系」招式為「白色」。",
+"ZH_Text2": "",
+"CH_Text0": "◆ The color of the image showing the type of system, "Sword Battle System" is red, "Nguyen Linh" is purple, and "Common System" is white.",
+"CH_Text1": "◆ Màu sắc hình ảnh thể hiện loại hệ chiêu thức, chiêu thức “Kiếm Trận hệ“ có màu đỏ, chiêu thức “Nguyên Linh hệ“ có màu tím, chiêu thức “Thông dụng hệ“ có màu trắng.",
+"CH_Text2": ""
+},
+{
+"ID": 370602,
+"ZH_Text0": "◆ In "Sword skill, Primal Spirit", the lower right of the icon, if there is a small arrow, it is the type of "Phat kiem - Swordplay / Phat linh - failing spirits". otherwise, it is "Thu kiem - Sword Collection/ Thu linh - collecting spirits"。
+◆ In the upper right corner of icon, if there is a small figure of many people, it means that this is a move of the whole attack; without it, it's a single-strike attack.",
+"ZH_Text1": "◆ 「劍陣系、元靈系」中，招式圖示右下角，若有圓形箭射的小圖，則為「發劍與發靈」的招式類型，若無小圖則為「集劍與集靈」的招式類型。
+◆ 招式圖示右上角，若有圓形多人的小圖，代表此為全體攻擊的範圍招式；沒有此小圖的則為單體攻擊的招式。",
+"ZH_Text2": "",
+"CH_Text0": "◆ In "Sword skill System, Nguyên Linh System", the lower right corner of the attack image, if there is a circle containing a small arrow, is the type of "Sword Search with Spirit", otherwise it is the technique " Thu sword and spirit collection ". 
+◆ The upper right corner shows the attack symbol if there is a circle containing many small figures indicating that this is a public attack; without it, it would be a single-strike attack. ",
+"CH_Text1": "◆ Trong “Kiếm Trận hệ, Nguyên Linh hệ“, góc phải bên dưới hình ảnh chiêu thức nếu có hình tròn chứa mũi tên nhỏ thì là loại hình chiêu thức “Phát kiếm cùng Phát linh“, nếu không thì là loại hình chiêu thức “Thu kiếm cùng thu linh“. 
+◆ Góc trên bên phải biểu tượng chiêu thức nếu có hình tròn chứa nhiều hình người nhỏ ý nói đây là chiêu thức quần công; không có thì là chiêu thức công kích đơn thể.",
+"CH_Text2": ""
+},
+{
+"ID": 370603,
+"ZH_Text0": "◆ Most of the moves that our character can cause damage have the ability to activate the weak point system. When these moves are consecutive, the more combo damage can be caused.",
+"ZH_Text1": "◆ 我方角色可造成傷害的招式，大多都帶有啟動弱點系統的能力，當這些招式連貫起來，即可造成越多的連擊增傷%。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Most of the moves cause damage can activate the weakness. If done correctly, these techniques can form combo and increase damage",
+"CH_Text1": "◆ Nếu nhân vật phe ta sử dụng chiêu thức gây sát thương đối thủ sẽ kích hoạt hệ thống nhược điểm. Nếu thực hiện chuẩn xác những chiêu thức này liền có thể tạo thành liên kích cao tăng % nhược điểm và tổn thương phe địch",
+"CH_Text2": ""
+},
+{
+"ID": 370604,
+"ZH_Text0": "◆ Through the weak point system, whenever a certain damage increase is reached, weak points will be accumulated. When the set is full, and the level of pride is consistent, after the player's action is over, the god will be called [Pride].",
+"ZH_Text1": "◆ 透過弱點系統，每當達到一定的增傷%，就會累積弱點點數。當集滿點數，且傲狠等級符合，在玩家行動結束後即會召喚神援【傲狠】。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Through the weak point, every time you reach certain damage, you will accumulate weak points. When full, if [Aohen] level meets the requirements, at the turn end, will summon [Aohen].",
+"CH_Text1": "◆ Thông qua hệ thống nhược điểm, mỗi khi đạt tới % tăng tổn thương nhất định thì sẽ tích lũy điểm số nhược điểm. Khi thu thập đủ điểm số, nếu đẳng cấp Ngạo Ngoan đạt yêu cầu thì khi kết thúc lượt sẽ triệu hoán viện binh【Ngạo Ngoan】.",
+"CH_Text2": ""
+},
+{
+"ID": 370605,
+"ZH_Text0": "◆ Sword formation moves are divided into two types: "set sword" and "sword". You can accumulate up to six swords by repeatedly using a set of sword moves, and a certain amount of set swords can be consumed by the sword movement to cause more damage.",
+"ZH_Text1": "◆ 劍陣系的招式分為「集劍」Collection、「發劍」兩類型。重複使用集劍招式最多可累積六劍，發劍招式可消耗一定數量的集劍，來造成更大的傷害。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Sword skill are divided into two types, "Thu kiem/collecting sword" and "Phat kiem/releasing sword". In combat, if "Thu kiem" is used, can collect up to 6 swords, the "Phat kiem" skill will use a certain amount of sword to create a larger damage.",
+"CH_Text1": "◆ Kiếm Trận hệ chiêu thức chia làm hai loại hình “Thu kiếm“ cùng “Phát kiếm“. Trong chiến đấu nếu sử dụng “Thu kiếm“ lặp lại sẽ có thể thu được tối đa 6 kiếm, chiêu thức Phát kiếm sẽ tiêu hao một lượng kiếm nhất định để tạo thành tổn thương lớn hơn.",
+"CH_Text2": ""
+},
+{
+"ID": 370606,
+"ZH_Text0": "◆ Use sword array moves to accumulate sword array energy. When the energy is collected and the level of the Nandou is consistent, the player will be summoned by the aid of the Nandou after the action of the player is finished.",
+"ZH_Text1": "◆ 使用劍陣系招式皆會累積劍陣能量。當集滿能量，且南斗等級符合，在玩家行動結束後即會召喚神援【南斗】。Nanto",
+"ZH_Text2": "",
+"CH_Text0": "◆ Using the Sword skill to accumulate Sword Battle energy. When full, if Nandou level meets the requirements, at the end of turn, will summon 【Nandou】.",
+"CH_Text1": "◆ Sử dụng chiêu thức Kiếm Trận hệ đều sẽ tích lũy năng lượng Kiếm Trận. Khi đầy năng lượng, nếu đẳng cấp Nam Đẩu đạt yêu cầu thì khi kết thúc lượt sẽ triệu hoán viện binh【Nam Đẩu】.",
+"CH_Text2": ""
+},
+{
+"ID": 370607,
+"ZH_Text0": "◆ The moves of the Yuanling department are divided into two types: "collecting spirits" and "failing spirits". You can accumulate a maximum of 100 presets by repeatedly using the set moves. The set moves can consume all current set moves. The more the set moves, the greater the damage bonus.",
+"ZH_Text1": "◆ 元靈系的招式分為「集靈」、「發靈」兩類型。重複使用集靈招式預設最多可累積100，發靈招式可消耗當下所有的集靈，集靈越多傷害加成越大。",
+"ZH_Text2": "",
+"CH_Text0": "◆ "Nguyen Linh/Primal Spirit" is divided into two types, "Thu linh/collecting spirits" and "Phat linh/failing spirits". If you use "Thu linh", you can collect up to 100 spirits, "Phat Linh" will immediately consume all the Spirit, the more "Nguyen Linh/Primal Spirit", greater the damage bonus.",
+"CH_Text1": "◆ Nguyên Linh hệ chiêu thức chia làm hai loại hình “Thu linh“ cùng “Phát linh“. Trong chiến đấu nếu sử dụng “Thu linh“ lặp lại sẽ có thể tích lũy được tối đa 100 linh, chiêu thức Phát linh sẽ lập tức tiêu hao tất cả số lượng Nguyên Linh đã tích lũy, số lượng Nguyên Linh càng nhiều sát thương càng lớn.",
+"CH_Text2": ""
+},
+{
+"ID": 370608,
+"ZH_Text0": "◆ The use of Primal Spirit moves will accumulate Primal Energy. When the energy is collected and the Gluttonous level matches, the player will be summoned [aid] after the player's action ends.",
+"ZH_Text1": "◆ 使用元靈系招式皆會累積元靈能量。當集滿能量，且饕餮等級符合，在玩家行動結束後即會召喚神援【饕餮】。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Using "Nguyen Linh/Primal Spirit" will accumulate Nguyen Linh's energy. When full, if Taotie level meets the requirements, at the end of turn, will summon 【Taotie】.",
+"CH_Text1": "◆ Sử dụng chiêu thức Nguyên Linh hệ đều sẽ tích lũy năng lượng Nguyên Linh. Khi đầy năng lượng, nếu đẳng cấp Thao Thiết đạt yêu cầu thì khi kết thúc lượt sẽ triệu hoán viện binh【Thao Thiết】.",
+"CH_Text2": ""
+},
+{
+"ID": 370609,
+"ZH_Text0": "◆ After each of our actions, if two gods can be summoned, then special gods will be summoned [Beidou]。",
+"ZH_Text1": "◆ 每個我方行動後，若能召喚兩位神援，則會接續召喚特殊神援【北斗】。",
+"ZH_Text2": "",
+"CH_Text0": "◆ After each of our action, if two gods can be summoned, then special gods will be summoned 【Bac Dau】.",
+"CH_Text1": "◆ Sau mỗi lần bên ta hành đông, nếu có thể triệu hoán 2 vị thần viện binh thì sẽ tiếp tục triệu hoán thần viện binh đặc thù【Bắc Đẩu】.",
+"CH_Text2": ""
+},
+{
+"ID": 370610,
+"ZH_Text0": "◆ Some enemies will also use the corresponding sword array and elementary spirit system. If the system is continuously used, it will encourage the enemy's attack and gain more than it pays.",
+"ZH_Text1": "◆ 某些敵物亦會使用對應的劍陣、元靈系統，若持續使用該系統，反而會助長敵人的攻擊，得不償失。",
+"ZH_Text2": "",
+"CH_Text0": "◆ Some enemies will use corresponding sword skill and spirit[Nguyen Linh], If the same is use, enemy will attack and gain more",
+"CH_Text1": "◆ Một ít đối thủ cũng sẽ sử dụng hệ thống Kiếm Trận, Nguyên Linh tương ứng, nếu tiếp tục sử dụng những hệ thống này trái lại sẽ tiếp ứng công kích của đối thủ, được không bù mất.",
+"CH_Text2": ""
+}
+]
