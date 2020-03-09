@@ -10,4 +10,7 @@ Textdata_buffs: Translated, needs to be checked if it's correct</br>
 Textdata_UI: Translated, graphics settings are numbers instead of words, might be changeable</br>
 Textdata_teaching: Translated, definitely needs to be checked if correct</br>
 
+## Work In Progress
+Textdata_Diety
+
 If you use our mod and see anything that is incorrect, tell us via the issues tab
