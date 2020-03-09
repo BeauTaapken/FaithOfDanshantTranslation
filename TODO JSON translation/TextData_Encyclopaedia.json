@@ -1,0 +1,857 @@
+[
+{
+"ID": 100001,
+"ZH_Text0": "主畫面文字1",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 1",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100002,
+"ZH_Text0": "主畫面文字2",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100003,
+"ZH_Text0": "主畫面文字3",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 1",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100004,
+"ZH_Text0": "主畫面文字4",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100005,
+"ZH_Text0": "主畫面文字5",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100006,
+"ZH_Text0": "主畫面文字6",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100007,
+"ZH_Text0": "主畫面文字7",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100008,
+"ZH_Text0": "主畫面文字8",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100009,
+"ZH_Text0": "主畫面文字9",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100010,
+"ZH_Text0": "主畫面文字10",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100011,
+"ZH_Text0": "主畫面文字11",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100012,
+"ZH_Text0": "主畫面文字12",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100013,
+"ZH_Text0": "主畫面文字13",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100014,
+"ZH_Text0": "主畫面文字14",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100015,
+"ZH_Text0": "主畫面文字15",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Menu chính 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100101,
+"ZH_Text0": "人文群組文字1",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 1",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100102,
+"ZH_Text0": "人文群組文字2",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100103,
+"ZH_Text0": "人文群組文字3",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 3",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100104,
+"ZH_Text0": "人文群組文字4",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 4",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100105,
+"ZH_Text0": "人文群組文字5",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 5",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100106,
+"ZH_Text0": "人文群組文字6",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 6",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100107,
+"ZH_Text0": "人文群組文字7",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 7",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100108,
+"ZH_Text0": "人文群組文字8",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 8",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100109,
+"ZH_Text0": "人文群組文字9",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 9",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100110,
+"ZH_Text0": "人文群組文字10",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm nhân văn 10",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100201,
+"ZH_Text0": "異聞群組文字1",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 1",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100202,
+"ZH_Text0": "異聞群組文字2",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100203,
+"ZH_Text0": "異聞群組文字3",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 3",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100204,
+"ZH_Text0": "異聞群組文字4",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 4",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100205,
+"ZH_Text0": "異聞群組文字5",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 5",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100206,
+"ZH_Text0": "異聞群組文字6",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 6",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100207,
+"ZH_Text0": "異聞群組文字7",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 7",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100208,
+"ZH_Text0": "異聞群組文字8",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 8",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100209,
+"ZH_Text0": "異聞群組文字9",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 9",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100210,
+"ZH_Text0": "異聞群組文字10",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm dị văn 10",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100301,
+"ZH_Text0": "成就群組文字1",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 1",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100302,
+"ZH_Text0": "成就群組文字2",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 2",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100303,
+"ZH_Text0": "成就群組文字3",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 3",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100304,
+"ZH_Text0": "成就群組文字4",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 4",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100305,
+"ZH_Text0": "成就群組文字5",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 5",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100306,
+"ZH_Text0": "成就群組文字6",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 6",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100307,
+"ZH_Text0": "成就群組文字7",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 7",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100308,
+"ZH_Text0": "成就群組文字8",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 8",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100309,
+"ZH_Text0": "成就群組文字9",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 9",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 100310,
+"ZH_Text0": "成就群組文字10",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhóm thành tựu 10",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 101001,
+"ZH_Text0": "人文標題文字1",
+"ZH_Text1": "人文說明文字1",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 1",
+"CH_Text1": "Giải thuyết về nhân văn 1",
+"CH_Text2": ""
+},
+{
+"ID": 101002,
+"ZH_Text0": "人文標題文字2",
+"ZH_Text1": "人文說明文字2",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 2",
+"CH_Text1": "Giải thuyết về nhân văn 2",
+"CH_Text2": ""
+},
+{
+"ID": 101003,
+"ZH_Text0": "人文標題文字3",
+"ZH_Text1": "人文說明文字3",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 3",
+"CH_Text1": "Giải thuyết về nhân văn 3",
+"CH_Text2": ""
+},
+{
+"ID": 101004,
+"ZH_Text0": "人文標題文字4",
+"ZH_Text1": "人文說明文字4",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 4",
+"CH_Text1": "Giải thuyết về nhân văn 4",
+"CH_Text2": ""
+},
+{
+"ID": 101005,
+"ZH_Text0": "人文標題文字5",
+"ZH_Text1": "人文說明文字5",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 5",
+"CH_Text1": "Giải thuyết về nhân văn 5",
+"CH_Text2": ""
+},
+{
+"ID": 101006,
+"ZH_Text0": "人文標題文字6",
+"ZH_Text1": "人文說明文字6",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 6",
+"CH_Text1": "Giải thuyết về nhân văn 6",
+"CH_Text2": ""
+},
+{
+"ID": 101007,
+"ZH_Text0": "人文標題文字7",
+"ZH_Text1": "人文說明文字7",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 7",
+"CH_Text1": "Giải thuyết về nhân văn 7",
+"CH_Text2": ""
+},
+{
+"ID": 101008,
+"ZH_Text0": "人文標題文字8",
+"ZH_Text1": "人文說明文字8",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 8",
+"CH_Text1": "Giải thuyết về nhân văn 8",
+"CH_Text2": ""
+},
+{
+"ID": 101009,
+"ZH_Text0": "人文標題文字9",
+"ZH_Text1": "人文說明文字9",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 9",
+"CH_Text1": "Giải thuyết về nhân văn 9",
+"CH_Text2": ""
+},
+{
+"ID": 101010,
+"ZH_Text0": "人文標題文字10",
+"ZH_Text1": "人文說明文字10",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề nhân văn 10",
+"CH_Text1": "Giải thuyết về nhân văn 10",
+"CH_Text2": ""
+},
+{
+"ID": 102001,
+"ZH_Text0": "異聞標題文字1",
+"ZH_Text1": "異聞說明文字1",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 1",
+"CH_Text1": "Giải thuyết về dị văn 1",
+"CH_Text2": ""
+},
+{
+"ID": 102002,
+"ZH_Text0": "異聞標題文字2",
+"ZH_Text1": "異聞說明文字2",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 2",
+"CH_Text1": "Giải thuyết về dị văn 2",
+"CH_Text2": ""
+},
+{
+"ID": 102003,
+"ZH_Text0": "異聞標題文字3",
+"ZH_Text1": "異聞說明文字3",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 3",
+"CH_Text1": "Giải thuyết về dị văn 3",
+"CH_Text2": ""
+},
+{
+"ID": 102004,
+"ZH_Text0": "異聞標題文字4",
+"ZH_Text1": "異聞說明文字4",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 4",
+"CH_Text1": "Giải thuyết về dị văn 4",
+"CH_Text2": ""
+},
+{
+"ID": 102005,
+"ZH_Text0": "異聞標題文字5",
+"ZH_Text1": "異聞說明文字5",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 5",
+"CH_Text1": "Giải thuyết về dị văn 5",
+"CH_Text2": ""
+},
+{
+"ID": 102006,
+"ZH_Text0": "異聞標題文字6",
+"ZH_Text1": "異聞說明文字6",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 6",
+"CH_Text1": "Giải thuyết về dị văn 6",
+"CH_Text2": ""
+},
+{
+"ID": 102007,
+"ZH_Text0": "異聞標題文字7",
+"ZH_Text1": "異聞說明文字7",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 7",
+"CH_Text1": "Giải thuyết về dị văn 7",
+"CH_Text2": ""
+},
+{
+"ID": 102008,
+"ZH_Text0": "異聞標題文字8",
+"ZH_Text1": "異聞說明文字8",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 8",
+"CH_Text1": "Giải thuyết về dị văn 8",
+"CH_Text2": ""
+},
+{
+"ID": 102009,
+"ZH_Text0": "異聞標題文字9",
+"ZH_Text1": "異聞說明文字9",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 9",
+"CH_Text1": "Giải thuyết về dị văn 9",
+"CH_Text2": ""
+},
+{
+"ID": 102010,
+"ZH_Text0": "異聞標題文字10",
+"ZH_Text1": "異聞說明文字10",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề dị văn 10",
+"CH_Text1": "Giải thuyết về dị văn 10",
+"CH_Text2": ""
+},
+{
+"ID": 103001,
+"ZH_Text0": "成就標題文字1",
+"ZH_Text1": "成就說明文字1",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 1",
+"CH_Text1": "Giải thuyết về thành tựu 1",
+"CH_Text2": ""
+},
+{
+"ID": 103002,
+"ZH_Text0": "成就標題文字2",
+"ZH_Text1": "成就說明文字2",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 2",
+"CH_Text1": "Giải thuyết về thành tựu 2",
+"CH_Text2": ""
+},
+{
+"ID": 103003,
+"ZH_Text0": "成就標題文字3",
+"ZH_Text1": "成就說明文字3",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 3",
+"CH_Text1": "Giải thuyết về thành tựu 3",
+"CH_Text2": ""
+},
+{
+"ID": 103004,
+"ZH_Text0": "成就標題文字4",
+"ZH_Text1": "成就說明文字4",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 4",
+"CH_Text1": "Giải thuyết về thành tựu 4",
+"CH_Text2": ""
+},
+{
+"ID": 103005,
+"ZH_Text0": "成就標題文字5",
+"ZH_Text1": "成就說明文字5",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 5",
+"CH_Text1": "Giải thuyết về thành tựu 5",
+"CH_Text2": ""
+},
+{
+"ID": 103006,
+"ZH_Text0": "成就標題文字6",
+"ZH_Text1": "成就說明文字6",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 6",
+"CH_Text1": "Giải thuyết về thành tựu 6",
+"CH_Text2": ""
+},
+{
+"ID": 103007,
+"ZH_Text0": "成就標題文字7",
+"ZH_Text1": "成就說明文字7",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 7",
+"CH_Text1": "Giải thuyết về thành tựu 7",
+"CH_Text2": ""
+},
+{
+"ID": 103008,
+"ZH_Text0": "成就標題文字8",
+"ZH_Text1": "成就說明文字8",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 8",
+"CH_Text1": "Giải thuyết về thành tựu 8",
+"CH_Text2": ""
+},
+{
+"ID": 103009,
+"ZH_Text0": "成就標題文字9",
+"ZH_Text1": "成就說明文字9",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 9",
+"CH_Text1": "Giải thuyết về thành tựu 9",
+"CH_Text2": ""
+},
+{
+"ID": 103010,
+"ZH_Text0": "成就標題文字10",
+"ZH_Text1": "成就說明文字10",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề thành tựu 10",
+"CH_Text1": "Giải thuyết về thành tựu 10",
+"CH_Text2": ""
+},
+{
+"ID": 104001,
+"ZH_Text0": "奇珍標題文字1",
+"ZH_Text1": "奇珍說明文字1",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 1",
+"CH_Text1": "Giải thuyết về kỳ trân 1",
+"CH_Text2": ""
+},
+{
+"ID": 104002,
+"ZH_Text0": "奇珍標題文字2",
+"ZH_Text1": "奇珍說明文字2",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 2",
+"CH_Text1": "Giải thuyết về kỳ trân 2",
+"CH_Text2": ""
+},
+{
+"ID": 104003,
+"ZH_Text0": "奇珍標題文字3",
+"ZH_Text1": "奇珍說明文字3",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 3",
+"CH_Text1": "Giải thuyết về kỳ trân 3",
+"CH_Text2": ""
+},
+{
+"ID": 104004,
+"ZH_Text0": "奇珍標題文字4",
+"ZH_Text1": "奇珍說明文字4",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 4",
+"CH_Text1": "Giải thuyết về kỳ trân 4",
+"CH_Text2": ""
+},
+{
+"ID": 104005,
+"ZH_Text0": "奇珍標題文字5",
+"ZH_Text1": "奇珍說明文字5",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 5",
+"CH_Text1": "Giải thuyết về kỳ trân 5",
+"CH_Text2": ""
+},
+{
+"ID": 104006,
+"ZH_Text0": "奇珍標題文字6",
+"ZH_Text1": "奇珍說明文字6",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 6",
+"CH_Text1": "Giải thuyết về kỳ trân 6",
+"CH_Text2": ""
+},
+{
+"ID": 104007,
+"ZH_Text0": "奇珍標題文字7",
+"ZH_Text1": "奇珍說明文字7",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 7",
+"CH_Text1": "Giải thuyết về kỳ trân 7",
+"CH_Text2": ""
+},
+{
+"ID": 104008,
+"ZH_Text0": "奇珍標題文字8",
+"ZH_Text1": "奇珍說明文字8",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 8",
+"CH_Text1": "Giải thuyết về kỳ trân 8",
+"CH_Text2": ""
+},
+{
+"ID": 104009,
+"ZH_Text0": "奇珍標題文字9",
+"ZH_Text1": "奇珍說明文字9",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 9",
+"CH_Text1": "Giải thuyết về kỳ trân 9",
+"CH_Text2": ""
+},
+{
+"ID": 104010,
+"ZH_Text0": "奇珍標題文字10",
+"ZH_Text1": "奇珍說明文字10",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề kỳ trân 10",
+"CH_Text1": "Giải thuyết về kỳ trân 10",
+"CH_Text2": ""
+},
+{
+"ID": 105001,
+"ZH_Text0": "毛球君標題文字1",
+"ZH_Text1": "毛球君說明文字1",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 1",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 1",
+"CH_Text2": ""
+},
+{
+"ID": 105002,
+"ZH_Text0": "毛球君標題文字2",
+"ZH_Text1": "毛球君說明文字2",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 2",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 2",
+"CH_Text2": ""
+},
+{
+"ID": 105003,
+"ZH_Text0": "毛球君標題文字3",
+"ZH_Text1": "毛球君說明文字3",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 3",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 3",
+"CH_Text2": ""
+},
+{
+"ID": 105004,
+"ZH_Text0": "毛球君標題文字4",
+"ZH_Text1": "毛球君說明文字4",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 4",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 4",
+"CH_Text2": ""
+},
+{
+"ID": 105005,
+"ZH_Text0": "毛球君標題文字5",
+"ZH_Text1": "毛球君說明文字5",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 5",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 5",
+"CH_Text2": ""
+},
+{
+"ID": 105006,
+"ZH_Text0": "毛球君標題文字6",
+"ZH_Text1": "毛球君說明文字6",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 6",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 6",
+"CH_Text2": ""
+},
+{
+"ID": 105007,
+"ZH_Text0": "毛球君標題文字7",
+"ZH_Text1": "毛球君說明文字7",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 7",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 7",
+"CH_Text2": ""
+},
+{
+"ID": 105008,
+"ZH_Text0": "毛球君標題文字8",
+"ZH_Text1": "毛球君說明文字8",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 8",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 8",
+"CH_Text2": ""
+},
+{
+"ID": 105009,
+"ZH_Text0": "毛球君標題文字9",
+"ZH_Text1": "毛球君說明文字9",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 9",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 9",
+"CH_Text2": ""
+},
+{
+"ID": 105010,
+"ZH_Text0": "毛球君標題文字10",
+"ZH_Text1": "毛球君說明文字10",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu đề Mao Cầu Quân 10",
+"CH_Text1": "Giải thuyết về Mao Cầu Quân 10",
+"CH_Text2": ""
+}
+]

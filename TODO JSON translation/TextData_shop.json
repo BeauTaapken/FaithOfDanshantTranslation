@@ -1,0 +1,596 @@
+[
+{
+"ID": 440001,
+"ZH_Text0": "貪財～貪財～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiền tươi ~ Tiền tươi ~",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440002,
+"ZH_Text0": "我聽到貝幣掉進我行囊裡的聲音。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta nghe được tiếng kim tệ rơi vào túi rồi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440003,
+"ZH_Text0": "我做生意，童叟都欺～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đạo làm ăn của ta, già trẻ đều không tha.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440004,
+"ZH_Text0": "客人你真有眼光。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khách nhân thật là biết nhìn hàng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440011,
+"ZH_Text0": "小兄弟，荒野凶險，再看看其他的吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, hoang dã hung hiểm, hay là thử đi xem nơi khác được không?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440012,
+"ZH_Text0": "多謝你啦，小兄弟！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, đa tạ ngươi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440013,
+"ZH_Text0": "多謝光顧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ đã ghé xem!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440014,
+"ZH_Text0": "客人歡迎下次再來啊。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hoan nghênh khách nhân lại ghé quán lần nữa.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440021,
+"ZH_Text0": "阿申的東西絕對好，您真識貨！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đồ vật của A Thân tuyệt đối tốt, ngài thật biết nhìn hàng!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440022,
+"ZH_Text0": "多謝你啦，小兄弟！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, đa tạ ngươi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440023,
+"ZH_Text0": "風鳴村要來一趟可不容易啊，再瞧瞧別的吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Minh Thôn muốn tới cũng không dễ dàng, hay là đi xem cái khác đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440024,
+"ZH_Text0": "多謝、多謝！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ, đa tạ!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440031,
+"ZH_Text0": "你一個人在山上，這些防身之物可不能省。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Một mình ngươi ở trên núi, những đồ vật phòng thật này cũng là không thể thiếu.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440032,
+"ZH_Text0": "好好保重自己，知道嗎。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo trọng thật khỏe mạnh, biết không.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440033,
+"ZH_Text0": "選得好！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chọn thật tốt!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440034,
+"ZH_Text0": "小兄弟保重，神靈也會護佑你的。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ bảo trọng, Thần Linh cũng sẽ bảo hộ ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440101,
+"ZH_Text0": "多謝。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440102,
+"ZH_Text0": "我的商品每件都是自信之作，有需要請隨時過來。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta tự tin hàng hóa trong tay mỗi kiện đều là đồ tốt, ngươi nếu có nhu cầu thì có thể tùy thời ghé thăm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440103,
+"ZH_Text0": "謝謝光顧，還需要什麼盡量挑！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cám ơn đã ghé xem, Cần gì mời chọn lựa thoải mái!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440104,
+"ZH_Text0": "歡迎下次再來呀。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hoan nghênh lần sau trở lại.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440105,
+"ZH_Text0": "嘿嘿，客人您真是目光獨到啊。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ha ha, khách nhân, ánh mắt ngài thật sự là độc đáo.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440106,
+"ZH_Text0": "小兄弟，有需要就隨時來找我啊，嘿嘿。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, cần gì tùy lúc đều có thể tìm ta, ha ha.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440111,
+"ZH_Text0": "異地相逢就是有緣，小兄弟再多關照些吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đất khách gặp lại chính là hữu duyên, mong tiểu huynh đệ lại chiếu cố thêm chút đỉnh!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440112,
+"ZH_Text0": "謝謝啦～小兄弟多保重啊！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cám ơn~ tiểu huynh đệ bảo trọng!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440113,
+"ZH_Text0": "唔～還需要其他的嗎？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ô ~ còn cần cái khác sao?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440114,
+"ZH_Text0": "謝、謝謝！大哥我們快走吧～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cám, cám ơn! Đại ca chúng ta đi nhanh đi ~",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440121,
+"ZH_Text0": "多謝神醫大人！請再看看別的商品吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ Thần Y đại nhân! Mời lại xem các thương phẩm khác đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440122,
+"ZH_Text0": "恭送神醫大人！大人慢走～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cung tiễn Thần Y đại nhân! Đại nhân đi thong thả ~",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440131,
+"ZH_Text0": "謝謝關照啊～再看看其他的吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tạ ơn đã chiếu cố ~ mời xem những món khác đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440132,
+"ZH_Text0": "慢走～不送。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi thong thả ~ không tiễn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440133,
+"ZH_Text0": "客人你真有眼光。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khách nhân thật là biết nhìn hàng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440134,
+"ZH_Text0": "小兄弟瞧你身手不錯，有需要請務必再來！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ nhìn ngươi thân thủ không tệ, nếu có nhu cầu gì thì mời lại ghé thăm!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440201,
+"ZH_Text0": "噗嚕嚕～噗嚕！（漂亮小姑娘好眼光～）",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "A fu fu fu! (tiểu cô nương xinh đẹp ánh mắt thật là tốt)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440202,
+"ZH_Text0": "噗噗噗嚕～噗嚕嚕～（噗寶不會忘記各位的救命之恩！）",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "A fu fu fu! (Phốc Bảo sẽ không bao giờ quên ân cứu mạng của các vị)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440221,
+"ZH_Text0": "自個兒再挑些，甭客氣。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bản thân lựa chọn xem, không cần phải khách khí.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440222,
+"ZH_Text0": "需要什麼再來找我啊！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cần gì lại tới tìm ta!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440223,
+"ZH_Text0": "小哥，看看還需要什麼吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu ca, nhìn qua xem có gì cần không đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440224,
+"ZH_Text0": "再來啊～小哥。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu ca, lần sau lại đến...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440251,
+"ZH_Text0": "還有很多上等好貨，多瞧瞧吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Còn có rất nhiều hàng tốt thượng đẳng, mời nhìn kỹ thêm chút đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440252,
+"ZH_Text0": "小兄弟，有需要隨時過來。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, cần gì tùy lúc đều có thể tới tìm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440253,
+"ZH_Text0": "貴客真有眼光！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quý khách thật có ánh mắt!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440254,
+"ZH_Text0": "貨品供應充足，隨時歡迎貴客光臨。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hàng cung ứng sung túc, tùy thời hoan nghênh quý khách quang lâm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440301,
+"ZH_Text0": "請諸位再看看其他商品吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mời chư vị nhìn tiếp món hàng khác đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440302,
+"ZH_Text0": "在下隨時等候諸位大駕光臨。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tại hạ tùy thời chờ chư vị đại giá quang lâm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440303,
+"ZH_Text0": "多謝英雄貴客光顧～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ anh hùng quý khách vào xem ~",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440304,
+"ZH_Text0": "往後也請多多關照啦。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về sau xin chiếu cố nhiều hơn nữa nha.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440321,
+"ZH_Text0": "多謝大人！還需要什麼儘管拿。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ đại nhân! Còn muốn gì cứ lấy.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440322,
+"ZH_Text0": "有空再來看看，隨時恭候大人。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có rảnh lại đến nhìn xem, tùy thời xin đợi đại nhân.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440323,
+"ZH_Text0": "有眼光，老身精挑細選的絕對是好東西！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có ánh mắt, đồ mà lão thân đã tỷ mỷ lựa chọn tuyệt đối là đồ tốt!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440324,
+"ZH_Text0": "恭送大人！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cung tiễn đại nhân!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440325,
+"ZH_Text0": "多、多挑點東西吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mời chọn thêm nữa đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440326,
+"ZH_Text0": "不送、不送。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không đưa, không đưa.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440327,
+"ZH_Text0": "招、招呼不周，你自個兒再、再看看吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mời, tiếp đãi không được chu toàn, ngươi tự có thể xem qua đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440328,
+"ZH_Text0": "慢、慢走。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi thong thả.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440341,
+"ZH_Text0": "小兄弟，希望這些利器對你有助益。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu huynh đệ, hi vọng những lợi khí này có thể giúp ích được cho ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440342,
+"ZH_Text0": "請小兄弟務必助我陶唐抵禦外敵！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mong tiểu huynh đệ giúp đỡ quân lính Đào Đường chống lại ngoại địch!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440343,
+"ZH_Text0": "多謝壯士。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ tráng sĩ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440344,
+"ZH_Text0": "願壯士武運昌隆。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu mong tráng sĩ võ công tấn tới, không gì ngăn cản được..",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440361,
+"ZH_Text0": "多謝壯士，再多看看其他商品吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đa tạ tráng sĩ, lại nhìn thêm thương phẩm khác đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440362,
+"ZH_Text0": "壯士，我們隨時在此候命。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tráng sĩ, chúng ta tùy thời ở đây đợi lệnh.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440363,
+"ZH_Text0": "謝謝你，壯士。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cám ơn ngươi, tráng sĩ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440364,
+"ZH_Text0": "願壯士此行劈波斬浪、克敵制勝。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu cho tráng sĩ chuyến này bổ núi ngăn sông, đánh đâu thắng đó.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440381,
+"ZH_Text0": "請諸位壯士盡量挑、盡量選！當作是小的為九州盡份心力！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mời chư vị tráng sĩ tận lực chọn! Coi như là tiểu nhân vì Cửu Châu góp chút sức lực!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440382,
+"ZH_Text0": "願壯士武運昌隆。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu mong tráng sĩ võ công tấn tới, không gì ngăn cản được..",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440383,
+"ZH_Text0": "我們會為諸位壯士祈求平安、順利。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chúng ta sẽ vì chư vị tráng sĩ cầu khấn thuận lợi bình an.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 440384,
+"ZH_Text0": "咱周饒人是兩位星使絕對可靠的後援！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Người Chu Nhiêu ta là hậu phương đáng tin cậy tuyệt đối của hai vị Tinh sứ.",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]

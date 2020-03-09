@@ -1,0 +1,2089 @@
+[
+{
+"ID": 80001,
+"ZH_Text0": "？？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "??",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80002,
+"ZH_Text0": "傲狠",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngạo Ngoan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80003,
+"ZH_Text0": "饕餮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thao Thiết",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80004,
+"ZH_Text0": "北斗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Đẩu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80005,
+"ZH_Text0": "南斗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nam Đẩu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80011,
+"ZH_Text0": "神援召喚攻擊需求：等級 5
+攻擊效果：造成敵全體高傷，1回合劍陣系傷害增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần viện trợ tấn công, yêu cầu: LV 5 
+Hiệu quả công kích: Gây sát thương lớn toàn thể địch, tăng sát thương 1 lượt Kiếm Trận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80012,
+"ZH_Text0": "神援召喚攻擊需求：等級 4
+攻擊效果：對敵方全體造成傷害，我方回血100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần viện trợ tấn công, yêu cầu: LV 4 
+Hiệu quả công kích: Gây sát thương toàn thể địch, bên ta hồi máu 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80013,
+"ZH_Text0": "神援召喚攻擊需求：等級 6
+攻擊效果：造成敵全體高傷，我方連續3回合回血40%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần viện trợ tấn công, yêu cầu: LV 6 
+Hiệu quả công kích: Gây sát thương lớn toàn thể địch, bên ta liên tục 3 lượt hồi máu 40%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80014,
+"ZH_Text0": "神援召喚攻擊需求：等級 7
+攻擊效果：對戰場上全體敵方造成巨大傷害",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần viện trợ tấn công, yêu cầu: LV 7 
+Hiệu quả công kích: Gây sát thương cực lớn toàn thể quân địch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80015,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80016,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80017,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80018,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80019,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80020,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80021,
+"ZH_Text0": "獻上美玉，提升神祇等級並獲得技能加乘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dâng mỹ ngọc, tăng LV và kỹ năng thần thú",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80121,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80122,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80123,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80124,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80125,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80126,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80127,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80128,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80129,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80130,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80131,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80132,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80133,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80134,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80135,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80136,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80137,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80138,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80139,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80140,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80141,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80142,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80143,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80144,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80145,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80146,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80147,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80148,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80149,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80150,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80151,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80152,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80153,
+"ZH_Text0": "元靈最大值上升",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng Nguyên Linh tối đa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80154,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80155,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80156,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80157,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80158,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80159,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80160,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80161,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80162,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80163,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80164,
+"ZH_Text0": "劍陣系招式，每把發劍威力增加",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chiêu thức Kiếm Trận, mỗi kiếm uy lực tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80501,
+"ZH_Text0": "你誠心獻祭之物，將成為我的力量。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vật ngươi thành tâm hiến tế, sẽ trở thành sức mạnh của ta.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80502,
+"ZH_Text0": "孩子，謝謝你。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu tử, cám ơn ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80503,
+"ZH_Text0": "你獻祭的美玉，本神收下了。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta thu nhận mỹ ngọc của ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80504,
+"ZH_Text0": "很好，下次再多拿一些過來吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tốt lắm, lần sau đem nhiều hơn đến đây!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80505,
+"ZH_Text0": "這有什麼好吃的！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái này có gì ngon!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80506,
+"ZH_Text0": "與其給我這個，不如讓老子吃了你！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nếu không muốn ta ăn cả ngươi thì cho ta cái này!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80507,
+"ZH_Text0": "勞山之主，已收下你的獻祭。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã hiến tế Lao Sơn chi chủ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80508,
+"ZH_Text0": "我將回應你的真誠。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta trả lại cho ngươi tương xứng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80509,
+"ZH_Text0": "吾甚滿意。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta rất hài lòng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80510,
+"ZH_Text0": "如你所願……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Như ngươi muốn...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80601,
+"ZH_Text0": "好的方向。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phương hướng tốt.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80602,
+"ZH_Text0": "對你大有益處。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có ích đối với ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80611,
+"ZH_Text0": "這將對你有所幫助。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái này sẽ trợ giúp ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80612,
+"ZH_Text0": "我知道你會善用它。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta biết ngươi sẽ biết cách sử dụng nó cho đúng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80613,
+"ZH_Text0": "相信自己的力量——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": " —— Tin tưởng vào sức mạnh của mình.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80621,
+"ZH_Text0": "專心凝神，我來助你。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tập trung tinh thần, ta đến giúp ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80622,
+"ZH_Text0": "很好，我將傾注神力於其上。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rất tốt, ta đem thần lực trút xuống",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80631,
+"ZH_Text0": "嘿嘿嘿，做完這個，就讓老子咬一口吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hahaha, làm xong thì để ta cắn một cái!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80632,
+"ZH_Text0": "別想從老子這白拿好處。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đừng mơ tưởng ăn trắng đồ của ta.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80641,
+"ZH_Text0": "有我神力加持，俗物也能變成神器。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có thần lực của ta phụ giúp, phàm vật cũng có thể biến thành Thần khí.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80642,
+"ZH_Text0": "好了，儘管感謝本神吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tốt, cứ việc cảm tạ ta đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80701,
+"ZH_Text0": "哦……出乎意料。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ây da... Ngoài ý muốn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80702,
+"ZH_Text0": "嗯，不錯的選擇。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Được, lựa chọn tốt.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80711,
+"ZH_Text0": "很好，你已逐漸能知曉掌控。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rất tốt, ngươi dần hiểu cách khống chế rồi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80712,
+"ZH_Text0": "試著以星輪之力注入其中吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thử lấy tinh vòng lực rót vào trong đó đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80721,
+"ZH_Text0": "萬物相融，皆得其道。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vạn vật tương đồng, tất cả đều đắc đạo.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80722,
+"ZH_Text0": "一切含識，兩忘而化其道。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hết thảy ngậm biết, lưỡng vong mà hóa đạo.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80731,
+"ZH_Text0": "我等不及啦，你答應給老子吃的東西呢！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta không chờ được nữa, đồ ăn ngươi đáp ứng cho ta đâu!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80732,
+"ZH_Text0": "嘿嘿嘿，還不是要靠老子幫忙！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ha ha ha, còn không phải cần ta đến hỗ trợ!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80741,
+"ZH_Text0": "居然如此浪費！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lãng phí như vậy!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80742,
+"ZH_Text0": "不管你想要什麼，本神都能給你更好的！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mặc kệ ngươi muốn cái gì, ta đều có thể cho ngươi thứ tốt hơn!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80743,
+"ZH_Text0": "哼哼，小子，還是我來助你一臂之力吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hừ hừ, tiểu tử, để ta đến giúp ngươi một tay đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80801,
+"ZH_Text0": "……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 80802,
+"ZH_Text0": "……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 81001,
+"ZH_Text0": "人與神的誓約開啟了，點擊手把的【Ｘ】或鍵盤【2】",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mở Thần thề, ấn【X】trên tay cầm hoặc【2】trên bàn phím",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 81002,
+"ZH_Text0": "新的神祇加入了，點擊手把的【Ｘ】或鍵盤【2】",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần thú mới, ấn【X】trên tay cầm hoặc【2】trên bàn phím",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 81003,
+"ZH_Text0": "來自神祇的呼喚，點擊手把的【Ｘ】或鍵盤【2】",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần chỉ kêu gọi, ấn【X】trên tay cầm hoặc【2】trên bàn phím",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82001,
+"ZH_Text0": "神女，那夜夢中，你是想提醒我淨災即將降臨嗎？你能預知到淨，是否也知道其解決之法？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần nữ, trong giấc mộng đêm hôm đó, ngươi muốn nhắc ta toàn tai sắp giáng xuống sao? Ngươi có thể dự báo về “Tịnh“, phải chăng cũng biết cách giải quyết?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82002,
+"ZH_Text0": "孩子，我原是這星輪之主，因遭難而只餘一縷殘魂寄宿於其中。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu tử, ta vốn là chủ nhân cái vòng này, bởi một lần gặp tai ương mà chỉ còn lại một sợi tàn hồn trong đó.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82003,
+"ZH_Text0": "你們稱之為『淨』的這場災難，是一股幽暗之力所導致。我能察覺這威脅，卻無力阻止其蔓延。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái tràng tai ương gọi là “Tịnh“ này do một thế lực hắc ám mang tới. Ta có thể phát hiện, nhưng không thể ngăn cản.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82004,
+"ZH_Text0": "若非傲狠給予你那塊與我一般的……玉石餘燼，讓我暫時以共鳴之力修補殘魂，我也無法這樣與你連結。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nếu không phải Ngạo Ngoan cho ngươi khối tàn ngọc kia để ta tạm thời tu bổ tàn hồn, thì ta cũng không có cách nào nói cho ngươi biết.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82005,
+"ZH_Text0": "如果連神女都無力阻止，我……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nếu như ngay cả thần nữ cũng không đủ sức ngăn cản, thì ta phải làm sao...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82006,
+"ZH_Text0": "孩子，你手中星輪乃是關鍵之物，伊祁需要你的協助。去帝都見他吧——這也是，我未能完成的使命。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hài tử, cái vòng trong tay ngươi chính là vật mấu chốt, Y Kỳ cần ngươi trợ giúp. Đây cũng là sứ mệnh ta chưa thể hoàn thành, ngươi —— đến Đế Đô gặp hắn đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82011,
+"ZH_Text0": "神女，難得見你露出這樣的笑容，發生什麼好事了嗎？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần nữ, hiếm khi thấy ngươi lộ ra nụ cười như thế, có chuyện gì tốt sao?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82012,
+"ZH_Text0": "見到心中掛念，得知他安好，如此而已。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thấy được hoài niệm trong lòng, biết hắn vẫn mạnh khỏe, chỉ như vậy thôi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82013,
+"ZH_Text0": "是雲兄指環中的神人嗎……神女似乎與他交情不菲。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Là thần nhân bên trong chiếc nhẫn của Vân huynh à... Thần nữ dường như rất thân quen hắn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82014,
+"ZH_Text0": "我倆相識確實是很久了。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hai ta đúng là từ rất lâu đã quen biết.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82015,
+"ZH_Text0": "（我和雲兄的指環果然有著密不可分的聯繫，相信到帝都定能知道得更加清楚吧。）",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "(ta và chiếc nhẫn của Vân huynh có liên hệ chặt chẽ không thể tách rời, chắc đến Đế Đô sẽ biết được rõ ràng hơn.)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82021,
+"ZH_Text0": "孩子，那幽暗之力正與日俱增，愈加洶湧。在一切無法挽回之前，你務必要勤加練習，直到能完全掌控南斗星輪。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hài tử, cỗ hắc ám sức mạnh kia đang ngày càng gia tăng mãnh liệt. Trước khi xảy ra tình huống không thể cứu vãn thì ngươi phải cố gắng tập luyện cho đến khi hoàn toàn khống chế được tinh vòng Nam Đẩu này.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82022,
+"ZH_Text0": "我會的，神女請放心。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta đã rõ, thần nữ xin yên tâm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82023,
+"ZH_Text0": "只是，單憑你仍不足以對抗這幽暗襲捲之勢，還需雲傾那孩子也一起……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuy nhiên, chỉ một mình ngươi vẫn không đủ để đối khắc sức mạnh hắc ám kia, vẫn còn cần tiểu tử Vân Khuynh kia lượt lực cùng nhau...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82024,
+"ZH_Text0": "神女無須擔心，我相信雲兄他定也願與我為九州蒼生共同努力。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần nữ yên tâm, ta tin Vân huynh cũng nguyện ý cùng ta vì Cửu Châu mà cùng cố gắng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82025,
+"ZH_Text0": "那孩子，似乎對蒼夜有些誤會，畢竟蒼夜的性格……唉，恐怕他倆還需要些時間。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu tử kia dường như vẫn còn chút hiểu lầm với Thương Dạ. Dù sao với tính cách Thương Dạ thì... haiz, chỉ sợ hai người còn cần chút thời gian.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82031,
+"ZH_Text0": "孩子切記，無論如何，不要再與北斗星輪相搏。否則，一旦你們真正使出全力，後果將不堪設想。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi hãy nhớ, cho dù thế nào đừng đối chiến Bắc Đẩu. Nếu không, một khi các ngươi dùng toàn lực thì hậu quả là không thể nào tưởng tượng nổi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82032,
+"ZH_Text0": "我……從來就沒想過要與雲兄為敵……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta... Ta chưa hề có ý nghĩ đối đầu với Vân huynh...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82041,
+"ZH_Text0": "現在想來，當年星見大祭，我和蒼夜恐怕就是被大羿的混沌之箭所殺。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bây giờ ngẫm lại, lần tế tinh năm đó, ta cùng Thương Dạ suýt nữa bị Đại Nghệ dùng Hỗn Độn Chi Tiễn bắn chết.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82042,
+"ZH_Text0": "我與蒼夜分別為南斗六星和北斗七星之主，並身負著守護天極星的職責。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta cùng Thương Dạ phân biệt là Nam Đẩu lục tinh và Bắc Đẩu thất tinh, đồng thời giữ nhiệm vụ thủ hộ Thiên Cực Tinh.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82043,
+"ZH_Text0": "大羿當年除了欲掩蓋淨之真相之外，恐怕也是為了找到天極星，以破除混沌的最終封印——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đại Nghệ năm đó ngoại trừ muốn che giấu chân tướng của “Tịnh“, còn là vì tìm cách phá hủy phong ấn Hỗn Độn cuối cùng của Thiên Cực Tinh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82044,
+"ZH_Text0": "幸而，南北斗星輪最終未落在他的手上。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "May mà Bắc Đẩu tinh vòng cuối cùng không rơi vào tay hắn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82045,
+"ZH_Text0": "神女，我必阻止這場災劫，阻止攝日王的野心！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần nữ, ta sẽ ngăn cản trận tai kiếp này, ngăn cản dã tâm thâu tóm mặt trời của bọn chúng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82046,
+"ZH_Text0": "孩子，去吧，我會一直陪在你的身邊。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tốt lắm, đi thôi, ta sẽ một mực đi theo hỗ trợ ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82051,
+"ZH_Text0": "這星輪所承載的責任，比你想像的更加沈重。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trách nhiệm của cái tinh vòng này, chỉ sợ so với tưởng tượng của ngươi còn nặng nề hơn nữa.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82052,
+"ZH_Text0": "在我消逝之前，我會盡力指引你，教導你。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trước khi bản thân ta tan biến, ta sẽ hết sức chỉ bảo ngươi...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82053,
+"ZH_Text0": "來，先試著洞察與掌握我的力量吧……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Được rồi, trước mắt hãy nhìn rõ và nắm lấy năng lực của ta đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82101,
+"ZH_Text0": "小飛星，今後老頭子會一直陪著你，協助你。你若遇到困難，隨時可和老頭子商量。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Phi Tinh, từ giờ lão đầu tử ta sẽ một mực hỗ trợ ngươi. Nếu ngươi gặp khó khăn bất cứ lúc nào cũng có thể thương lượng với ta.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82201,
+"ZH_Text0": "雲傾，老子總有一天要吃掉你！將你吃得一點也不剩，這可是我們的約定，你可別想甩掉老子！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vân Khuynh, rồi sẽ có một ngày ta ăn được ngươi, ăn đến mức xương cốt cũng không thừa. Đây chính là ước định của chúng ta, ngươi đừng mơ vứt bỏ ta.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82301,
+"ZH_Text0": "不管你怎麼想，反正你已經是本神的繼承人，心懷感激地使用我所賦予你的力量吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mặc kệ ngươi nghĩ thế nào thì cũng là người thừa kế của ta, hãy cảm kích mà sử dụng sức mạnh mà ta đã giao phó cho ngươi đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 82401,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83001,
+"ZH_Text0": "…………",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... ...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83002,
+"ZH_Text0": "…………",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... ...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83003,
+"ZH_Text0": "…………",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... ...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83004,
+"ZH_Text0": "…………",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... ...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83101,
+"ZH_Text0": "鬃伯，你說與神巫若桑有過約定，莫非你常說的那個關於巫女與凶獸的故事，主角就是——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tông Bá, ngươi nói từng cùng Thần Vu Như Tang ước định, có phải là chuyện cũ liên quan tới thần nữ cùng vu nữ hay không, ngươi là nhân vật chính ư ——",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83102,
+"ZH_Text0": "呵呵呵，就是我與若桑不錯。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hahaha, đúng là ta cùng Như Tang quan hệ không tệ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83103,
+"ZH_Text0": "當年，大羿除六凶之後，元氣大傷，卻又突然傳出有惡獸四處食人，伊祁帝遂命風鳴軍出征。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Năm đó sau khi Đại Nghệ diệt trừ sáu hung thú, ta nguyên khí đại thương. Lúc đó đột nhiên lại có tin đồn khắp nơi là ác thú ăn thịt người, Y Kỳ Đế liền lệnh cho Phong Minh quân xuất chinh.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83104,
+"ZH_Text0": "若桑她並不喜歡宮廷內的生活，便自請隨軍，而我們，就是在一場圍獵中初次相見。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Như Tang nàng cũng không thích cuộc sống trong cung, liền xin đi theo quân, ta gặp nàng lần đầu trong một lần đi săn bắn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83105,
+"ZH_Text0": "若桑她，與一般的神巫不同，是個如同烈焰般張揚而美麗的女子。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Như Tang nàng, không giống các Thần Vu khác, nàng là một nữ tử xinh đẹp mà lẫm liệt nhiệt tình.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83106,
+"ZH_Text0": "我遁入勞山時，風鳴軍也已馬困兵乏，她竟不顧自身安危，獨自入山尋我，其間我與她交手多次，漸漸被她所吸引。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khi ta trốn vào Lao Sơn thì Phong Minh quân cũng đã thấm mệt, nàng liền không để ý đến an nguy bản thân mà một mình vào núi tìm ta. Ta cùng nàng giao thủ nhiều lần thì bản thân dần dần bị nàng hấp dẫn...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83107,
+"ZH_Text0": "後來，就如同我故事所說——她發現我並非食人真凶，但又無法說服你祖公回帝都，於是，便與風鳴軍一起留下建村。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sau đó như cố sự đã nói —— Nàng phát hiện ta không phải là hung phạm, nhưng lại không làm sao thuyết phục quân sĩ trở về Đế Đô, thế là nàng bất đắc dĩ đành cùng Phong Minh quân cùng ở lại xây thôn xóm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83108,
+"ZH_Text0": "而我，則以人形之姿，跟著她一起融入了凡人的生活。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mà ta, thì lại biến thành hình dáng con người, đi theo nàng và phàm nhân hòa cùng một chỗ mà sinh hoạt.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83109,
+"ZH_Text0": "可惜，巫咸之血，註定早夭；我倆還沒有足夠時間相伴，她便離開人世了……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đáng tiếc, dòng máu Vu Hàm đã định phải chết sớm, nàng làm bạn với ta chưa lâu thì đã rời đi nhân thế...",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83111,
+"ZH_Text0": "當年九州大亂，各地凶獸伺機作惡，饕餮慫恿我一起加入被我拒絕，遂故意冒我之名四處食人。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Năm đó Cửu Châu đại loạn, hung thú hoành hành khắp nơi, Thao Thiết rủ rê ta cùng nhau gia nhập nhưng ta cự tuyệt, hắn liền tung tin khắp nơi là ta ăn thịt người.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83112,
+"ZH_Text0": "後來我開始受到追捕，我起先不明所以，為求生存極力反抗，卻因此造成無數死傷……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sau đó mọi người truy nã ta, lúc đầu bản thân ta cũng ko rõ vì sao bị như vậy, nhưng vì cầu sinh mà cực lực phản kháng gây thương vong khắp nơi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83113,
+"ZH_Text0": "如今想來，胸口仍有一口惡氣。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bây giờ ta nghĩ lại trong bụng vẫn còn bực tức.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83114,
+"ZH_Text0": "小飛星，饕餮貪食，喜怒無常，你千萬不要單獨與他打交道。你和小羽的氣味，對他都是致命吸引。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Phi Tinh, Thao Thiết tham ăn, hỉ nộ bất thường, ngươi tuyệt đối không nên một mình liên hệ với hắn. Mùi của ngươi và tiểu Vũ đều là hấp dẫn trí mạng đối với hắn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83115,
+"ZH_Text0": "鬃伯放心，我會注意的。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tông Bá yên tâm, ta sẽ chú ý.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83121,
+"ZH_Text0": "想不到連不周山都已淪陷，那裡充斥著一股熟悉、又可怕的力量，是足以將一切吞噬殆盡的幽暗。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không ngờ ngay cả Bất Chu Sơn đều đã bị luân hãm, nơi đó tràn ngập một cỗ sức mạnh u ám đáng sợ mà quen thuộc, đủ để thôn tính gần như hết thảy mọi thứ.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83122,
+"ZH_Text0": "想當初在勞山，我就是為阻擋這股自東海水中蔓延上來的黑暗之息，幾乎耗盡靈力。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhớ ngày đó tại Lao Sơn, ta gần như hao hết tinh lực để năng cản cỗ hắc ám sức mạnh đến từ Đông Hải này.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83123,
+"ZH_Text0": "唉，人界，只怕要迎來一場未知的大災難。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ôi... Nhân giới, chỉ sợ sẽ phải nghênh đón một trận đại hạo kiếp.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83131,
+"ZH_Text0": "呵呵呵，小飛星，你可終於給自己找了個漂亮的媳婦兒了！老頭子就算現在死去也可以瞑目啦！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ha ha ha, Tiểu Phi Tinh, ngươi cuối cùng cũng tìm được một cô vợ trẻ xinh đẹp. Lão đầu tử dù hiện tại có chết cũng có thể nhắm mắt xuôi tay rồi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83132,
+"ZH_Text0": "鬃伯，我——你別笑話我！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tông Bá, ta —— ngươi đừng chê cười ta!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83133,
+"ZH_Text0": "傻小子，這有什麼好害羞的，哪天大婚可得記得叫上老頭子啊！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu tử ngốc, cái này có gì phải xấu hổ, ngươi ngày nào đại hôn nhớ phải mời ta đấy.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83141,
+"ZH_Text0": "小飛星，你怎可如此輕賤自己性命？若非有禍天上神協助奪回你的元魂、重塑你肉身，你早已灰飛煙滅！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Phi Tinh, ngươi sao có thể coi khinh tính mạng mình như vậy? Nếu không phải có Họa Thiên thương thần hỗ trợ đoạt lại Nguyên Hồn, lại tái tạo thân thể ngươi, ngươi sớm đã chết mất xác!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83142,
+"ZH_Text0": "混沌幽洪勢起，如今九州正是需要你的時候——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỗn Độn U Hồng hiện lên, bây giờ là thời điểm Cửu Châu cần ngươi ——",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83143,
+"ZH_Text0": "你可知道，若你放棄星輪，待星輪再尋找到下一個合適的繼承者，不知還要多少年月，你以為人界還有多少時間？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi cũng biết, nếu từ bỏ tinh vòng, đợi tinh vòng tìm được người thừa kế thích hợp kế tiếp không biết phải trải qua ròng rã bao nhiêu năm tháng, ngươi cho rằng Nhân giới còn có bao nhiêu thời gian??",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83144,
+"ZH_Text0": "答應老頭子，下次不准再這麼任性了。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đáp ứng ta, lần sau không được tùy hứng như vậy nữa.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83145,
+"ZH_Text0": "鬃伯，抱歉……是我讓你們傷心了。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tông Bá, thật có lỗi... Là ta khiến mọi người thương tâm.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83151,
+"ZH_Text0": "眼下情勢極為艱難，小飛星，你們務必小心——老頭子，也不會袖手旁觀的。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiện tại tình thế cực kì gian nan, Tiểu Phi Tinh, các ngươi cần phải cẩn thận —— ta cũng sẽ không khoanh tay đứng nhìn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83152,
+"ZH_Text0": "鬃伯，謝謝你。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tông Bá, cám ơn ngươi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83153,
+"ZH_Text0": "盡管放手一搏吧，老頭子會傾盡所有力量，助你得勝。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứ việc thoải mái đánh cược một lần đi, ta sẽ dốc hết tất cả sức mạnh giúp ngươi chiến thắng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83201,
+"ZH_Text0": "嗯～～那小子真香，這麼純粹的味道跟雲傾你挺像啊！嘿嘿，該從哪裡開始吃好呢……",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "A ~~ tiểu tử kia thật là thơm, hương vị thuần túy rất giống Vân Khuynh ngươi! Ha ha, ngươi xem ta nên bắt đầu ăn từ nơi nào được đây..",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83202,
+"ZH_Text0": "他是我的藥材，不准你動他。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hắn là dược liệu của ta, không cho phép ngươi động đến hắn.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83203,
+"ZH_Text0": "你、你什麼時候來的！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi, ngươi đến đây lúc nào!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83204,
+"ZH_Text0": "老子什麼都沒做，連舔都沒舔到一口，快把針拔出來，好痛啊！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta chưa làm cái gì hết, ngay cả liếm cũng không có liếm qua, mau rút châm ra, đau quá!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83211,
+"ZH_Text0": "嘿嘿，還是現在看起來比較好吃，一動不動的樣子，老子見了都沒食慾！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ha ha, cái dáng vẻ nằm im không nhúc nhích này, lão tử gặp đều không muốn ăn!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83212,
+"ZH_Text0": "你知道嗎？那笨小子一聽我說，碧水鈴蘭是清除你身上餘毒的唯一藥引，居然眼也不眨就拿刀割了手。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi biết không? Tiểu tử đần kia nghe ta nói xong, nước linh lan xanh là thuốc dẫn duy nhất để thanh trừ dư độc trên người ngươi, hắn liền không chớp mắt mà lấy đao cắt tay.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83213,
+"ZH_Text0": "真不愧是傲狠看上的傢伙，兩人一樣愚蠢，情義這種東西能吃嗎！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thật không hổ là người mà Ngạo Ngoan coi trọng, đều là một giuộc ngu xuẩn, thứ tình nghĩa này có thể ăn sao!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83214,
+"ZH_Text0": "不過雲傾，這麼多年，你身邊總算出現像樣的人啦，嘿嘿，美味的好友，你要好好珍惜啊！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuy nhiên nhiều năm như vậy, bên cạnh ngươi cuối cùng cũng có kẻ ra dáng người! Ha ha, mùi vị hảo hữu này, ngươi phải biết quý trọng!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83215,
+"ZH_Text0": "親近我的，從來沒有好下場，所以，我不需要朋友。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Những kẻ thân cận ta chưa ai có kết cục tốt, cho nên ta không cần bằng hữu.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83221,
+"ZH_Text0": "雲傾，我好像聞到那個姑娘的味道啦！算算距離……再不出兩個時辰，她就要到了吧～",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vân Khuynh, ta hình như ngửi thấy hương vị cô nương kia! Để xem... Không tới hai canh giờ nữa là nàng đến.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83222,
+"ZH_Text0": "你說她要是見到你現在這樣子，會怎麼想？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi đoán xem nếu nhìn thấy bộ dáng ngươi hiện tại, nàng sẽ nghĩ gì?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83223,
+"ZH_Text0": "……我不會見她。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... Ta không gặp nàng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83231,
+"ZH_Text0": "雲傾，那個大羿這麼難纏，我要是幫你吃了他，你是不是該讓老子嚐一口了？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vân Khuynh, Đại Nghệ kia khó chơi như vậy, nếu ta giúp ngươi ăn hắn, ngươi nên chia sẻ cho ta một miếng chứ nhỉ?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83232,
+"ZH_Text0": "你吃得了他嗎？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi ăn được hắn sao?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83233,
+"ZH_Text0": "這、這—— 老子不管！只要老子把他搞定，你就得遵守承諾！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái này, cái này —— lão tử mặc kệ! Chỉ cần ta giải quyết hắn, ngươi phải tuân thủ hứa hẹn!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83234,
+"ZH_Text0": "到時老子要一口一口慢慢吃，直到連渣都不剩，嘿嘿，那滋味肯定絕妙極了！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến lúc đó lão tử muốn từ từ ăn từng miếng, cho đến khi ngay cả xương cốt cũng không còn, Ha ha, tư vị kia khẳng định cực kỳ tuyệt diệu !",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83301,
+"ZH_Text0": "哼，若非我現今只餘殘魂，又何需尋找繼承北斗星輪之人。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hừ, nếu không phải ta hiện chỉ còn lại tàn hồn, cần gì phải tìm người thừa kế Bắc Đẩu tinh vòng.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83302,
+"ZH_Text0": "本以為找到一個不論本質、還是天賦根骨，都是最上乘的，卻沒想到那小子簡直就是顆頑石——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vốn cho rằng tìm được tên mà từ bản chất đến thiên phú căn cốt đều là thượng thừa nhất, không ngờ tiểu tử kia đơn giản chỉ là một tên ngoan cố",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83303,
+"ZH_Text0": "喂，雲傾小子你過來。讓本神看看你的功夫有否進展！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Này, tiểu tử ngươi qua đây. Để ta nhìn xem công phu của ngươi có tiến triển hay không!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83304,
+"ZH_Text0": "不勞閣下費心。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không phiền các hạ hao tâm tổn trí.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83305,
+"ZH_Text0": "你說什麼！臭小子，你可知道這星輪可是天上天下人人求之不得的寶貝，想要的人都排到天邊去了，你竟然——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi nói gì! Tiểu tử thúi, ngươi cũng biết cái tinh vòng này thế nhưng là bảo bối mọi người cầu còn không được, người muốn có nó xếp hàng đến tận chân trời, ngươi vậy mà ——",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83306,
+"ZH_Text0": "你已經說了無數次了。請另擇他主吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ta đã nói vô số lần. Mời chọn chủ nhân khác đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83307,
+"ZH_Text0": "你——氣死我了！氣死我了！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi —— tức chết ta rồi! Tức chết ta rồi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83311,
+"ZH_Text0": "千宵總是三句不離那個臭小子飛星，一下說他心性純善，一下又讚許他苦心專研、進步神速！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Tiêu luôn không rời tiểu tử thúi Phi Tinh kia ba bước, lúc thì khen hắn tâm tính thiện lương, lúc thì lại khen ngợi hắn khổ tâm nghiên cứu, tiến bộ thần tốc!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83312,
+"ZH_Text0": "我倆殘魂說不準何時就要消散，難得小聚，她竟然滿口都是一個黃毛小子！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hai ta tàn hồn tiêu tán lúc nào còn không biết chính xác, khó khăn lắm mới được gặp gỡ, nàng vậy mà lúc nào cũng chỉ nhắc đến cái tiểu tử miệng còn hôi sữa kia!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83313,
+"ZH_Text0": "可惡啊——為什麼本神的徒兒卻是這副臭模樣！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ghê tởm —— vì cái gì đồ nhi của ta lại là bộ dáng thối hoắc!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83314,
+"ZH_Text0": "不可能！本神的眼光不可能有問題——",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không thể nào! Ánh mắt của ta không thể có vấn đề ——",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83315,
+"ZH_Text0": "若你嫌我不爭氣，就快將星輪拿走吧。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nếu ngươi chê ta không có hy vọng thì nhanh đem tinh vòng tránh xa ta đi.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83316,
+"ZH_Text0": "你——不拿！本神偏不拿！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngươi —— không cầm! Bản thần tuyệt không cầm!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83321,
+"ZH_Text0": "喂， 雲傾，你一聲不吭就來到寒荒，怎麼對那些與你出生入死的夥伴交代？過去如何真那麼重要？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Này, Vân Khuynh ngươi không nói một lời liền đến Hàn Hoang, thế còn đồng bọn vào sinh ra tử của ngươi thì sao? Quá khứ thật sự trọng yếu như vậy?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83322,
+"ZH_Text0": "………………………",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... ... ... ... . . .",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83323,
+"ZH_Text0": "不說話？不說話就表示你顧念著他們！還不快回去！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không nói lời nào? Không nói lời nào có nghĩa là ngươi vẫn nhớ tới bọn hắn! Còn không mau trở về!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83324,
+"ZH_Text0": "追尋過去，是支撐我生存至今的主要原因。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Truy tìm quá khứ là động lực chủ yếu giúp ta chèo chống sinh tồn cho đến ngày hôm nay.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83325,
+"ZH_Text0": "更何況，這裡，才是我的歸屬之地。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Huống chi nơi này mới là vùng đất mà ta thuộc về .",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83331,
+"ZH_Text0": "你這糊塗小子，害得本神神識差點就被你的殺念所吞噬！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu tử ngươi thật hồ đồ, làm hại thần thức của ta xém chút nữa bị sát niệm của ngươi thôn tính!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83332,
+"ZH_Text0": "還有天極星，唉！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Còn có Thiên Cực Tinh, ai!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83333,
+"ZH_Text0": "……抱歉，我會肩負起自己所有的過錯。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... Thật có lỗi, ta sẽ gánh vác tất cả sai lầm của bản thân.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83334,
+"ZH_Text0": "現在，我已不再迷惘，既然你選擇了我，那我就讓你看看我能做到的事。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiện tại ta đã không còn chấp mê bất ngộ, ngươi đã lựa chọn ta, ta sẽ cho ngươi thấy ta có thể làm được những gì.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83335,
+"ZH_Text0": "……什麼？你說什麼！哈哈，哈哈哈哈——好，我的好徒兒，你終於開竅了！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "... Cái gì? Ngươi nói cái gì! Ha ha, ha ha ha ha —— tốt, đồ nhi ngoan của hiểu, ngươi rốt cục đã hiểu!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 83336,
+"ZH_Text0": "那咱們師徒就來大殺一場吧！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vậy sư đồ chúng ta liền đến đại sát một trận đi!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85001,
+"ZH_Text0": "等級",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "LV",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85002,
+"ZH_Text0": "神力加持",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần lực gia trì",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85003,
+"ZH_Text0": "下個等級",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cấp độ tiếp theo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85004,
+"ZH_Text0": "神祇升級尚需",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần chỉ thăng cấp cần",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85005,
+"ZH_Text0": "神佑之沙",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Cát",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85006,
+"ZH_Text0": "與神靈對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "    Mượn thần lực, cùng thần đối thoại ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85007,
+"ZH_Text0": "獻祭物品，提升神靈之力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "   Dâng vật phẩm cho thần",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85008,
+"ZH_Text0": "敬獻神佑之沙，神化物品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiến thần cát, cương hóa vật phẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85009,
+"ZH_Text0": "以神靈之力融合物品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xuyên qua Cửu Lê đỉnh đúc lại vật phẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85010,
+"ZH_Text0": "神力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tăng ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85011,
+"ZH_Text0": "至高等級",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "LV tối cao",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85012,
+"ZH_Text0": "可提升的技能",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có thể tăng kỹ năng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85013,
+"ZH_Text0": "主手",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85014,
+"ZH_Text0": "副手",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phụ tá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85015,
+"ZH_Text0": "裝備中",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã trang bị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85021,
+"ZH_Text0": "與神靈對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Thần Linh đối thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85022,
+"ZH_Text0": "與神靈對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Thần Linh đối thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85023,
+"ZH_Text0": "與神靈對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Thần Linh đối thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85024,
+"ZH_Text0": "與神靈對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Thần Linh đối thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85031,
+"ZH_Text0": "獻祭物品，提升神靈之力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiến tế vật phẩm, tăng Thần Linh chi lực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85032,
+"ZH_Text0": "獻祭物品，提升神靈之力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiến tế vật phẩm, tăng Thần Linh chi lực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85033,
+"ZH_Text0": "獻祭物品，提升神靈之力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiến tế vật phẩm, tăng Thần Linh chi lực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85034,
+"ZH_Text0": "獻祭物品，提升神靈之力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiến tế vật phẩm, tăng Thần Linh chi lực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85041,
+"ZH_Text0": "強化裝備能力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cường hóa năng lực trang bị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85042,
+"ZH_Text0": "轉化提升戰備品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chuyển hóa lên chuẩn chiến đấu phẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85043,
+"ZH_Text0": "賦予裝備其他能力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chuyển đổi trang bị năng lực khác",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85044,
+"ZH_Text0": "強化靈魄能力",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cường hóa năng lực linh phách",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85051,
+"ZH_Text0": "融合神物強化裝備",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dung hợp thần vật cường hóa trang bị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85052,
+"ZH_Text0": "升級技能神石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thăng cấp kỹ năng Thần thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85053,
+"ZH_Text0": "融合神物強化飾品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dung hợp thần vật cường hóa trang sức",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 85054,
+"ZH_Text0": "融合神物強化靈魄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dung hợp thần vật cường hóa linh phách",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]

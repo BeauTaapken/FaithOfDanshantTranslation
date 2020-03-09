@@ -1,0 +1,812 @@
+[
+{
+"ID": 10001,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đồng ý!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 10002,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quay lại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 10003,
+"ZH_Text0": "確定離開遊戲？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bạn muốn thoát trò chơi?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 10101,
+"ZH_Text0": "鍵盤【WSAD】，各方向移動。滑鼠，旋轉視角。【space】：跳躍。",
+"ZH_Text1": "搖桿【左類比】，各方向移動。【右類比】，旋轉視角。【A】：跳躍。",
+"ZH_Text2": "",
+"CH_Text0": "Cụm phím【WSAD】dùng để di chuyển nhân vật. Chuột xoay tròn để chuyển đổi góc nhìn.【Space】: Nhảy/Jump",
+"CH_Text1": "Gamepad【Trục quay trái】dùng để di chuyển nhân vật【Trục quay phải】chuyển đổi góc nhìn.【A】: nhảy/Jump ",
+"CH_Text2": ""
+},
+{
+"ID": 10102,
+"ZH_Text0": "操作提示：位於主畫面右下方，常駐顯示，將顯示當前可進行操作的熱鍵資訊。",
+"ZH_Text1": "操作提示：位於主畫面右下方，常駐顯示，將顯示當前可進行操作的熱鍵資訊。",
+"ZH_Text2": "",
+"CH_Text0": "Mẹo: ở phía dưới cùng bên phải màn hình chính, thường xuất hiện, những hiển thị tin tức giúp bạn thao tác trực tiếp",
+"CH_Text1": "Mẹo: ở phía dưới phải màn hình, thường xuất hiện, những hiển thị tin tức giúp bạn thao tác trực tiếp",
+"CH_Text2": ""
+},
+{
+"ID": 10103,
+"ZH_Text0": "提示訊息：位於主畫面中下方，每當有資訊更新時即會顯示。如角色加入離開、獲得物品金錢等等。",
+"ZH_Text1": "提示訊息：位於主畫面中下方，每當有資訊更新時即會顯示。如角色加入離開、獲得物品金錢等等。",
+"ZH_Text2": "",
+"CH_Text0": "Mẹo: ở phía dưới màn hình chính, mỗi khi có tin tức mới thay đổi sẽ hiển thị. Ví dụ: nhân vật rời đi, thu hoạc được vật phẩm, tiền tài..v..v...",
+"CH_Text1": "Mẹo: ở phía dưới màn hình chính, mỗi khi có tin tức mới thay đổi sẽ hiển thị. Ví dụ: nhân vật rời đi, thu hoạc được vật phẩm, tiền tài..v..v...",
+"CH_Text2": ""
+},
+{
+"ID": 10104,
+"ZH_Text0": "任務目標：位於主畫面右上方，常駐顯示，若目標有限時則會顯示剩餘時間。",
+"ZH_Text1": "任務目標：位於主畫面右上方，常駐顯示，若目標有限時則會顯示剩餘時間。",
+"ZH_Text2": "",
+"CH_Text0": "Mục tiêu nhiệm vụ: hiển thị ở phía trên bên phải màn hình chính. Ví dụ: mục tiêu có thời hạn thì sẽ hiển thị thời gian còn lại là bao nhiêu.",
+"CH_Text1": "Nhiệm vụ mục tiêu: hiển thị ở phía trên bên phải màn hình chính. Ví dụ: mục tiêu có thời hạn thì sẽ hiển thị thời gian còn lại là bao nhiêu.",
+"CH_Text2": ""
+},
+{
+"ID": 10105,
+"ZH_Text0": "任務變更：位於主畫面中上方，每當任務承接與完成，即會顯示短暫時間後消失。",
+"ZH_Text1": "任務變更：位於主畫面中上方，每當任務承接與完成，即會顯示短暫時間後消失。",
+"ZH_Text2": "",
+"CH_Text0": "Nhiệm vụ thay đổi: hiển thị phía trên màn hình chính, mỗi khi tiếp nhận và hoàn thành thì sẽ biến mất sau thời gian ngắn",
+"CH_Text1": "Nhiệm vụ thay đổi: hiển thị phía trên màn hình chính, mỗi khi tiếp nhận và hoàn thành thì sẽ biến mất sau thời gian ngắn",
+"CH_Text2": ""
+},
+{
+"ID": 10106,
+"ZH_Text0": "隊伍對話：位於主畫面左下方，可透過角色對話內容獲取相關劇情與提示資訊。",
+"ZH_Text1": "隊伍對話：位於主畫面左下方，可透過角色對話內容獲取相關劇情與提示資訊。",
+"ZH_Text2": "",
+"CH_Text0": "Đối thoại nhóm: ở phía dưới bên trái của màn hình chính, có thể thông qua nhân vật nói chuyện với nhau thu hoạch được tin tức theo kịch bản.",
+"CH_Text1": "Đối thoại nhóm: ở phía dưới bên trái của màn hình chính, có thể thông qua nhân vật nói chuyện với nhau thu hoạch được tin tức theo kịch bản.",
+"CH_Text2": ""
+},
+{
+"ID": 10107,
+"ZH_Text0": "目前地點：位於主畫面左上方，常駐顯示玩家所在地點名稱。",
+"ZH_Text1": "目前地點：位於主畫面左上方，常駐顯示玩家所在地點名稱。",
+"ZH_Text2": "",
+"CH_Text0": "Địa điểm hiện tại: ở trên cùng bên trái của màn hình chính, tên địa điểm được hiển thị ở đó.",
+"CH_Text1": "Địa điểm hiện tại: ở trên cùng bên trái của màn hình chính, tên địa điểm được hiển thị ở đó.",
+"CH_Text2": ""
+},
+{
+"ID": 10108,
+"ZH_Text0": "前往地點：在場景特定位置，出現可前往另一地點的名稱標示。往名稱處前去，即可前往該地點。",
+"ZH_Text1": "前往地點：在場景特定位置，出現可前往另一地點的名稱標示。往名稱處前去，即可前往該地點。",
+"ZH_Text2": "",
+"CH_Text0": "Địa điểm đến: tại địa điểm đặc biệt trong bản đồ, xuất hiện tên những địa điểm. Hướng về địa điểm đến, liền có thể đến nơi đó.",
+"CH_Text1": "Địa điểm đến: tại địa điểm đặc biệt trong bản đồ, xuất hiện tên những địa điểm. Hướng về địa điểm đến, liền có thể đến nơi đó.",
+"CH_Text2": ""
+},
+{
+"ID": 10109,
+"ZH_Text0": "進入可互動的NPC、物件、特殊移動區域範圍後，鍵盤【E】，即可進行互動。",
+"ZH_Text1": "進入可互動的NPC、物件、特殊移動區域範圍後，搖桿【B】，即可進行互動。",
+"ZH_Text2": "",
+"CH_Text0": "Tiến đến những NPC, các đối tượng, những khu vực đặc thù, bấm【E】để thực hiện tương tác. Đối với bàn phím.",
+"CH_Text1": "Tiến đến những NPC, các đối tượng, những khu vực đặc thù, bấm【B】để thực hiện tương tác. Đối với GamePad",
+"CH_Text2": ""
+},
+{
+"ID": 10110,
+"ZH_Text0": "系統自動儲存進度：每當新的任務開始時，系統會自動儲存在自動存檔紀錄。",
+"ZH_Text1": "系統自動儲存進度：每當新的任務開始時，系統會自動儲存在自動存檔紀錄。",
+"ZH_Text2": "",
+"CH_Text0": "Hệ thống tự động lưu tiến độ chơi game: mỗi khi một nhiệm vụ mới bắt đầu, hệ thống sẽ tự động lưu lại.",
+"CH_Text1": "Hệ thống tự động lưu tiến độ chơi game: mỗi khi một nhiệm vụ mới bắt đầu, hệ thống sẽ tự động lưu lại.",
+"CH_Text2": ""
+},
+{
+"ID": 10111,
+"ZH_Text0": "手動儲存進度：場景中的「金烏靈壺」互動後即可開啟進度儲存介面，有十個儲存欄位可以使用。",
+"ZH_Text1": "手動儲存進度：場景中的「金烏靈壺」互動後即可開啟進度儲存介面，有十個儲存欄位可以使用。",
+"ZH_Text2": "",
+"CH_Text0": "Lưu thủ công: trong bản đồ có “Kim Ô Linh Hồ“ tương tác liền có thể mở ra trang lưu tiến độ, có thể sử dụng 10 ô để lưu",
+"CH_Text1": "Lưu thủ công: trong bản đồ có “Kim Ô Linh Hồ“ tương tác liền có thể mở ra trang lưu tiến độ, có thể sử dụng 10 ô để lưu",
+"CH_Text2": ""
+},
+{
+"ID": 10112,
+"ZH_Text0": "載入進度：於系統選單的「設定」頁中，可選擇載入自動儲存與手動儲存進度。",
+"ZH_Text1": "載入進度：於系統選單的「設定」頁中，可選擇載入自動儲存與手動儲存進度。",
+"ZH_Text2": "",
+"CH_Text0": "Tải tiến độ: phần “Thiết Lập“ hệ thống có thể tuỳ chỉnh tự động lưu hoặc lưu thủ công.",
+"CH_Text1": "Tải tiến độ: phần “Thiết Lập“ hệ thống có thể tuỳ chỉnh tự động lưu hoặc lưu thủ công.",
+"CH_Text2": ""
+},
+{
+"ID": 10113,
+"ZH_Text0": "遊戲過程有多樣類型的冒險任務。冒險任務有專屬的達成數值，主要分為將數值提升與避免數值降低兩種形式。",
+"ZH_Text1": "遊戲過程有多樣類型的冒險任務。冒險任務有專屬的達成數值，主要分為將數值提升與避免數值降低兩種形式。",
+"ZH_Text2": "",
+"CH_Text0": "Có rất nhiều loại nhiệm vụ phiêu lưu trong game. Nhiệm vụ phiêu lưu có giá trị thành tích nhất định. Chủ yếu chia làm 2 loại: tăng trị số và giảm trị số.",
+"CH_Text1": "Có rất nhiều loại nhiệm vụ phiêu lưu trong game. Nhiệm vụ phiêu lưu có giá trị thành tích nhất định. Chủ yếu chia làm 2 loại: tăng trị số và giảm trị số.",
+"CH_Text2": ""
+},
+{
+"ID": 10114,
+"ZH_Text0": "冒險任務開始時，位於主畫面中上方，會顯示小遊戲數值，遊玩過程中每當有數值的變化即會顯示於此處。",
+"ZH_Text1": "冒險任務開始時，位於主畫面中上方，會顯示小遊戲數值，遊玩過程中每當有數值的變化即會顯示於此處。",
+"ZH_Text2": "",
+"CH_Text0": "Khi bắt đầu nhiệm vụ phiêu lưu, nó sẽ nằm ở đầu màn hình chính, điểm của mini game sẽ được hiển thị và bất cứ khi nào có thay đổi về trị số trong khi làm, nó sẽ được hiển thị ở đây.",
+"CH_Text1": "Khi bắt đầu nhiệm vụ phiêu lưu, nó sẽ nằm ở đầu màn hình chính, điểm của mini game sẽ được hiển thị và bất cứ khi nào có thay đổi về trị số trong khi làm, nó sẽ được hiển thị ở đây.",
+"CH_Text2": ""
+},
+{
+"ID": 10115,
+"ZH_Text0": "要特別注意冒險任務期間是無法進行儲存進度的。",
+"ZH_Text1": "要特別注意冒險任務期間是無法進行儲存進度的。",
+"ZH_Text2": "",
+"CH_Text0": "Cần đặc biệt lưu ý: trong khi làm nhiệm vụ phiêu lưu không có khác nào lưu lại tiến độ.",
+"CH_Text1": "Cần đặc biệt lưu ý: trong khi làm nhiệm vụ phiêu lưu không có khác nào lưu lại tiến độ.",
+"CH_Text2": ""
+},
+{
+"ID": 10116,
+"ZH_Text0": "有商店功能的NPC頭上會有專屬的圖示，與其互動後即可開啟商店進行商品交易。",
+"ZH_Text1": "有商店功能的NPC頭上會有專屬的圖示，與其互動後即可開啟商店進行商品交易。",
+"ZH_Text2": "",
+"CH_Text0": "Có của hàng của NPC trên đầu nó sẽ có biểu tượng chuyên dụng, tương tác sẽ thực hiện giao dịch.",
+"CH_Text1": "Có của hàng của NPC trên đầu nó sẽ có biểu tượng chuyên dụng, tương tác sẽ thực hiện giao dịch.",
+"CH_Text2": ""
+},
+{
+"ID": 10117,
+"ZH_Text0": "「戰備品」類型物品是可以在戰鬥中使用的，可在物品介面中設置欲在戰場中使用的戰備品。",
+"ZH_Text1": "「戰備品」類型物品是可以在戰鬥中使用的，可在物品介面中設置欲在戰場中使用的戰備品。",
+"ZH_Text2": "",
+"CH_Text0": "“Chiến đấu phẩm“ là loại vật phẩm có thể sử dụng trong chiến đấu, những vật phẩm này có thể tuỳ chỉnh và sử dụng khi chiến đấu trong giao diện vật phẩm.",
+"CH_Text1": "“Chiến đấu phẩm“ là loại vật phẩm có thể sử dụng trong chiến đấu, những vật phẩm này có thể tuỳ chỉnh và sử dụng khi chiến đấu trong giao diện vật phẩm.",
+"CH_Text2": ""
+},
+{
+"ID": 10118,
+"ZH_Text0": "在裝備介面中，每位主角可裝備主副手兩把武器，並可在武器上設置喜好的招式與靈魄。",
+"ZH_Text1": "在裝備介面中，每位主角可裝備主副手兩把武器，並可在武器上設置喜好的招式與靈魄。",
+"ZH_Text2": "",
+"CH_Text0": "Tại giao diện trang bị, mỗi nhân vật chỉ có thể được trang bị 2 loại vũ khí: chính và phụ nhưng có thể thiết lập chiêu thức cùng linh phách yêu thích trên vũ khí",
+"CH_Text1": "Tại giao diện trang bị, mỗi nhân vật chỉ có thể được trang bị 2 loại vũ khí: chính và phụ nhưng có thể thiết lập chiêu thức cùng linh phách yêu thích trên vũ khí",
+"CH_Text2": ""
+},
+{
+"ID": 10119,
+"ZH_Text0": "戰場中擊敗敵物即有可能獲得其專屬的靈魄。在裝備介面中，可崁入裝備之中，獲得靈魄上的屬性能力。",
+"ZH_Text1": "戰場中擊敗敵物即有可能獲得其專屬的靈魄。在裝備介面中，可崁入裝備之中，獲得靈魄上的屬性能力。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, đánh bại đối thủ có cơ hội thu hoạch được các loại linh phách, tại giao diện trang bị, khảm vào trang bị, trang bị đó sẽ thu hoạch được thuộc tính của linh phách.",
+"CH_Text1": "Trong chiến đấu, đánh bại đối thủ có cơ hội thu hoạch được các loại linh phách, tại giao diện trang bị, khảm vào trang bị, trang bị đó sẽ thu hoạch được thuộc tính của linh phách.",
+"CH_Text2": ""
+},
+{
+"ID": 10120,
+"ZH_Text0": "出戰設置：在隊伍介面中可設置戰鬥出戰的角色。",
+"ZH_Text1": "出戰設置：在隊伍介面中可設置戰鬥出戰的角色。",
+"ZH_Text2": "",
+"CH_Text0": "Thiết lập xuất chiến: trong giao diện đội ngũ thiết lập nhân vật muốn xuất chiến.",
+"CH_Text1": "Thiết lập xuất chiến: trong giao diện đội ngũ thiết lập nhân vật muốn xuất chiến.",
+"CH_Text2": ""
+},
+{
+"ID": 10121,
+"ZH_Text0": "援護設置：若隊伍成員超過三人，可在隊伍介面中可設置戰鬥援護的角色，且該角色必需要有援護招式才可設置。",
+"ZH_Text1": "援護設置：若隊伍成員超過三人，可在隊伍介面中可設置戰鬥援護的角色，且該角色必需要有援護招式才可設置。",
+"ZH_Text2": "",
+"CH_Text0": "Thiết lập chi viện: nếu thành viên trong đội vượt quá ba người, bạn có thể đặt vai trò hỗ trợ cho nhân vật trong giao diện đội ngũ. Và nhân vật phải được thiết lập chiêu thức viện trợ.",
+"CH_Text1": "Thiết lập chi viện: nếu thành viên trong đội vượt quá ba người, bạn có thể đặt vai trò hỗ trợ cho nhân vật trong giao diện đội ngũ. Và nhân vật phải được thiết lập chiêu thức viện trợ.",
+"CH_Text2": ""
+},
+{
+"ID": 10122,
+"ZH_Text0": "戰場中，鍵盤【Q、E】，可選擇我方角色。【←→】，可選擇敵方角色。",
+"ZH_Text1": "戰場中，搖桿【LB、RB】，可選擇我方角色。【左類比】，可選擇敵方角色。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, nhấn phím【Q, E】, có thể lựa chọn nhân vật phe ta, phím【←→】có thể lựa chọn nhân vật quân địch.",
+"CH_Text1": "Trong chiến đấu, Gamepad【LB, RB】, có thể lựa chọn nhân vật phe ta.【Trục quay trái】, có thể lựa chọn chọn nhân vật quân địch.",
+"CH_Text2": ""
+},
+{
+"ID": 10123,
+"ZH_Text0": "戰場中，鍵盤【space】下壓單擊，可開啟與關閉顯示招式、戰備品、援護的相關資訊。",
+"ZH_Text1": "戰場中，搖桿【左類比】下壓單擊，可開啟與關閉顯示招式、戰備品、援護的相關資訊。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, nhấn phím【Space】, hiển thị chiêu tức, nhu yếu phẩm chiến đấu, và tin tức viện trợ.",
+"CH_Text1": "Trong chiến đấu, Gamepad【trái trục quay】, hiển thị chiêu tức, nhu yếu phẩm chiến đấu, và tin tức viện trợ.",
+"CH_Text2": ""
+},
+{
+"ID": 10124,
+"ZH_Text0": "戰場中，移動區域：鍵盤【[、]】，當畫面出現左右箭頭圖示，則代表可以進行對應方向的移動。",
+"ZH_Text1": "戰場中，移動區域：搖桿【右類比】，當畫面出現左右箭頭圖示，則代表可以進行對應方向的移動。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, khu vực di chuyển, nhấn phím【[ hoặc ]】xuất hiện mũi tên trái phải, để chọn hướng di chuyển tương ứng.",
+"CH_Text1": "Trong chiến đấu, khu vực di chuyển, Gamepad【phải trục quay】xuất hiện mũi tên trái phải, để chọn hướng di chuyển tương ứng.",
+"CH_Text2": ""
+},
+{
+"ID": 10125,
+"ZH_Text0": "戰場中，鍵盤【D、W、A、S】，可施放角色招式。【D】為普通攻擊，【W、A、S】為玩家設置的招式。",
+"ZH_Text1": "戰場中，搖桿【B、Y、X、A】，可施放角色招式。【B】為普通攻擊，【Y、X、A】為玩家設置的招式。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, nhấn phím【D, W, A, S】để chọn chiêu thức của nhân vật.【D】tấn công thường,【W, A, S】người chơi thiết lập chiêu thức.",
+"CH_Text1": "Trong chiến đấu, Gamepad【B, Y, X, A】để chọn chiêu thức của nhân vật.【B】tấn công thường,【Y, X, A】người chơi thiết lập chiêu thức.",
+"CH_Text2": ""
+},
+{
+"ID": 10126,
+"ZH_Text0": "戰場中，武器切換：鍵盤【Tab】，可切換主副武器，進而變更武器上的招式。",
+"ZH_Text1": "戰場中，武器切換：搖桿【LT】，可切換主副武器，進而變更武器上的招式。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, đổi vũ khí: nhấn phím【Tab】, thay đổi vũ khí chính và phụ, sẽ thay đổi chiêu thức theo vũ khí.",
+"CH_Text1": "Trong chiến đấu, đổi vũ khí: Gamepad【LT】, thay đổi vũ khí chính và phụ, sẽ thay đổi chiêu thức theo vũ khí.",
+"CH_Text2": ""
+},
+{
+"ID": 10127,
+"ZH_Text0": "戰場中，鍵盤【L、I、J、K】，可使用設置好的戰備品。戰備品為我方隊伍內所有角色共用。",
+"ZH_Text1": "戰場中，搖桿【十字鍵】，可使用設置好的戰備品。戰備品為我方隊伍內所有角色共用。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, cụm phím【L, I, J, K】, có thể sử dụng để thiết lập nhu phẩm chiến đấu cần dùng. Chuẩn bị tốt nhu phẩm chiến đấu vì các nhân vật trong đội ngũ của ta đều cùng được hưởng.",
+"CH_Text1": "Trong chiến đấu, Gamepad【Nút +】, có thể sử dụng để thiết lập tốt nhu phẩm chiến đấu. Chuẩn bị tốt nhu phẩm chiến đấu vì các nhân vật trong đội ngũ của ta đều cùng được hưởng.",
+"CH_Text2": ""
+},
+{
+"ID": 10128,
+"ZH_Text0": "戰場中，鍵盤【X】，可召喚設置好的援護角色。在某些戰鬥中，也會有暫時協助的援護角色加入。",
+"ZH_Text1": "戰場中，搖桿【RT】，可召喚設置好的援護角色。在某些戰鬥中，也會有暫時協助的援護角色加入。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, phím【X】, có thể thiết lập tốt nhân vật viện trợ. Có một vài trường hợp khi chiến đấu, cũng sẽ có nhân vật viện trợ gia nhập tạm thời.",
+"CH_Text1": "Trong chiến đấu, Gamepad【RT】, có thể thiết lập tốt nhân vật viện trợ. Có một vài trường hợp khi chiến đấu, cũng sẽ có nhân vật viện trợ gia nhập tạm thời.",
+"CH_Text2": ""
+},
+{
+"ID": 10129,
+"ZH_Text0": "戰場中，某些強大的敵物會召集同伴擺開陣勢，每種陣型都有不同的威能，對於戰鬥中的影響重大。",
+"ZH_Text1": "戰場中，某些強大的敵物會召集同伴擺開陣勢，每種陣型都有不同的威能，對於戰鬥中的影響重大。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, một ít địch nhân cường đại sẽ triệu tập đồng bọn để triển khai trận thế, mỗi loại trận hình đều có uy lực khác nhau, chiếm được ưu thế chiến đấu lớn hơn.",
+"CH_Text1": "Trong chiến đấu, một ít địch nhân cường đại sẽ triệu tập đồng bọn để triển khai trận thế, mỗi loại trận hình đều có uy lực khác nhau, chiếm được ưu thế chiến đấu lớn hơn.",
+"CH_Text2": ""
+},
+{
+"ID": 10130,
+"ZH_Text0": "戰場中，陣型當中會有一位敵物為首，其為陣眼，只要擊敗陣眼就能破解陣型。",
+"ZH_Text1": "戰場中，陣型當中會有一位敵物為首，其為陣眼，只要擊敗陣眼就能破解陣型。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, trong trận hình sẽ có một tên địch cầm đầu, làm trận nhãn, chỉ cần đánh bại trận nhãn liền có thể phá giải trận hình.",
+"CH_Text1": "Trong chiến đấu, trong trận hình sẽ có một tên địch cầm đầu, làm trận nhãn, chỉ cần đánh bại trận nhãn liền có thể phá giải trận hình.",
+"CH_Text2": ""
+},
+{
+"ID": 10131,
+"ZH_Text0": "戰場中，戰鬥任務：若發生戰鬥任務，會顯示於畫面左上，達成目標後，就有機會取得獎勵。",
+"ZH_Text1": "戰場中，戰鬥任務：若發生戰鬥任務，會顯示於畫面左上，達成目標後，就有機會取得獎勵。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, nhiệm vụ chiến đấu: nếu như xuất hiện nhiệm vụ chiến đấu, sẽ hiển thị phía trên bên trái màn hình chính, khi hoàn thành mục tiêu, liền có cơ hội thu hoạch được ban thưởng.",
+"CH_Text1": "Trong chiến đấu, nhiệm vụ chiến đấu: nếu như xuất hiện nhiệm vụ chiến đấu, sẽ hiển thị phía trên bên trái màn hình chính, khi hoàn thành mục tiêu, liền có cơ hội thu hoạch được ban thưởng.",
+"CH_Text2": ""
+},
+{
+"ID": 10132,
+"ZH_Text0": "戰場中，若達成戰鬥任務，場上可能會出現寶箱。遊戲的難度設定越高，可獲得更好的獎勵。",
+"ZH_Text1": "戰場中，若達成戰鬥任務，場上可能會出現寶箱。遊戲的難度設定越高，可獲得更好的獎勵。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, nếu hoàn thành nhiệm vụ chiến đấu, trên chiến trường sẽ xuất hiện bảo rương. Độ khó của trò chơi càng cao thì có thể nhận được ban thưởng càng tốt",
+"CH_Text1": "Trong chiến đấu, nếu hoàn thành nhiệm vụ chiến đấu, trên chiến trường sẽ xuất hiện bảo rương. Độ khó của trò chơi càng cao thì có thể nhận được ban thưởng càng tốt",
+"CH_Text2": ""
+},
+{
+"ID": 10133,
+"ZH_Text0": "招式圖示中，「劍陣系」招式為「紅色」，「元靈系」招式為「紫色」，「通用系」招式為「白色」。",
+"ZH_Text1": "招式圖示中，「劍陣系」招式為「紅色」，「元靈系」招式為「紫色」，「通用系」招式為「白色」。",
+"ZH_Text2": "",
+"CH_Text0": "Các Icon chiêu thức, “Hệ Kiếm Trận“ là chiêu “Màu đỏ“, “Hệ Nguyên Linh“ là chiêu “Màu tím“, “Hệ phổ thông“là chiêu “Màu trắng“.",
+"CH_Text1": "Các Icon chiêu thức, “Hệ Kiếm Trận“ là chiêu “Màu đỏ“, “Hệ Nguyên Linh“ là chiêu “Màu tím“, “Hệ phổ thông“là chiêu “Màu trắng“.",
+"CH_Text2": ""
+},
+{
+"ID": 10134,
+"ZH_Text0": "招式圖示右下角，若有圓形箭射的小圖，則為「發劍與發靈」的招式類型，若無則為「集劍與集靈」的招式類型。",
+"ZH_Text1": "招式圖示右下角，若有圓形箭射的小圖，則為「發劍與發靈」的招式類型，若無則為「集劍與集靈」的招式類型。",
+"ZH_Text2": "",
+"CH_Text0": "Icon chiêu góc phải dưới, nếu có mũi tên nhỏ bắn thì là loại “Phát kiếm và Phát linh“ chiêu thức, nếu không thì là loại “Tập Kiếm và Tập Linh“ chiêu thức.",
+"CH_Text1": "Icon chiêu góc phải dưới, nếu có mũi tên nhỏ bắn thì là loại “Phát kiếm và Phát linh“ chiêu thức, nếu không thì là loại “Tập Kiếm và Tập Linh“ chiêu thức.",
+"CH_Text2": ""
+},
+{
+"ID": 10135,
+"ZH_Text0": "招式圖示右上角，若有圓形多人的小圖，代表此為全體攻擊的範圍招式；沒有此小圖的則為單體攻擊的招式。",
+"ZH_Text1": "招式圖示右上角，若有圓形多人的小圖，代表此為全體攻擊的範圍招式；沒有此小圖的則為單體攻擊的招式。",
+"ZH_Text2": "",
+"CH_Text0": "Icon chiêu góc phải trên, nếu có hình người nhỏ, thì đây là chiêu thức quần công, không có hình nhỏ này thì là công kích đơn mục tiêu.",
+"CH_Text1": "Icon chiêu góc phải trên, nếu có hình người nhỏ, thì đây là chiêu thức quần công, không có hình nhỏ này thì là công kích đơn mục tiêu.",
+"CH_Text2": ""
+},
+{
+"ID": 10136,
+"ZH_Text0": "我方角色可造成傷害的招式，大多都帶有啟動弱點系統的能力，當這些招式連貫起來，即可造成越多的連擊增傷%。",
+"ZH_Text1": "我方角色可造成傷害的招式，大多都帶有啟動弱點系統的能力，當這些招式連貫起來，即可造成越多的連擊增傷%。",
+"ZH_Text2": "",
+"CH_Text0": "Khi nhân vật bên ta xuất chiêu, phần lớn đều có thể kích hoạt chế độ nhược điểm, khi những chiêu thức này kết hợp, liền có thể tạo càng nhiều % sát thương.",
+"CH_Text1": "Khi nhân vật bên ta xuất chiêu, phần lớn đều có thể kích hoạt chế độ nhược điểm, khi những chiêu thức này kết hợp, liền có thể tạo càng nhiều % sát thương.",
+"CH_Text2": ""
+},
+{
+"ID": 10137,
+"ZH_Text0": "戰場中達到一定的增傷%，會累積弱點點數。集滿點數，傲狠等級符合，玩家行動結束後即會召喚神援【傲狠】。",
+"ZH_Text1": "戰場中達到一定的增傷%，會累積弱點點數。集滿點數，傲狠等級符合，玩家行動結束後即會召喚神援【傲狠】。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, đạt tới % sát thương nhất định, sẽ tích luỹ điểm nhược điểm. Khi tích đầy điểm số, Ngạo Ngoan có đăng cấp phù hợp, sau khi người chơi kết thúc lượt sẽ triệu hồi viên binh【Ngạo Ngoan】.",
+"CH_Text1": "Trong chiến đấu, đạt tới % sát thương nhất định, sẽ tích luỹ điểm nhược điểm. Khi tích đầy điểm số, Ngạo Ngoan có đăng cấp phù hợp, sau khi người chơi kết thúc lượt sẽ triệu hồi viện binh【Ngạo Ngoan】.",
+"CH_Text2": ""
+},
+{
+"ID": 10138,
+"ZH_Text0": "戰場中，重複使用集劍招式最多可累積六劍，發劍招式可消耗一定數量的集劍，來造成更大的傷害。",
+"ZH_Text1": "戰場中，重複使用集劍招式最多可累積六劍，發劍招式可消耗一定數量的集劍，來造成更大的傷害。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, sử dụng lặp lại Tập kiếm thức có thể tích luỹ sáu kiếm, Phát kiếm chiêu sẽ tiêu hao số lượng nhất định của Tập Kiếm, để tạo thành tổn thương lớn hơn.",
+"CH_Text1": "Trong chiến đấu, sử dụng lặp lại Tập kiếm thức có thể tích luỹ sáu kiếm, Phát kiếm chiêu sẽ tiêu hao số lượng nhất định của Tập Kiếm, để tạo thành tổn thương lớn hơn.",
+"CH_Text2": ""
+},
+{
+"ID": 10139,
+"ZH_Text0": "使用劍陣系招式皆會累積劍陣能量。當集滿能量，且南斗等級符合，在玩家行動結束後即會召喚神援【南斗】。",
+"ZH_Text1": "使用劍陣系招式皆會累積劍陣能量。當集滿能量，且南斗等級符合，在玩家行動結束後即會召喚神援【南斗】。",
+"ZH_Text2": "",
+"CH_Text0": "Sử dụng Chiêu thức hệ Kiếm Trận sẽ tích luỹ năng lượng Kiếm Trận. Khi đầy năng lượng, mà Nam Đẩu có đẳng cấp phù hợp, thì sau khi kết thúc lượt, người chơi có thể triệu hồi viện binh【Nam Đẩu】.",
+"CH_Text1": "Sử dụng Chiêu thức hệ Kiếm Trận sẽ tích luỹ năng lượng Kiếm Trận. Khi đầy năng lượng, mà Nam Đẩu có đẳng cấp phù hợp, thì sau khi kết thúc lượt, người chơi có thể triệu hồi viện binh【Nam Đẩu】.",
+"CH_Text2": ""
+},
+{
+"ID": 10140,
+"ZH_Text0": "戰場中，重複使用集靈招式最多可累積100%，發靈招式可消耗當下所有的集靈，集靈越多傷害加成越大。",
+"ZH_Text1": "戰場中，重複使用集靈招式最多可累積100%，發靈招式可消耗當下所有的集靈，集靈越多傷害加成越大。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, sử dụng lặp lại Tập linh thức có thể tích luỹ nhiều nhất lên đến 100%, khi xuất linh thức sẽ tiêu hao tất cả điểm tích tụ, tích luỹ Tập Linh càng nhiều sát thương càng lớn.",
+"CH_Text1": "Trong chiến đấu, sử dụng lặp lại Tập linh thức có thể tích luỹ nhiều nhất lên đến 100%, khi xuất linh thức sẽ tiêu hao tất cả điểm tích tụ, tích luỹ Tập Linh càng nhiều sát thương càng lớn.",
+"CH_Text2": ""
+},
+{
+"ID": 10141,
+"ZH_Text0": "使用元靈系招式皆會累積元靈能量。當集滿能量，且饕餮等級符合，在玩家行動結束後即會召喚神援【饕餮】。",
+"ZH_Text1": "使用元靈系招式皆會累積元靈能量。當集滿能量，且饕餮等級符合，在玩家行動結束後即會召喚神援【饕餮】。",
+"ZH_Text2": "",
+"CH_Text0": "Sử dụng chiêu thức hệ Nguyên Linh sẽ tích luỹ năng lượng Nguyên Linh. Khi năng lượng đầy và Thao Thiết có đẳng cấp phù hợp, thì khi kết thúc lượt người chơi có thể triệu hồi viện binh【Thao Thiết】.",
+"CH_Text1": "Sử dụng chiêu thức hệ Nguyên Linh sẽ tích luỹ năng lượng Nguyên Linh. Khi năng lượng đầy và Thao Thiết có đẳng cấp phù hợp, thì khi kết thúc lượt người chơi có thể triệu hồi viện binh【Thao Thiết】.",
+"CH_Text2": ""
+},
+{
+"ID": 10142,
+"ZH_Text0": "戰場中，每個我方行動後，若能召喚兩位神援，則會接續召喚特殊神援【北斗】。",
+"ZH_Text1": "戰場中，每個我方行動後，若能召喚兩位神援，則會接續召喚特殊神援【北斗】。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, sau mỗi lượt, nếu có thể triệu hoán 2 vị thần viện binh, thì sẽ tiếp tục triệu hoán các vị thần viện binh đặc biệt【Bắc Đẩu】.",
+"CH_Text1": "Trong chiến đấu, sau mỗi lượt, nếu có thể triệu hoán 2 vị thần viện binh, thì sẽ tiếp tục triệu hoán các vị thần viện binh đặc biệt【Bắc Đẩu】.",
+"CH_Text2": ""
+},
+{
+"ID": 10143,
+"ZH_Text0": "戰場中，某些敵物亦會使用對應的劍陣、元靈系統，若持續使用該系統，反而會助長敵人的攻擊，得不償失。",
+"ZH_Text1": "戰場中，某些敵物亦會使用對應的劍陣、元靈系統，若持續使用該系統，反而會助長敵人的攻擊，得不償失。",
+"ZH_Text2": "",
+"CH_Text0": "Trong chiến đấu, có một số đối thủ sẽ sử dụng tương tự Kiếm Trận, hệ Nguyên Linh, nếu như tiếp tục sử dụng loại này tiếp, ngược lại sẽ giúp tăng công kích của địch nhân, được không bù mất.",
+"CH_Text1": "Trong chiến đấu, có một số đối thủ sẽ sử dụng tương tự Kiếm Trận, hệ Nguyên Linh, nếu như tiếp tục sử dụng loại này tiếp, ngược lại sẽ giúp tăng công kích của địch nhân, được không bù mất.",
+"CH_Text2": ""
+},
+{
+"ID": 12001,
+"ZH_Text0": "已達可購買上限",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã đạt hạn mức mua tối đa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12002,
+"ZH_Text0": "貝幣不足",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngân lượng không đủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12003,
+"ZH_Text0": "購買成功",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mua thành công",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12004,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12201,
+"ZH_Text0": "獲得",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thu hoạch được",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12202,
+"ZH_Text0": "加入隊伍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gia nhập đội ngũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12203,
+"ZH_Text0": "離開隊伍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rời đội ngũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12204,
+"ZH_Text0": "確定離開遊戲？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bạn muốn thoát trò chơi?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12205,
+"ZH_Text0": "獲得貝幣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thu được ngân lượng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12206,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12207,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12208,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12209,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12210,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12231,
+"ZH_Text0": "網路連線異常！確定繼續等待，取消離開遊戲。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kết nối mạng không ổn định! Xác định muốn tiếp tục chờ hoặc thoát trò chơi?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12232,
+"ZH_Text0": "此帳號已由其他電腦登錄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tài khoản này đã được đăng nhập ở máy khác!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12233,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12234,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12235,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12251,
+"ZH_Text0": "不可更換裝備",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "KHông thể thay đổi trang bị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12252,
+"ZH_Text0": "不可移除僅有的出戰者",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không thể gỡ trang bị khi nhân vật xuất chiến",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12253,
+"ZH_Text0": "出戰成員已滿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã đủ thành viên xuất chiến",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12254,
+"ZH_Text0": "未設定援護技能",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chưa thiết lập kỹ năng chi viện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12255,
+"ZH_Text0": "不可設定出戰",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không thể tuỳ chỉnh xuất chiến",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12256,
+"ZH_Text0": "解除援護",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giải trừ chi viện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12257,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12261,
+"ZH_Text0": "任務過期",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhiệm vụ hết hạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12262,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12271,
+"ZH_Text0": "神沙不足",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần cát không đủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12272,
+"ZH_Text0": "物品不足",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vật phẩm không đủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12273,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12301,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đồng ý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12302,
+"ZH_Text0": "取消",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Huỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12303,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12304,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12305,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12306,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12307,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12308,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12309,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12310,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12351,
+"ZH_Text0": "確認儲存？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đồng ý lưu?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12352,
+"ZH_Text0": "確認讀取？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đồng ý tải?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 12353,
+"ZH_Text0": "未下載資料片，無法讀取。",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không thể tải xuống tệp tin, không thể nào đọc được.",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]

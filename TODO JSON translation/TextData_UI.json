@@ -1,0 +1,2242 @@
+[
+{
+"ID": 1,
+"ZH_Text0": "主選單",
+"ZH_Text1": "",
+"CH_Text0": "Menu Chính",
+"CH_Text1": ""
+},
+{
+"ID": 2,
+"ZH_Text0": "互動",
+"ZH_Text1": "",
+"CH_Text0": "Thao tác",
+"CH_Text1": ""
+},
+{
+"ID": 3,
+"ZH_Text0": "關閉主選單",
+"ZH_Text1": "",
+"CH_Text0": "Rời Menu chính",
+"CH_Text1": ""
+},
+{
+"ID": 4,
+"ZH_Text0": "離開",
+"ZH_Text1": "",
+"CH_Text0": "Rời đi",
+"CH_Text1": ""
+},
+{
+"ID": 5,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"CH_Text0": "",
+"CH_Text1": ""
+},
+{
+"ID": 6,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 7,
+"ZH_Text0": "取消",
+"ZH_Text1": "",
+"CH_Text0": "Hủy bỏ",
+"CH_Text1": ""
+},
+{
+"ID": 8,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"CH_Text0": "Trở về",
+"CH_Text1": ""
+},
+{
+"ID": 9,
+"ZH_Text0": "四方儀",
+"ZH_Text1": "",
+"CH_Text0": "Ẩn/Hiện La Bàn",
+"CH_Text1": ""
+},
+{
+"ID": 10,
+"ZH_Text0": "神誓之盟",
+"ZH_Text1": "",
+"CH_Text0": "Mở Thần Thề",
+"CH_Text1": ""
+},
+{
+"ID": 41,
+"ZH_Text0": "新 遊 戲",
+"ZH_Text1": "",
+"CH_Text0": "Bắt Đầu Trò Chơi",
+"CH_Text1": ""
+},
+{
+"ID": 42,
+"ZH_Text0": "載 入 進 度",
+"ZH_Text1": "",
+"CH_Text0": "Tải Dữ Liệu",
+"CH_Text1": ""
+},
+{
+"ID": 43,
+"ZH_Text0": "離 開 遊 戲",
+"ZH_Text1": "",
+"CH_Text0": "Thoát Trò Chơi",
+"CH_Text1": ""
+},
+{
+"ID": 44,
+"ZH_Text0": "遊 戲 選 項",
+"ZH_Text1": "",
+"CH_Text0": "Thiết Lập Hệ Thống",
+"CH_Text1": ""
+},
+{
+"ID": 45,
+"ZH_Text0": "製 作 團 隊",
+"ZH_Text1": "",
+"CH_Text0": "HGAC - Đội Ngũ Việt Hóa",
+"CH_Text1": ""
+},
+{
+"ID": 46,
+"ZH_Text0": "略過",
+"ZH_Text1": "",
+"CH_Text0": "Bỏ qua",
+"CH_Text1": ""
+},
+{
+"ID": 47,
+"ZH_Text0": "資料片君子心",
+"ZH_Text1": "",
+"CH_Text0": "DLC (Quân Tử Tâm)",
+"CH_Text1": ""
+},
+{
+"ID": 51,
+"ZH_Text0": "控制設定",
+"ZH_Text1": "",
+"CH_Text0": "Cài đặt điều khiển",
+"CH_Text1": ""
+},
+{
+"ID": 52,
+"ZH_Text0": "遊戲設定",
+"ZH_Text1": "",
+"CH_Text0": "Cài đặt trò chơi",
+"CH_Text1": ""
+},
+{
+"ID": 53,
+"ZH_Text0": "聲音",
+"ZH_Text1": "",
+"CH_Text0": "Thanh âm",
+"CH_Text1": ""
+},
+{
+"ID": 54,
+"ZH_Text0": "影像",
+"ZH_Text1": "",
+"CH_Text0": "Hình ảnh",
+"CH_Text1": ""
+},
+{
+"ID": 55,
+"ZH_Text0": "儲存遊戲",
+"ZH_Text1": "",
+"CH_Text0": "Lưu dữ liệu",
+"CH_Text1": ""
+},
+{
+"ID": 56,
+"ZH_Text0": "載入遊戲",
+"ZH_Text1": "",
+"CH_Text0": "Tải dữ liệu",
+"CH_Text1": ""
+},
+{
+"ID": 57,
+"ZH_Text0": "離開遊戲",
+"ZH_Text1": "",
+"CH_Text0": "Rời trò chơi",
+"CH_Text1": ""
+},
+{
+"ID": 58,
+"ZH_Text0": "操作硬體",
+"ZH_Text1": "",
+"CH_Text0": "Lựa chọn phím/tay cầm",
+"CH_Text1": ""
+},
+{
+"ID": 59,
+"ZH_Text0": "手把",
+"ZH_Text1": "",
+"CH_Text0": "Tay cầm",
+"CH_Text1": ""
+},
+{
+"ID": 60,
+"ZH_Text0": "鍵盤",
+"ZH_Text1": "",
+"CH_Text0": "Bàn phím",
+"CH_Text1": ""
+},
+{
+"ID": 61,
+"ZH_Text0": "震動功能",
+"ZH_Text1": "",
+"CH_Text0": "Chế độ rung",
+"CH_Text1": ""
+},
+{
+"ID": 62,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 63,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 64,
+"ZH_Text0": "難度設定",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập độ khó",
+"CH_Text1": ""
+},
+{
+"ID": 65,
+"ZH_Text0": "簡單",
+"ZH_Text1": "",
+"CH_Text0": "Đơn giản",
+"CH_Text1": ""
+},
+{
+"ID": 66,
+"ZH_Text0": "一般",
+"ZH_Text1": "",
+"CH_Text0": "Phổ thông",
+"CH_Text1": ""
+},
+{
+"ID": 67,
+"ZH_Text0": "困難",
+"ZH_Text1": "",
+"CH_Text0": "Khó khăn",
+"CH_Text1": ""
+},
+{
+"ID": 68,
+"ZH_Text0": "顯示提示",
+"ZH_Text1": "",
+"CH_Text0": "Nhắc nhở",
+"CH_Text1": ""
+},
+{
+"ID": 69,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 70,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 71,
+"ZH_Text0": "字幕",
+"ZH_Text1": "",
+"CH_Text0": "Phụ đề",
+"CH_Text1": ""
+},
+{
+"ID": 72,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 73,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 74,
+"ZH_Text0": "主要音量",
+"ZH_Text1": "",
+"CH_Text0": "Âm tổng",
+"CH_Text1": ""
+},
+{
+"ID": 75,
+"ZH_Text0": "小",
+"ZH_Text1": "",
+"CH_Text0": "Nhỏ",
+"CH_Text1": ""
+},
+{
+"ID": 76,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 77,
+"ZH_Text0": "大",
+"ZH_Text1": "",
+"CH_Text0": "Lớn",
+"CH_Text1": ""
+},
+{
+"ID": 78,
+"ZH_Text0": "音樂音量",
+"ZH_Text1": "",
+"CH_Text0": "Âm nhạc",
+"CH_Text1": ""
+},
+{
+"ID": 79,
+"ZH_Text0": "小",
+"ZH_Text1": "",
+"CH_Text0": "Nhỏ",
+"CH_Text1": ""
+},
+{
+"ID": 80,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 81,
+"ZH_Text0": "大",
+"ZH_Text1": "",
+"CH_Text0": "Lớn",
+"CH_Text1": ""
+},
+{
+"ID": 82,
+"ZH_Text0": "音效音量",
+"ZH_Text1": "",
+"CH_Text0": "Âm thanh",
+"CH_Text1": ""
+},
+{
+"ID": 83,
+"ZH_Text0": "小",
+"ZH_Text1": "",
+"CH_Text0": "Nhỏ",
+"CH_Text1": ""
+},
+{
+"ID": 84,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 85,
+"ZH_Text0": "大",
+"ZH_Text1": "",
+"CH_Text0": "Lớn",
+"CH_Text1": ""
+},
+{
+"ID": 86,
+"ZH_Text0": "語音音量",
+"ZH_Text1": "",
+"CH_Text0": "Âm thoại",
+"CH_Text1": ""
+},
+{
+"ID": 87,
+"ZH_Text0": "小",
+"ZH_Text1": "",
+"CH_Text0": "Nhỏ",
+"CH_Text1": ""
+},
+{
+"ID": 88,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 89,
+"ZH_Text0": "大",
+"ZH_Text1": "",
+"CH_Text0": "Lớn",
+"CH_Text1": ""
+},
+{
+"ID": 90,
+"ZH_Text0": "介面音量",
+"ZH_Text1": "",
+"CH_Text0": "Âm SFX",
+"CH_Text1": ""
+},
+{
+"ID": 91,
+"ZH_Text0": "小",
+"ZH_Text1": "",
+"CH_Text0": "Nhỏ",
+"CH_Text1": ""
+},
+{
+"ID": 92,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 93,
+"ZH_Text0": "大",
+"ZH_Text1": "",
+"CH_Text0": "Lớn",
+"CH_Text1": ""
+},
+{
+"ID": 94,
+"ZH_Text0": "使用預設值",
+"ZH_Text1": "",
+"CH_Text0": "Quay về mặc định",
+"CH_Text1": ""
+},
+{
+"ID": 95,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 96,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Đóng",
+"CH_Text1": ""
+},
+{
+"ID": 98,
+"ZH_Text0": "可視距離",
+"ZH_Text1": "",
+"CH_Text0": "Tầm nhìn",
+"CH_Text1": ""
+},
+{
+"ID": 99,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 100,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 101,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 102,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 103,
+"ZH_Text0": "反鋸齒",
+"ZH_Text1": "",
+"CH_Text0": "Khử răng cưa",
+"CH_Text1": ""
+},
+{
+"ID": 104,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 105,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 106,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 107,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 108,
+"ZH_Text0": "陰影",
+"ZH_Text1": "",
+"CH_Text0": "Đổ bóng",
+"CH_Text1": ""
+},
+{
+"ID": 109,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 110,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 111,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 112,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 113,
+"ZH_Text0": "後制處理",
+"ZH_Text1": "",
+"CH_Text0": "Xử lý hậu kỳ",
+"CH_Text1": ""
+},
+{
+"ID": 114,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 115,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 116,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 117,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 118,
+"ZH_Text0": "紋理",
+"ZH_Text1": "",
+"CH_Text0": "Kết cấu",
+"CH_Text1": ""
+},
+{
+"ID": 119,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 120,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 121,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 122,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 123,
+"ZH_Text0": "效果",
+"ZH_Text1": "",
+"CH_Text0": "Hiệu ứng",
+"CH_Text1": ""
+},
+{
+"ID": 124,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 125,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 126,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 127,
+"ZH_Text0": "特高",
+"ZH_Text1": "",
+"CH_Text0": "Rất cao",
+"CH_Text1": ""
+},
+{
+"ID": 128,
+"ZH_Text0": "建議設定",
+"ZH_Text1": "",
+"CH_Text0": "Cấu hình đề nghị",
+"CH_Text1": ""
+},
+{
+"ID": 129,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 130,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 131,
+"ZH_Text0": "垂直同步",
+"ZH_Text1": "",
+"CH_Text0": "Đồng bộ hóa",
+"CH_Text1": ""
+},
+{
+"ID": 132,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 133,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 134,
+"ZH_Text0": "解析度比例",
+"ZH_Text1": "",
+"CH_Text0": "Tỉ lệ phân giải",
+"CH_Text1": ""
+},
+{
+"ID": 135,
+"ZH_Text0": "50%",
+"ZH_Text1": "",
+"CH_Text0": "50%",
+"CH_Text1": ""
+},
+{
+"ID": 136,
+"ZH_Text0": "100%",
+"ZH_Text1": "",
+"CH_Text0": "100%",
+"CH_Text1": ""
+},
+{
+"ID": 137,
+"ZH_Text0": "解析度",
+"ZH_Text1": "",
+"CH_Text0": "Độ phân giải",
+"CH_Text1": ""
+},
+{
+"ID": 138,
+"ZH_Text0": "語言",
+"ZH_Text1": "",
+"CH_Text0": "Ngôn ngữ",
+"CH_Text1": ""
+},
+{
+"ID": 139,
+"ZH_Text0": "簡中",
+"ZH_Text1": "",
+"CH_Text0": "Giản",
+"CH_Text1": ""
+},
+{
+"ID": 140,
+"ZH_Text0": "繁中",
+"ZH_Text1": "",
+"CH_Text0": "Phồn",
+"CH_Text1": ""
+},
+{
+"ID": 141,
+"ZH_Text0": "攻擊",
+"ZH_Text1": "",
+"CH_Text0": "Công",
+"CH_Text1": ""
+},
+{
+"ID": 142,
+"ZH_Text0": "防禦",
+"ZH_Text1": "",
+"CH_Text0": "Thủ",
+"CH_Text1": ""
+},
+{
+"ID": 143,
+"ZH_Text0": "體力",
+"ZH_Text1": "",
+"CH_Text0": "Thể",
+"CH_Text1": ""
+},
+{
+"ID": 144,
+"ZH_Text0": "閃躲",
+"ZH_Text1": "",
+"CH_Text0": "Né",
+"CH_Text1": ""
+},
+{
+"ID": 145,
+"ZH_Text0": "命中等級",
+"ZH_Text1": "",
+"CH_Text0": "Đẳng cấp C.Xác",
+"CH_Text1": ""
+},
+{
+"ID": 146,
+"ZH_Text0": "速度等級",
+"ZH_Text1": "",
+"CH_Text0": "Đẳng cấp Tốc",
+"CH_Text1": ""
+},
+{
+"ID": 147,
+"ZH_Text0": "切換系統",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi hệ thống",
+"CH_Text1": ""
+},
+{
+"ID": 148,
+"ZH_Text0": "關閉主選單介面",
+"ZH_Text1": "",
+"CH_Text0": "Rời giao diện Menu Chính",
+"CH_Text1": ""
+},
+{
+"ID": 149,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 150,
+"ZH_Text0": "移動項目",
+"ZH_Text1": "",
+"CH_Text0": "Di chuyển hạng mục",
+"CH_Text1": ""
+},
+{
+"ID": 151,
+"ZH_Text0": "左右切換",
+"ZH_Text1": "",
+"CH_Text0": "Thay đổi phím",
+"CH_Text1": ""
+},
+{
+"ID": 152,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"CH_Text0": "Trở về",
+"CH_Text1": ""
+},
+{
+"ID": 153,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"CH_Text0": "",
+"CH_Text1": ""
+},
+{
+"ID": 154,
+"ZH_Text0": "離開遊戲前請先儲存遊戲，避免造成遊戲進度遺失。",
+"ZH_Text1": "",
+"CH_Text0": "Trước khi rời trò chơi hãy nhớ lưu, đề phòng mất dữ liệu.",
+"CH_Text1": ""
+},
+{
+"ID": 155,
+"ZH_Text0": "尚 未 儲 存",
+"ZH_Text1": "",
+"CH_Text0": "Chưa lưu trữ",
+"CH_Text1": ""
+},
+{
+"ID": 156,
+"ZH_Text0": "不顯示新手教學",
+"ZH_Text1": "",
+"CH_Text0": "Không hiện hướng dẫn",
+"CH_Text1": ""
+},
+{
+"ID": 157,
+"ZH_Text0": "是",
+"ZH_Text1": "",
+"CH_Text0": "Có",
+"CH_Text1": ""
+},
+{
+"ID": 158,
+"ZH_Text0": "否",
+"ZH_Text1": "",
+"CH_Text0": "Không",
+"CH_Text1": ""
+},
+{
+"ID": 159,
+"ZH_Text0": "視窗模式",
+"ZH_Text1": "",
+"CH_Text0": "Chế độ cửa sổ",
+"CH_Text1": ""
+},
+{
+"ID": 160,
+"ZH_Text0": "關",
+"ZH_Text1": "",
+"CH_Text0": "Tắt",
+"CH_Text1": ""
+},
+{
+"ID": 161,
+"ZH_Text0": "開",
+"ZH_Text1": "",
+"CH_Text0": "Mở",
+"CH_Text1": ""
+},
+{
+"ID": 162,
+"ZH_Text0": "植被效果",
+"ZH_Text1": "",
+"CH_Text0": "Chi tiết cây cối",
+"CH_Text1": ""
+},
+{
+"ID": 163,
+"ZH_Text0": "低",
+"ZH_Text1": "",
+"CH_Text0": "Thấp",
+"CH_Text1": ""
+},
+{
+"ID": 164,
+"ZH_Text0": "中",
+"ZH_Text1": "",
+"CH_Text0": "Vừa",
+"CH_Text1": ""
+},
+{
+"ID": 165,
+"ZH_Text0": "高",
+"ZH_Text1": "",
+"CH_Text0": "Cao",
+"CH_Text1": ""
+},
+{
+"ID": 166,
+"ZH_Text0": "整體設定",
+"ZH_Text1": "",
+"CH_Text0": "Cài đặt chung",
+"CH_Text1": ""
+},
+{
+"ID": 167,
+"ZH_Text0": "動態物件細節",
+"ZH_Text1": "",
+"CH_Text0": "Chi tiết hành động",
+"CH_Text1": ""
+},
+{
+"ID": 168,
+"ZH_Text0": "靜態物件細節",
+"ZH_Text1": "",
+"CH_Text0": "Chi tiết tĩnh",
+"CH_Text1": ""
+},
+{
+"ID": 169,
+"ZH_Text0": "人物數量",
+"ZH_Text1": "",
+"CH_Text0": "Số lượng nhân vật",
+"CH_Text1": ""
+},
+{
+"ID": 170,
+"ZH_Text0": "陰影解析度",
+"ZH_Text1": "",
+"CH_Text0": "Độ phân giải Đổ bóng",
+"CH_Text1": ""
+},
+{
+"ID": 171,
+"ZH_Text0": "折射",
+"ZH_Text1": "",
+"CH_Text0": "Chiết xạ",
+"CH_Text1": ""
+},
+{
+"ID": 172,
+"ZH_Text0": "螢幕反射",
+"ZH_Text1": "",
+"CH_Text0": "Không gian phản chiếu",
+"CH_Text1": ""
+},
+{
+"ID": 173,
+"ZH_Text0": "材質效果",
+"ZH_Text1": "",
+"CH_Text0": "Chất liệu hiệu quả",
+"CH_Text1": ""
+},
+{
+"ID": 174,
+"ZH_Text0": "請注意，部分圖像設置內容將於重啟遊戲或地圖重置後才會生效。",
+"ZH_Text1": "",
+"CH_Text0": "Xin chú ý, thiết lập nội dung hình ảnh cần khởi động lại trò chơi hoặc tải lại bản đồ mới có hiệu quả",
+"CH_Text1": ""
+},
+{
+"ID": 175,
+"ZH_Text0": "自定義設置",
+"ZH_Text1": "",
+"CH_Text0": "Cấu hình tự động",
+"CH_Text1": ""
+},
+{
+"ID": 176,
+"ZH_Text0": "鎖定刷新率",
+"ZH_Text1": "",
+"CH_Text0": "Khóa khung hình",
+"CH_Text1": ""
+},
+{
+"ID": 177,
+"ZH_Text0": "不鎖定",
+"ZH_Text1": "",
+"CH_Text0": "Không khóa",
+"CH_Text1": ""
+},
+{
+"ID": 178,
+"ZH_Text0": "30 FPS",
+"ZH_Text1": "",
+"CH_Text0": "30 FPS",
+"CH_Text1": ""
+},
+{
+"ID": 179,
+"ZH_Text0": "45 FPS",
+"ZH_Text1": "",
+"CH_Text0": "45 FPS",
+"CH_Text1": ""
+},
+{
+"ID": 180,
+"ZH_Text0": "60 FPS",
+"ZH_Text1": "",
+"CH_Text0": "60 FPS",
+"CH_Text1": ""
+},
+{
+"ID": 191,
+"ZH_Text0": "載入自動存檔",
+"ZH_Text1": "",
+"CH_Text0": "Tải dữ liệu tự động",
+"CH_Text1": ""
+},
+{
+"ID": 192,
+"ZH_Text0": "選擇存檔紀錄",
+"ZH_Text1": "",
+"CH_Text0": "Lựa chọn dữ liệu",
+"CH_Text1": ""
+},
+{
+"ID": 194,
+"ZH_Text0": "體力",
+"ZH_Text1": "",
+"CH_Text0": "Thể",
+"CH_Text1": ""
+},
+{
+"ID": 195,
+"ZH_Text0": "攻擊",
+"ZH_Text1": "",
+"CH_Text0": "Công",
+"CH_Text1": ""
+},
+{
+"ID": 196,
+"ZH_Text0": "防禦",
+"ZH_Text1": "",
+"CH_Text0": "Thủ",
+"CH_Text1": ""
+},
+{
+"ID": 197,
+"ZH_Text0": "命中",
+"ZH_Text1": "",
+"CH_Text0": "C.Xác",
+"CH_Text1": ""
+},
+{
+"ID": 198,
+"ZH_Text0": "閃躲",
+"ZH_Text1": "",
+"CH_Text0": "Né",
+"CH_Text1": ""
+},
+{
+"ID": 199,
+"ZH_Text0": "速度",
+"ZH_Text1": "",
+"CH_Text0": "Tốc",
+"CH_Text1": ""
+},
+{
+"ID": 200,
+"ZH_Text0": "顯示戰鬥資訊",
+"ZH_Text1": "",
+"CH_Text0": "Biểu hiện chiến đấu tin tức",
+"CH_Text1": ""
+},
+{
+"ID": 201,
+"ZH_Text0": "道具",
+"ZH_Text1": "",
+"CH_Text0": "Đạo cụ",
+"CH_Text1": ""
+},
+{
+"ID": 202,
+"ZH_Text0": "劍陣",
+"ZH_Text1": "",
+"CH_Text0": "Kiếm Trận",
+"CH_Text1": ""
+},
+{
+"ID": 203,
+"ZH_Text0": "元靈",
+"ZH_Text1": "",
+"CH_Text0": "Nguyên Linh",
+"CH_Text1": ""
+},
+{
+"ID": 204,
+"ZH_Text0": "弱點攻擊",
+"ZH_Text1": "",
+"CH_Text0": "Nhược điểm công kích",
+"CH_Text1": ""
+},
+{
+"ID": 205,
+"ZH_Text0": "關閉戰鬥資訊",
+"ZH_Text1": "",
+"CH_Text0": "Tắt thông tin chiến đấu",
+"CH_Text1": ""
+},
+{
+"ID": 206,
+"ZH_Text0": "戰鬥評價",
+"ZH_Text1": "",
+"CH_Text0": "Đánh giá",
+"CH_Text1": ""
+},
+{
+"ID": 207,
+"ZH_Text0": "戰鬥時間",
+"ZH_Text1": "",
+"CH_Text0": "Thời gian",
+"CH_Text1": ""
+},
+{
+"ID": 208,
+"ZH_Text0": "最佳成員",
+"ZH_Text1": "",
+"CH_Text0": "T.viên tốt nhất ",
+"CH_Text1": ""
+},
+{
+"ID": 209,
+"ZH_Text0": "貝幣",
+"ZH_Text1": "",
+"CH_Text0": "Bối tệ",
+"CH_Text1": ""
+},
+{
+"ID": 210,
+"ZH_Text0": "經驗值",
+"ZH_Text1": "",
+"CH_Text0": "EXP",
+"CH_Text1": ""
+},
+{
+"ID": 211,
+"ZH_Text0": "獲得物品",
+"ZH_Text1": "",
+"CH_Text0": "V.phẩm thu được",
+"CH_Text1": ""
+},
+{
+"ID": 212,
+"ZH_Text0": "剩餘配點點數",
+"ZH_Text1": "",
+"CH_Text0": "Điểm số phân phối ",
+"CH_Text1": ""
+},
+{
+"ID": 213,
+"ZH_Text0": "請選擇角色成長方向",
+"ZH_Text1": "",
+"CH_Text0": "Chọn hướng phát triển N.vật",
+"CH_Text1": ""
+},
+{
+"ID": 216,
+"ZH_Text0": "偷竊成功，取得物品{ItemID}。",
+"ZH_Text1": "",
+"CH_Text0": "Ăn cắp thành công, lấy được vật phẩm {ItemID}.",
+"CH_Text1": ""
+},
+{
+"ID": 217,
+"ZH_Text0": "偷竊失敗。",
+"ZH_Text1": "",
+"CH_Text0": "Ăn cắp thất bại.",
+"CH_Text1": ""
+},
+{
+"ID": 218,
+"ZH_Text0": "目標已經被偷竊過。",
+"ZH_Text1": "",
+"CH_Text0": "Mục tiêu đã bị ăn cắp qua.",
+"CH_Text1": ""
+},
+{
+"ID": 226,
+"ZH_Text0": "下一句",
+"ZH_Text1": "",
+"CH_Text0": "Câu tiếp theo",
+"CH_Text1": ""
+},
+{
+"ID": 227,
+"ZH_Text0": "關閉對話",
+"ZH_Text1": "",
+"CH_Text0": "Tắt đối thoại",
+"CH_Text1": ""
+},
+{
+"ID": 228,
+"ZH_Text0": "略過劇情",
+"ZH_Text1": "",
+"CH_Text0": "Bỏ qua kịch bản",
+"CH_Text1": ""
+},
+{
+"ID": 229,
+"ZH_Text0": "繼續播放",
+"ZH_Text1": "",
+"CH_Text0": "Tiếp tục phát",
+"CH_Text1": ""
+},
+{
+"ID": 230,
+"ZH_Text0": "無法略過",
+"ZH_Text1": "",
+"CH_Text0": "Không thể bỏ qua",
+"CH_Text1": ""
+},
+{
+"ID": 231,
+"ZH_Text0": "略過",
+"ZH_Text1": "",
+"CH_Text0": "Bỏ qua",
+"CH_Text1": ""
+},
+{
+"ID": 281,
+"ZH_Text0": "切換分頁",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi TAB",
+"CH_Text1": ""
+},
+{
+"ID": 282,
+"ZH_Text0": "切換角色",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi nhân vật",
+"CH_Text1": ""
+},
+{
+"ID": 301,
+"ZH_Text0": "攻擊順位",
+"ZH_Text1": "",
+"CH_Text0": "Thứ tự công kích",
+"CH_Text1": ""
+},
+{
+"ID": 302,
+"ZH_Text0": "戰鬥援護",
+"ZH_Text1": "",
+"CH_Text0": "Chiến đấu Viện Hộ",
+"CH_Text1": ""
+},
+{
+"ID": 303,
+"ZH_Text0": "未設定援護技能",
+"ZH_Text1": "",
+"CH_Text0": "Chưa thiết lập kỹ năng Viện Hộ",
+"CH_Text1": ""
+},
+{
+"ID": 304,
+"ZH_Text0": "不可以設定出戰",
+"ZH_Text1": "",
+"CH_Text0": "Không thể thiết lập xuất chiến",
+"CH_Text1": ""
+},
+{
+"ID": 305,
+"ZH_Text0": "冷卻",
+"ZH_Text1": "",
+"CH_Text0": "Hồi chiêu ",
+"CH_Text1": ""
+},
+{
+"ID": 306,
+"ZH_Text0": "尚無裝備技能",
+"ZH_Text1": "",
+"CH_Text0": "Chưa trang bị kỹ năng",
+"CH_Text1": ""
+},
+{
+"ID": 307,
+"ZH_Text0": "戰鬥中直接進行戰鬥的人員",
+"ZH_Text1": "",
+"CH_Text0": "Thành viên xuất chiến",
+"CH_Text1": ""
+},
+{
+"ID": 308,
+"ZH_Text0": "可以指定一位援護角色",
+"ZH_Text1": "",
+"CH_Text0": "Có thể chỉ định một nhân vật Viện Hộ",
+"CH_Text1": ""
+},
+{
+"ID": 309,
+"ZH_Text0": "TAB按鍵切換主副手技能顯示",
+"ZH_Text1": "",
+"CH_Text0": "Nút TAB để hoán đổi kỹ năng phụ tá ",
+"CH_Text1": ""
+},
+{
+"ID": 310,
+"ZH_Text0": "可隨時使用不受回合限制",
+"ZH_Text1": "",
+"CH_Text0": "Có thể sử dụng bất cứ lúc nào",
+"CH_Text1": ""
+},
+{
+"ID": 311,
+"ZH_Text0": "調整攻擊順位",
+"ZH_Text1": "",
+"CH_Text0": "Điều chỉnh thứ tự công kích",
+"CH_Text1": ""
+},
+{
+"ID": 312,
+"ZH_Text0": "取消出戰",
+"ZH_Text1": "",
+"CH_Text0": "Hủy bỏ xuất chiến",
+"CH_Text1": ""
+},
+{
+"ID": 313,
+"ZH_Text0": "設定為出戰角色",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập nhân vật xuất chiến ",
+"CH_Text1": ""
+},
+{
+"ID": 314,
+"ZH_Text0": "設定為戰鬥援護",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập chiến đấu Viện Hộ",
+"CH_Text1": ""
+},
+{
+"ID": 315,
+"ZH_Text0": "切換主副武器",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi vũ khí chính và phụ",
+"CH_Text1": ""
+},
+{
+"ID": 321,
+"ZH_Text0": "尚無裝備技能",
+"ZH_Text1": "",
+"CH_Text0": "Chưa trang bị kỹ năng",
+"CH_Text1": ""
+},
+{
+"ID": 322,
+"ZH_Text0": "尚無裝備靈魄",
+"ZH_Text1": "",
+"CH_Text0": "Chưa trang bị linh phách",
+"CH_Text1": ""
+},
+{
+"ID": 323,
+"ZH_Text0": "尚無裝備飾品",
+"ZH_Text1": "",
+"CH_Text0": "Chưa trang bị trang sức",
+"CH_Text1": ""
+},
+{
+"ID": 324,
+"ZH_Text0": "TAB按鍵切換主副手技能顯示",
+"ZH_Text1": "",
+"CH_Text0": "Nút TAB để hoán đổi kỹ năng phụ tá ",
+"CH_Text1": ""
+},
+{
+"ID": 325,
+"ZH_Text0": "神眷之器說明預留",
+"ZH_Text1": "",
+"CH_Text0": "Mô tả cho thần quyến chi khí",
+"CH_Text1": ""
+},
+{
+"ID": 326,
+"ZH_Text0": "飾品與外裝說明預留",
+"ZH_Text1": "",
+"CH_Text0": "Mô tả cho trang sức, ngoại trang",
+"CH_Text1": ""
+},
+{
+"ID": 327,
+"ZH_Text0": "尚無可更換的物品",
+"ZH_Text1": "",
+"CH_Text0": "Không thể thay đổi vật phẩm",
+"CH_Text1": ""
+},
+{
+"ID": 331,
+"ZH_Text0": "查看可用裝備",
+"ZH_Text1": "",
+"CH_Text0": "Xem trang bị có thể dùng",
+"CH_Text1": ""
+},
+{
+"ID": 332,
+"ZH_Text0": "確定更換",
+"ZH_Text1": "",
+"CH_Text0": "Xác định thay đổi",
+"CH_Text1": ""
+},
+{
+"ID": 333,
+"ZH_Text0": "切換主副武器",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi vũ khí chính và phụ",
+"CH_Text1": ""
+},
+{
+"ID": 341,
+"ZH_Text0": "已設置",
+"ZH_Text1": "",
+"CH_Text0": "Đã thiết lập",
+"CH_Text1": ""
+},
+{
+"ID": 342,
+"ZH_Text0": "未設置使用",
+"ZH_Text1": "",
+"CH_Text0": "Chưa thiết lập sử dụng",
+"CH_Text1": ""
+},
+{
+"ID": 343,
+"ZH_Text0": "可設定四項物品於戰鬥中使用",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập bốn loại vật phẩm sử dụng trong khi chiến đấu",
+"CH_Text1": ""
+},
+{
+"ID": 344,
+"ZH_Text0": "設置為戰備品",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập vì chuẩn bị chiến đấu phẩm",
+"CH_Text1": ""
+},
+{
+"ID": 345,
+"ZH_Text0": "貝幣",
+"ZH_Text1": "",
+"CH_Text0": "Bối tệ",
+"CH_Text1": ""
+},
+{
+"ID": 346,
+"ZH_Text0": "尚無物品",
+"ZH_Text1": "",
+"CH_Text0": "Không có vật phẩm",
+"CH_Text1": ""
+},
+{
+"ID": 347,
+"ZH_Text0": "裝備中",
+"ZH_Text1": "",
+"CH_Text0": "Đang trang bị",
+"CH_Text1": ""
+},
+{
+"ID": 351,
+"ZH_Text0": "詳細清單",
+"ZH_Text1": "",
+"CH_Text0": "Xem thông tin",
+"CH_Text1": ""
+},
+{
+"ID": 352,
+"ZH_Text0": "設置使用",
+"ZH_Text1": "",
+"CH_Text0": "Thiết lập sử dụng",
+"CH_Text1": ""
+},
+{
+"ID": 353,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 361,
+"ZH_Text0": "目前進行中的任務",
+"ZH_Text1": "",
+"CH_Text0": "Nhiệm Vụ Đang Làm",
+"CH_Text1": ""
+},
+{
+"ID": 362,
+"ZH_Text0": "地點",
+"ZH_Text1": "",
+"CH_Text0": "Địa Điểm",
+"CH_Text1": ""
+},
+{
+"ID": 371,
+"ZH_Text0": "詳細清單",
+"ZH_Text1": "",
+"CH_Text0": "Xem thông tin",
+"CH_Text1": ""
+},
+{
+"ID": 372,
+"ZH_Text0": "查看過期任務",
+"ZH_Text1": "",
+"CH_Text0": "Tra xét kỳ nhiệm vụ",
+"CH_Text1": ""
+},
+{
+"ID": 381,
+"ZH_Text0": "詳細清單",
+"ZH_Text1": "",
+"CH_Text0": "Xem thông tin",
+"CH_Text1": ""
+},
+{
+"ID": 391,
+"ZH_Text0": "查閱內容",
+"ZH_Text1": "",
+"CH_Text0": "Tìm đọc nội dung",
+"CH_Text1": ""
+},
+{
+"ID": 392,
+"ZH_Text0": "查閱資訊",
+"ZH_Text1": "",
+"CH_Text0": "Tìm đọc tin tức",
+"CH_Text1": ""
+},
+{
+"ID": 393,
+"ZH_Text0": "查閱事蹟",
+"ZH_Text1": "",
+"CH_Text0": "Tìm đọc sự tích",
+"CH_Text1": ""
+},
+{
+"ID": 394,
+"ZH_Text0": "查看成就項目",
+"ZH_Text1": "",
+"CH_Text0": "Xem xét thành tựu",
+"CH_Text1": ""
+},
+{
+"ID": 395,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 396,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"CH_Text0": "Trở về",
+"CH_Text1": ""
+},
+{
+"ID": 401,
+"ZH_Text0": "選擇設定項目",
+"ZH_Text1": "",
+"CH_Text0": "Lựa chọn thiết lập",
+"CH_Text1": ""
+},
+{
+"ID": 402,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"CH_Text0": "Trở về",
+"CH_Text1": ""
+},
+{
+"ID": 403,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 411,
+"ZH_Text0": "物品不足",
+"ZH_Text1": "",
+"CH_Text0": "Vật phẩm không đủ",
+"CH_Text1": ""
+},
+{
+"ID": 421,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 422,
+"ZH_Text0": "離開神誓",
+"ZH_Text1": "",
+"CH_Text0": "Rời đi Thần thề",
+"CH_Text1": ""
+},
+{
+"ID": 423,
+"ZH_Text0": "消耗祭品",
+"ZH_Text1": "",
+"CH_Text0": "Tiêu hao Tế phẩm",
+"CH_Text1": ""
+},
+{
+"ID": 424,
+"ZH_Text0": "返回",
+"ZH_Text1": "",
+"CH_Text0": "Trở về",
+"CH_Text1": ""
+},
+{
+"ID": 425,
+"ZH_Text0": "進行神化",
+"ZH_Text1": "",
+"CH_Text0": "Tiến hành Thần hóa",
+"CH_Text1": ""
+},
+{
+"ID": 426,
+"ZH_Text0": "進行融合",
+"ZH_Text1": "",
+"CH_Text0": "Tiến hành Dung hợp",
+"CH_Text1": ""
+},
+{
+"ID": 427,
+"ZH_Text0": "切換類別",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi thuộc loại",
+"CH_Text1": ""
+},
+{
+"ID": 428,
+"ZH_Text0": "切換神靈",
+"ZH_Text1": "",
+"CH_Text0": "Đổi Thần Linh",
+"CH_Text1": ""
+},
+{
+"ID": 431,
+"ZH_Text0": "數量",
+"ZH_Text1": "",
+"CH_Text0": "Số lượng",
+"CH_Text1": ""
+},
+{
+"ID": 432,
+"ZH_Text0": "貝",
+"ZH_Text1": "",
+"CH_Text0": "Bối tệ",
+"CH_Text1": ""
+},
+{
+"ID": 433,
+"ZH_Text0": "購買",
+"ZH_Text1": "",
+"CH_Text0": "Mua sắm",
+"CH_Text1": ""
+},
+{
+"ID": 434,
+"ZH_Text0": "物品詳細",
+"ZH_Text1": "",
+"CH_Text0": "Thông tin vật phẩm",
+"CH_Text1": ""
+},
+{
+"ID": 435,
+"ZH_Text0": "飛星專屬",
+"ZH_Text1": "",
+"CH_Text0": "Phi Tinh chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 436,
+"ZH_Text0": "夕羽專屬",
+"ZH_Text1": "",
+"CH_Text0": "Tịch Vũ chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 437,
+"ZH_Text0": "望舒專屬",
+"ZH_Text1": "",
+"CH_Text0": "Vọng Thư chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 438,
+"ZH_Text0": "雲傾專屬",
+"ZH_Text1": "",
+"CH_Text0": "Vân Khuynh chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 439,
+"ZH_Text0": "嵐湘專屬",
+"ZH_Text1": "",
+"CH_Text0": "Lam Tương chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 440,
+"ZH_Text0": "禍天專屬",
+"ZH_Text1": "",
+"CH_Text0": "Họa Thiên chuyên dụng",
+"CH_Text1": ""
+},
+{
+"ID": 441,
+"ZH_Text0": "確認",
+"ZH_Text1": "",
+"CH_Text0": "Xác nhận",
+"CH_Text1": ""
+},
+{
+"ID": 442,
+"ZH_Text0": "取消",
+"ZH_Text1": "",
+"CH_Text0": "Hủy bỏ",
+"CH_Text1": ""
+},
+{
+"ID": 443,
+"ZH_Text0": "體力",
+"ZH_Text1": "",
+"CH_Text0": "Thể",
+"CH_Text1": ""
+},
+{
+"ID": 444,
+"ZH_Text0": "攻擊",
+"ZH_Text1": "",
+"CH_Text0": "Công",
+"CH_Text1": ""
+},
+{
+"ID": 445,
+"ZH_Text0": "防禦",
+"ZH_Text1": "",
+"CH_Text0": "Thủ",
+"CH_Text1": ""
+},
+{
+"ID": 446,
+"ZH_Text0": "命中",
+"ZH_Text1": "",
+"CH_Text0": "C.Xác",
+"CH_Text1": ""
+},
+{
+"ID": 447,
+"ZH_Text0": "閃躲",
+"ZH_Text1": "",
+"CH_Text0": "Né",
+"CH_Text1": ""
+},
+{
+"ID": 448,
+"ZH_Text0": "速度",
+"ZH_Text1": "",
+"CH_Text0": "Tốc",
+"CH_Text1": ""
+},
+{
+"ID": 449,
+"ZH_Text0": "購買成功",
+"ZH_Text1": "",
+"CH_Text0": "Mua thành công",
+"CH_Text1": ""
+},
+{
+"ID": 450,
+"ZH_Text0": "貝幣不足",
+"ZH_Text1": "",
+"CH_Text0": "Bối tệ không đủ",
+"CH_Text1": ""
+},
+{
+"ID": 451,
+"ZH_Text0": "持有：",
+"ZH_Text1": "",
+"CH_Text0": "Nắm giữ:",
+"CH_Text1": ""
+},
+{
+"ID": 452,
+"ZH_Text0": "貝幣",
+"ZH_Text1": "",
+"CH_Text0": " Bối tệ",
+"CH_Text1": ""
+},
+{
+"ID": 461,
+"ZH_Text0": "關閉商店",
+"ZH_Text1": "",
+"CH_Text0": "Rời Cửa hàng",
+"CH_Text1": ""
+},
+{
+"ID": 462,
+"ZH_Text0": "切換角色",
+"ZH_Text1": "",
+"CH_Text0": "Hoán đổi nhân vật",
+"CH_Text1": ""
+},
+{
+"ID": 501,
+"ZH_Text0": "無存檔紀錄",
+"ZH_Text1": "",
+"CH_Text0": "Vô tồn ngăn ghi chép",
+"CH_Text1": ""
+},
+{
+"ID": 502,
+"ZH_Text0": "確定",
+"ZH_Text1": "",
+"CH_Text0": "Xác định",
+"CH_Text1": ""
+},
+{
+"ID": 503,
+"ZH_Text0": "取消",
+"ZH_Text1": "",
+"CH_Text0": "Hủy bỏ",
+"CH_Text1": ""
+},
+{
+"ID": 504,
+"ZH_Text0": "遊戲自動儲存中",
+"ZH_Text1": "",
+"CH_Text0": "Trò chơi tự động lưu trữ",
+"CH_Text1": ""
+},
+{
+"ID": 505,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"CH_Text0": "",
+"CH_Text1": ""
+},
+{
+"ID": 511,
+"ZH_Text0": "自動存檔",
+"ZH_Text1": "",
+"CH_Text0": "Tự động lưu trữ",
+"CH_Text1": ""
+},
+{
+"ID": 512,
+"ZH_Text0": "紀錄",
+"ZH_Text1": "",
+"CH_Text0": "Ghi chép",
+"CH_Text1": ""
+},
+{
+"ID": 513,
+"ZH_Text0": "無紀錄",
+"ZH_Text1": "",
+"CH_Text0": "Không ghi chép",
+"CH_Text1": ""
+},
+{
+"ID": 514,
+"ZH_Text0": "一",
+"ZH_Text1": "",
+"CH_Text0": "1",
+"CH_Text1": ""
+},
+{
+"ID": 515,
+"ZH_Text0": "二",
+"ZH_Text1": "",
+"CH_Text0": "2",
+"CH_Text1": ""
+},
+{
+"ID": 516,
+"ZH_Text0": "三",
+"ZH_Text1": "",
+"CH_Text0": "3",
+"CH_Text1": ""
+},
+{
+"ID": 517,
+"ZH_Text0": "四",
+"ZH_Text1": "",
+"CH_Text0": "4",
+"CH_Text1": ""
+},
+{
+"ID": 518,
+"ZH_Text0": "五",
+"ZH_Text1": "",
+"CH_Text0": "5",
+"CH_Text1": ""
+},
+{
+"ID": 519,
+"ZH_Text0": "六",
+"ZH_Text1": "",
+"CH_Text0": "6",
+"CH_Text1": ""
+},
+{
+"ID": 520,
+"ZH_Text0": "七",
+"ZH_Text1": "",
+"CH_Text0": "7",
+"CH_Text1": ""
+},
+{
+"ID": 521,
+"ZH_Text0": "八",
+"ZH_Text1": "",
+"CH_Text0": "8",
+"CH_Text1": ""
+},
+{
+"ID": 522,
+"ZH_Text0": "九",
+"ZH_Text1": "",
+"CH_Text0": "9",
+"CH_Text1": ""
+},
+{
+"ID": 523,
+"ZH_Text0": "十",
+"ZH_Text1": "",
+"CH_Text0": "10",
+"CH_Text1": ""
+},
+{
+"ID": 524,
+"ZH_Text0": "年",
+"ZH_Text1": "",
+"CH_Text0": "Y ",
+"CH_Text1": ""
+},
+{
+"ID": 525,
+"ZH_Text0": "月",
+"ZH_Text1": "",
+"CH_Text0": "M ",
+"CH_Text1": ""
+},
+{
+"ID": 526,
+"ZH_Text0": "日",
+"ZH_Text1": "",
+"CH_Text0": "D ",
+"CH_Text1": ""
+},
+{
+"ID": 527,
+"ZH_Text0": "時",
+"ZH_Text1": "",
+"CH_Text0": "Giờ ",
+"CH_Text1": ""
+},
+{
+"ID": 528,
+"ZH_Text0": "分",
+"ZH_Text1": "",
+"CH_Text0": "Phút ",
+"CH_Text1": ""
+},
+{
+"ID": 529,
+"ZH_Text0": "秒",
+"ZH_Text1": "",
+"CH_Text0": "Giây ",
+"CH_Text1": ""
+},
+{
+"ID": 530,
+"ZH_Text0": "百",
+"ZH_Text1": "",
+"CH_Text0": "Trăm",
+"CH_Text1": ""
+},
+{
+"ID": 550,
+"ZH_Text0": "等級",
+"ZH_Text1": "",
+"CH_Text0": "LV",
+"CH_Text1": ""
+},
+{
+"ID": 551,
+"ZH_Text0": "體力",
+"ZH_Text1": "",
+"CH_Text0": "Thể",
+"CH_Text1": ""
+},
+{
+"ID": 552,
+"ZH_Text0": "攻擊",
+"ZH_Text1": "",
+"CH_Text0": "Công",
+"CH_Text1": ""
+},
+{
+"ID": 553,
+"ZH_Text0": "防禦",
+"ZH_Text1": "",
+"CH_Text0": "Thủ",
+"CH_Text1": ""
+},
+{
+"ID": 554,
+"ZH_Text0": "增傷",
+"ZH_Text1": "",
+"CH_Text0": "Công+",
+"CH_Text1": ""
+},
+{
+"ID": 555,
+"ZH_Text0": "命中",
+"ZH_Text1": "",
+"CH_Text0": "C.Xác",
+"CH_Text1": ""
+},
+{
+"ID": 556,
+"ZH_Text0": "閃躲",
+"ZH_Text1": "",
+"CH_Text0": "Né",
+"CH_Text1": ""
+},
+{
+"ID": 557,
+"ZH_Text0": "速度",
+"ZH_Text1": "",
+"CH_Text0": "Tốc",
+"CH_Text1": ""
+},
+{
+"ID": 558,
+"ZH_Text0": "減傷",
+"ZH_Text1": "",
+"CH_Text0": "Thương-",
+"CH_Text1": ""
+},
+{
+"ID": 559,
+"ZH_Text0": "絕對閃避",
+"ZH_Text1": "",
+"CH_Text0": "Né tuyệt đối",
+"CH_Text1": ""
+},
+{
+"ID": 560,
+"ZH_Text0": "治療加成",
+"ZH_Text1": "",
+"CH_Text0": "Hồi phục",
+"CH_Text1": ""
+},
+{
+"ID": 561,
+"ZH_Text0": "對話",
+"ZH_Text1": "",
+"CH_Text0": "Đối thoại",
+"CH_Text1": ""
+},
+{
+"ID": 571,
+"ZH_Text0": "跳過教學",
+"ZH_Text1": "",
+"CH_Text0": "Bỏ qua hướng dẫn",
+"CH_Text1": ""
+},
+{
+"ID": 601,
+"ZH_Text0": "任務開始",
+"ZH_Text1": "",
+"CH_Text0": "Nhiệm vụ bắt đầu",
+"CH_Text1": ""
+},
+{
+"ID": 602,
+"ZH_Text0": "超過100%可獲得額外獎勵",
+"ZH_Text1": "",
+"CH_Text0": "Vượt qua 100% có thể đạt được khen thưởng thêm",
+"CH_Text1": ""
+},
+{
+"ID": 603,
+"ZH_Text0": "達成",
+"ZH_Text1": "",
+"CH_Text0": "Đạt thành",
+"CH_Text1": ""
+},
+{
+"ID": 604,
+"ZH_Text0": "達成度降低",
+"ZH_Text1": "",
+"CH_Text0": "Đạt thành độ giảm xuống",
+"CH_Text1": ""
+},
+{
+"ID": 605,
+"ZH_Text0": "任務完成",
+"ZH_Text1": "",
+"CH_Text0": "Nhiệm vụ hoàn thành",
+"CH_Text1": ""
+},
+{
+"ID": 621,
+"ZH_Text0": "評價",
+"ZH_Text1": "",
+"CH_Text0": "Đánh giá",
+"CH_Text1": ""
+},
+{
+"ID": 622,
+"ZH_Text0": "時間",
+"ZH_Text1": "",
+"CH_Text0": "Thời gian",
+"CH_Text1": ""
+},
+{
+"ID": 623,
+"ZH_Text0": "金錢",
+"ZH_Text1": "",
+"CH_Text0": "Tiền tài",
+"CH_Text1": ""
+},
+{
+"ID": 624,
+"ZH_Text0": "獲得物品",
+"ZH_Text1": "",
+"CH_Text0": "Vật phẩm thu được",
+"CH_Text1": ""
+},
+{
+"ID": 641,
+"ZH_Text0": "視角靈敏度",
+"ZH_Text1": "",
+"CH_Text0": "Độ nhạy",
+"CH_Text1": ""
+},
+{
+"ID": 642,
+"ZH_Text0": "1",
+"ZH_Text1": "",
+"CH_Text0": "1",
+"CH_Text1": ""
+},
+{
+"ID": 643,
+"ZH_Text0": "2",
+"ZH_Text1": "",
+"CH_Text0": "2",
+"CH_Text1": ""
+},
+{
+"ID": 644,
+"ZH_Text0": "3",
+"ZH_Text1": "",
+"CH_Text0": "3",
+"CH_Text1": ""
+},
+{
+"ID": 645,
+"ZH_Text0": "4",
+"ZH_Text1": "",
+"CH_Text0": "4",
+"CH_Text1": ""
+},
+{
+"ID": 646,
+"ZH_Text0": "5",
+"ZH_Text1": "",
+"CH_Text0": "5",
+"CH_Text1": ""
+},
+{
+"ID": 647,
+"ZH_Text0": "6",
+"ZH_Text1": "",
+"CH_Text0": "6",
+"CH_Text1": ""
+},
+{
+"ID": 648,
+"ZH_Text0": "7",
+"ZH_Text1": "",
+"CH_Text0": "7",
+"CH_Text1": ""
+},
+{
+"ID": 649,
+"ZH_Text0": "8",
+"ZH_Text1": "",
+"CH_Text0": "8",
+"CH_Text1": ""
+},
+{
+"ID": 650,
+"ZH_Text0": "9",
+"ZH_Text1": "",
+"CH_Text0": "9",
+"CH_Text1": ""
+},
+{
+"ID": 651,
+"ZH_Text0": "10",
+"ZH_Text1": "",
+"CH_Text0": "10",
+"CH_Text1": ""
+},
+{
+"ID": 652,
+"ZH_Text0": "11",
+"ZH_Text1": "",
+"CH_Text0": "11",
+"CH_Text1": ""
+}
+]

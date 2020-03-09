@@ -1,0 +1,5105 @@
+[
+{
+"ID": 30010,
+"ZH_Text0": "來者不善",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kẻ đến không có ý tốt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30011,
+"ZH_Text0": "下山確認不速之客是否進村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rời núi xem kẻ không được mời có vào thôn?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30020,
+"ZH_Text0": "久別重歸",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lâu rồi mới quay lại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30021,
+"ZH_Text0": "搜索村內",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lục soát trong thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30022,
+"ZH_Text0": "前往北村祀亭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến đình ở thôn phía Bắc tế bái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30030,
+"ZH_Text0": "不速之客",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vị khách không mời mà đến",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30031,
+"ZH_Text0": "前往歸思崖使用「那個」",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Quy Tư Nhai dùng “Cái đó“",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30032,
+"ZH_Text0": "至後山追捕巫獵長一眾",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến sau núi đuổi bắt một nhóm Vu Liệp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30040,
+"ZH_Text0": "一探究竟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra thật giả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30041,
+"ZH_Text0": "前往橫雲嶺深處探查",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vô sâu Hoành Vân Lĩnh dò xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30050,
+"ZH_Text0": "押解回村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Áp giải về thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30051,
+"ZH_Text0": "下山回村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xuống núi quay về thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30052,
+"ZH_Text0": "去柴房確認賊人已就縛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi Kho Củi xác nhận tên trộm bị trói chưa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30060,
+"ZH_Text0": "矛盾與掙扎",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mâu thuẫn cùng đấu tranh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30061,
+"ZH_Text0": "返家稟告",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về nhà bẩm báo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30070,
+"ZH_Text0": "儺祭大典",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lễ đuổi tà",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30071,
+"ZH_Text0": "前往北村祀亭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến đình ở thôn phía Bắc tế bái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30072,
+"ZH_Text0": "前往村巫家準備儺祭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Vu Gia Thôn chuẩn bị lễ đuổi tà",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30080,
+"ZH_Text0": "昔日好友",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bạn cũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30081,
+"ZH_Text0": "去陶石家找陶石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi tìm Đào Thạch tại Đào Thạch Gia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30090,
+"ZH_Text0": "神靈蹤跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết tích Thần Linh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30091,
+"ZH_Text0": "找夕羽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Tịch Vũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30100,
+"ZH_Text0": "逃脫的闖入者",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kẻ xâm nhập",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30101,
+"ZH_Text0": "追捕巫獵一眾",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đuổi bắt một nhóm Vu Liệp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30108,
+"ZH_Text0": "設法回村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm cách về thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30109,
+"ZH_Text0": "通知村人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Báo cho người trong thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30110,
+"ZH_Text0": "大難臨頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đại nạn đến nơi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30111,
+"ZH_Text0": "協助村民逃難",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp thôn dân chạy nạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30112,
+"ZH_Text0": "返家查看",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về nhà kiểm tra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30120,
+"ZH_Text0": "無法割捨的親情",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không cách nào dứt bỏ thân tình được",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30121,
+"ZH_Text0": "尋找家人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm người nhà",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30130,
+"ZH_Text0": "踏上旅途",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắt đầu lữ hành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30131,
+"ZH_Text0": "前往帝都",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi đến Đế Đô",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30501,
+"ZH_Text0": "達成率滿足100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến độ tiêu chuẩn đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30502,
+"ZH_Text0": "需躲避守村人維持警戒分數",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tránh thủ vệ của thôn, duy trì điểm đề phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30503,
+"ZH_Text0": "需躲避守村人維持警戒分數",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cần tránh thủ vệ của thôn, duy trì điểm đề phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30504,
+"ZH_Text0": "協助村民積分需達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp đỡ thôn dân cần đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30505,
+"ZH_Text0": "在時間內探查傲狠蹤跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trong thời gian đã định truy tung Ngạo Ngoan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30506,
+"ZH_Text0": "累積情報分數達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thu thập thông tin tình báo đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30507,
+"ZH_Text0": "累積互動達成率達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Độ tương tác đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30508,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30509,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30510,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30511,
+"ZH_Text0": "搜查可疑線索達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỉ lệ điều tra manh mối đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30512,
+"ZH_Text0": "潛入隱密度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mức độ ẩn mật khi lẻn vào",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30513,
+"ZH_Text0": "潛入隱密度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mức độ ẩn mật khi lẻn vào",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30514,
+"ZH_Text0": "時間內儘可能協助村民",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trong khoảng thời gian cố gắng giúp thôn dân ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30515,
+"ZH_Text0": "尋找傲狠線索達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỉ lệ điều tra manh mối Ngạo Ngoan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30516,
+"ZH_Text0": "探查厭火國人的線索",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dò xét đầu mối của người Yếm Hỏa Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30517,
+"ZH_Text0": "與村人互動達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỉ lệ tương tác với thôn dân đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30518,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30519,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30520,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30521,
+"ZH_Text0": "已達標準：可前往北村祀亭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đạt mục tiêu, có thể về đình Bắc thôn tế bái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30522,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30523,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30524,
+"ZH_Text0": "已達標準：可前往北村祀亭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đạt mục tiêu, có thể về đình Bắc thôn tế bái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30525,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30526,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30527,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30528,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30529,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30530,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30700,
+"ZH_Text0": "冬葵之託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Quỳ nhờ vả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30701,
+"ZH_Text0": "尋找芹兒的下落",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm tung tích Cần Nhi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30710,
+"ZH_Text0": "漏網之魚",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cá lọt lưới",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30711,
+"ZH_Text0": "肅清村外的威脅",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xử lý những uy hiếp ngoài thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30720,
+"ZH_Text0": "不翼而飛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không cánh mà bay",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30721,
+"ZH_Text0": "找回被偷的玉墜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm lại khuyên tai (Ngọc Trụy) bị trộm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30730,
+"ZH_Text0": "浣紗的手環",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vòng tay của Hoán Sa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30731,
+"ZH_Text0": "找回浣紗的手環",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm lại vòng tay của Hoán Sa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30732,
+"ZH_Text0": "將手環拿給浣紗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đưa vòng tay cho Hoán Sa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30740,
+"ZH_Text0": "榆叟的褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quần của Du Bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30741,
+"ZH_Text0": "把褲子還給榆叟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mang quần cho Du Bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30742,
+"ZH_Text0": "把褲子還給榆叟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mang quần cho Du Bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30750,
+"ZH_Text0": "榆叟的褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quần của Du Bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30751,
+"ZH_Text0": "回飛星小屋拿補好的褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về phòng của Phi Tinh lấy chiếc quần đã vá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30752,
+"ZH_Text0": "尋找補好的褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm chiếc quần đã được vá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30753,
+"ZH_Text0": "把褲子還給榆叟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mang quần cho Du Bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30760,
+"ZH_Text0": "藍珠之託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lam Châu nhờ vả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30761,
+"ZH_Text0": "通知小棗回家一趟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kêu Tiểu Tảo về nhà một chuyến",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30762,
+"ZH_Text0": "找到小棗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Tiểu Tảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30770,
+"ZH_Text0": "無人護衛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không ai hộ vệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30771,
+"ZH_Text0": "通知阿原與二郎回柴房站哨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gọi A Nguyên và Nhị Lang về canh kho củi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30772,
+"ZH_Text0": "回柴房前找韓盧",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về kho củi tìm Hàn Lư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30801,
+"ZH_Text0": "和冬葵對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Đông Quỳ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30802,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30803,
+"ZH_Text0": "回小屋查看",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về phòng xem xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30804,
+"ZH_Text0": "和浣紗對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hoán Sa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30805,
+"ZH_Text0": "和藍珠對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Lam Chân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30806,
+"ZH_Text0": "和韓盧對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hàn Lư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30901,
+"ZH_Text0": "芹兒已獲救回村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cần Nhi đã được cứu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30902,
+"ZH_Text0": "任務已過期！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhiệm vụ đã hết hạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30903,
+"ZH_Text0": "失物已無法尋回",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không thể tìm lại vật đã mất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30904,
+"ZH_Text0": "浣紗已有新的手環",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hoán Sa đã có vòng tay mới",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30905,
+"ZH_Text0": "榆叟放棄討回褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Du Bá không cần quần nữa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30906,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30907,
+"ZH_Text0": "改託曲弧找回小棗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã nhờ Khúc Hồ tìm Tiểu Tảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30908,
+"ZH_Text0": "已過站哨時間",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã qua thời gian canh gác",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30909,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30910,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30911,
+"ZH_Text0": "謎之邂逅",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bất ngờ gặp nhau ở Mê",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30912,
+"ZH_Text0": "找到所有『奇妙的經歷』",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm tất cả [Kỳ Diệu Kinh Lịch]",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 30916,
+"ZH_Text0": "已錯失邂逅的機會",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ qua cơ hội bất ngờ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31000,
+"ZH_Text0": "箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31001,
+"ZH_Text0": "進入箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31010,
+"ZH_Text0": "神靈、神醫與搶紅酬",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Linh, Thần Y cùng đoạt Hồng Thù",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31011,
+"ZH_Text0": "在箴石小鎮四處探聽消息",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thám thính tin tức Châm Thạch trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31012,
+"ZH_Text0": "前往佈告欄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tới bảng thông báo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31020,
+"ZH_Text0": "二喜的請求",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đề nghị của Nhị Hy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31021,
+"ZH_Text0": "前往客舍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến đến Khách Xá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31022,
+"ZH_Text0": "前往喜字房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến phòng có chữ Hỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31023,
+"ZH_Text0": "到餅嬸家找夕羽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Bính Thẩm Gia tìm Tịch Vũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31030,
+"ZH_Text0": "遺失的淨玉",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tịnh Ngọc bị mất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31031,
+"ZH_Text0": "回客舍找老闆娘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về Khách Xá tìm bà chủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31032,
+"ZH_Text0": "找到望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm đến Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31033,
+"ZH_Text0": "前往黑市找望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Hắc Thị tìm Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31034,
+"ZH_Text0": "追上望舒出去看看狀況",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đuổi theo Vọng Thư xem tình hình",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31040,
+"ZH_Text0": "奇肱飛車",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xe bay Kỳ Quăng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31041,
+"ZH_Text0": "躲避飛車攻擊，到客舍避難",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né công kích của xe bay, đến Khách Xá tị nạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31042,
+"ZH_Text0": "春絕的請求",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thỉnh cầu của Xuân Tuyệt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31050,
+"ZH_Text0": "救助鎮民",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu trợ dân trong trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31051,
+"ZH_Text0": "救助農婦、奉嬸、富商任實",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu trợ nông phụ, Phụng thẩm, Nhậm Thực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31052,
+"ZH_Text0": "進入客舍避難",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào Khách Xá tị nạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31053,
+"ZH_Text0": "跟客舍內的人談論鎮上的情況",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thảo luận tình hình ngoài trấn với Khách Xá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31054,
+"ZH_Text0": "到窗前看看情勢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến bên cửa sổ quan sát tình thế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31060,
+"ZH_Text0": "神靈降災",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Linh giáng tai họa xuống",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31061,
+"ZH_Text0": "追上狂怒的猙",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đuổi theo Tranh cuồng nộ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31062,
+"ZH_Text0": "高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31100,
+"ZH_Text0": "濃霧迷陣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nùng Vụ Mê Trận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31101,
+"ZH_Text0": "尋找能夠脫離迷霧的線索",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm manh mối để thoát khỏi sương mù dày đặc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31110,
+"ZH_Text0": "進入高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31111,
+"ZH_Text0": "順著山道穿越高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thuận theo sơn đạo xuyên qua Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31120,
+"ZH_Text0": "躲避厭火國人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né tránh người Yếm Hỏa Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31121,
+"ZH_Text0": "尋找其他路徑避開厭火國人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm đường đi khác, tránh Yếm Hỏa Nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31122,
+"ZH_Text0": "進入裂開的山壁",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào vách núi bị nứt ra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31130,
+"ZH_Text0": "別有洞天",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có động thiên khác",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31131,
+"ZH_Text0": "尋找其他出路",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm đường ra khác",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31132,
+"ZH_Text0": "離開山洞，繼續前行",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rời khỏi sơn động, tiếp tục hành trình",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31140,
+"ZH_Text0": "前往船塢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến đến bến tàu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31141,
+"ZH_Text0": "到船塢查看玄龜的狀況",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến bến tàu xem tình hình của Huyền Quy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31150,
+"ZH_Text0": "找尋合適的藥草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm dược thảo phù hợp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31151,
+"ZH_Text0": "尋找三種常見藥草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm 3 loại dược thảo thường thấy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31152,
+"ZH_Text0": "返回居所煮藥",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quay về chỗ ở chế dược",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31153,
+"ZH_Text0": "尋找三種罕見藥草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm 3 loại dược thảo quý hiếm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31160,
+"ZH_Text0": "向雲傾道謝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói lời cảm tạ với Vân Khuynh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31161,
+"ZH_Text0": "向屋外的雲傾答謝救命之恩",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đáp tạ ân cứu mạng với Vân Khuynh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31162,
+"ZH_Text0": "挑戰雲傾",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khiêu chiến Vân Khuynh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31163,
+"ZH_Text0": "前往船塢離開高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về bến tàu rời khỏi Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31164,
+"ZH_Text0": "突破重圍到達船塢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đột phát vòng vây đến bến tàu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31165,
+"ZH_Text0": "到外面小道找望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến con đường nhỏ bên ngoài tìm Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31170,
+"ZH_Text0": "陶唐帝都初來到",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mới đến Đế Đô Đào Đường",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31171,
+"ZH_Text0": "打聽祈禳大典相關的訊息",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nghe ngóng tin tức về đại lễ Cầu Nhương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31180,
+"ZH_Text0": "祈禳大典會伊祁",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đại lễ Cầu Nhương gặp Y Kỳ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31181,
+"ZH_Text0": "前往參加祈禳大典",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến tham gia đại lễ Cầu Nhương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31190,
+"ZH_Text0": "出乎意料",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nằm ngoài dự tính",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31191,
+"ZH_Text0": "追緝刺客黨羽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Truy bắt đồng đảng của thích khách",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31192,
+"ZH_Text0": "回祭台看看",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về tế đàn xem xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31193,
+"ZH_Text0": "前往客舍房間等銀川",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về phòng ở Khách Xá đợi Ngân Xuyên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31194,
+"ZH_Text0": "攔住巫獵咒師",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngăn Vu Liệp Chú Sứ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31200,
+"ZH_Text0": "巫獵的目的？",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mục đích của Vu Liệp?",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31201,
+"ZH_Text0": "找到陣眼，破除血陣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm trận nhãn, phá huyết trận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31202,
+"ZH_Text0": "破除噬魂血陣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phá bỏ Phệ Hồn Huyết Trận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31210,
+"ZH_Text0": "神巫遭擄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Vu bị bắt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31211,
+"ZH_Text0": "救回嵐湘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu Lam Tương về",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31220,
+"ZH_Text0": "求見伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu kiến Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31221,
+"ZH_Text0": "前往閶闔宮前求見伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu kiến Y Kỳ Đế ở phía trước Xương Hạp Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31222,
+"ZH_Text0": "找侍衛長通報求見伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm thị vệ trưởng thông báo cầu kiến Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31230,
+"ZH_Text0": "求見伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu kiến Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31231,
+"ZH_Text0": "跟隨士兵前去歇息",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi theo Sĩ Binh đến chỗ nghỉ ngơi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31232,
+"ZH_Text0": "設法逃離閶闔宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm cách thoát khỏi Xương Hạp Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31240,
+"ZH_Text0": "鏡星殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kính Tinh Điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31241,
+"ZH_Text0": "與雲傾一同啟動鏡星殿機關",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Vân Khuynh dùng cơ quan Kính Tinh Điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31242,
+"ZH_Text0": "追回望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đoạt Vọng Thư về",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31243,
+"ZH_Text0": "返回鏡星殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quay về Kính Tinh điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31250,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31251,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31252,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31253,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31254,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31260,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31261,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31262,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31270,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31271,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31272,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31273,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31274,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31280,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31281,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31282,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31283,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31284,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31285,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31290,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31291,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31292,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31293,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31294,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31501,
+"ZH_Text0": "互動達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỷ lệ tương tác đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31502,
+"ZH_Text0": "互動達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỷ lệ tương tác đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31503,
+"ZH_Text0": "生命值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lượng HP",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31504,
+"ZH_Text0": "互動達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỷ lệ tương tác đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31505,
+"ZH_Text0": "採集完成度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mức độ hoàn thành thu thập",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31506,
+"ZH_Text0": "互動達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỷ lệ tương tác đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31507,
+"ZH_Text0": "答題完成度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mức độ hoàn thành bài thi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31508,
+"ZH_Text0": "解除陣法完成度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mức độ hoàn thành phá bỏ trận pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31551,
+"ZH_Text0": "累積情報分數達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tích lũy tình báo đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31552,
+"ZH_Text0": "拯救村民",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu thôn dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31553,
+"ZH_Text0": "回到客舍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trở lại Khách Xá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31554,
+"ZH_Text0": "累積情報分數達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tích lũy tình báo đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31555,
+"ZH_Text0": "擊倒所有敵人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại tất cả đối thủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31556,
+"ZH_Text0": "累積情報分數達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tích lũy tình báo đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31557,
+"ZH_Text0": "前往黑市",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến đến Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31558,
+"ZH_Text0": "躲避守衛維持警戒分數",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điểm duy trì mức độ né tránh với Thủ Vệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31559,
+"ZH_Text0": "考驗分數達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điểm khảo nghiệm đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31560,
+"ZH_Text0": "躲避地刺解除機關",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né tránh gai đất giải trừ cơ quan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31561,
+"ZH_Text0": "解除陣法達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giải trừ trận pháp đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31562,
+"ZH_Text0": "擊倒所有敵人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại tất cả đối thủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31563,
+"ZH_Text0": "剩餘精氣值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tinh khí còn lại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31564,
+"ZH_Text0": "擊破陣眼人面鴞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại Nhân Diện Hào trận nhãn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31565,
+"ZH_Text0": "提煉藥材達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỷ lệ tinh luyện dược liệu đạt tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31566,
+"ZH_Text0": "使用神之器提煉藥材",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sử dụng khí cụ thần để tinh luyện dược liệu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31567,
+"ZH_Text0": "組合藥草、提煉藥材，回到住所使用藥爐煎製藥湯",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm dược thảo, luyện dược liệu, chế canh thuốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31568,
+"ZH_Text0": "剩餘分數",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điểm còn lại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31700,
+"ZH_Text0": "小小人捉迷藏",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Người tí hon chơi trốn tìm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31701,
+"ZH_Text0": "找到躲起來的小小人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm người tí hon đang chơi trốn tìm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31702,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31706,
+"ZH_Text0": "和小小人對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với người tí hon",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31710,
+"ZH_Text0": "鎮長的委託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ủy thác của trấn trưởng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31711,
+"ZH_Text0": "調查殺人血案",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra huyết án giết người",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31712,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31713,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31716,
+"ZH_Text0": "和鎮長對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với trấn trưởng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31720,
+"ZH_Text0": "拯救帝江",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu Đế Giang",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31721,
+"ZH_Text0": "將帝江從惡人的手中救出來",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu Đế Giang khỏi tay của ác nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31722,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31723,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31726,
+"ZH_Text0": "和巫獵焦桐對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Vu Liệp Tiêu Đồng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31730,
+"ZH_Text0": "走失的母雞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mẫu Kê lạc đường",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31731,
+"ZH_Text0": "幫助母雞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp Mẫu Kê",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31732,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31736,
+"ZH_Text0": "和母雞互動",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tương tác với Mẫu Kê",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31740,
+"ZH_Text0": "不良奸商",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gian thương bất lương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31741,
+"ZH_Text0": "解決柑橘詐騙事件",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giải quyết việc lừa đảo Cam Quất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31742,
+"ZH_Text0": "給奸商一個教訓",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cho gian thương một bài học",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31743,
+"ZH_Text0": "和東極行商對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đối thoại với Đông Cực Hành Thương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31746,
+"ZH_Text0": "幫助東極行商",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trợ giúp Đông Cực Hành Thương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31750,
+"ZH_Text0": "周饒人的迷信",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sự mê tín của Chu Nhiêu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31751,
+"ZH_Text0": "和周饒商人對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Chu Nhiêu thương nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31752,
+"ZH_Text0": "找到幸運草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Hạnh Vận Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31753,
+"ZH_Text0": "將幸運草交給周饒商人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đem Hạnh Vận Thảo cho thương nhân.",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31760,
+"ZH_Text0": "治療猙的傷勢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chữa vết thương của Tranh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31761,
+"ZH_Text0": "尋找珍稀藥草牛傷果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm trân thảo Ngưu Thương Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31762,
+"ZH_Text0": "回去找猙",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quay về tìm Tranh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31763,
+"ZH_Text0": "擊敗巫獵魯八",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại Vu Liệp Lỗ Bát",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31764,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31766,
+"ZH_Text0": "與猙對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Tranh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31770,
+"ZH_Text0": "流氓三兄弟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ba huynh đệ lưu manh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31771,
+"ZH_Text0": "和黑面對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hắc Diện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31772,
+"ZH_Text0": "擊敗流氓三兄弟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại ba huynh đệ lưu manh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31773,
+"ZH_Text0": "和黑面對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hắc Diện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31774,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31780,
+"ZH_Text0": "九指大盜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Chỉ Đại Đạo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31781,
+"ZH_Text0": "阻止九指大盜欺凌女子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngăn cản Cửu Chỉ Đại Đạo khi vũ cô gái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31782,
+"ZH_Text0": "和賣花女子對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với cô gái bán hoa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31783,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31784,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31790,
+"ZH_Text0": "神靈的哀怨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Than vãn của Thần Linh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31791,
+"ZH_Text0": "找到垂死的神靈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Thần Linh đang ngấp ngoải",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31792,
+"ZH_Text0": "找到粟米團",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "TÌm Túc Mễ Đoàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31793,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31794,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31800,
+"ZH_Text0": "石靈的請求",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thỉnh cầu của Thạch Linh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31801,
+"ZH_Text0": "協助石靈尋找失物",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp Thạch Linh tìm vật bị mất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31802,
+"ZH_Text0": "回去找石靈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về tìm Thạch Linh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31803,
+"ZH_Text0": "到瀑布下沖洗石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến thác nước tẩy lại hòn đá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31804,
+"ZH_Text0": "交還洗淨的石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giao trả hòn đá đã rửa sạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31805,
+"ZH_Text0": "幸運小小人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Người tí hon may mắn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31806,
+"ZH_Text0": "查看那位小小人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kiểm tra người tí hon kia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31807,
+"ZH_Text0": "到船塢旁瞧瞧",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến bên bến tàu nhìn một cái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31808,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31809,
+"ZH_Text0": "尋找通過斷崖的方式",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm cách đi qua sườn đồi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31810,
+"ZH_Text0": "失散的餑餑",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bột Bột thất lạc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31811,
+"ZH_Text0": "到濃霧地區尋找餑餑",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến chỗ sương mù dày đặc tìm kiếm Bột Bột",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31812,
+"ZH_Text0": "回到船塢找周饒商人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quay về bến tàu tìm Chu Nhiêu thương nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31813,
+"ZH_Text0": "和周饒商人多聊兩句",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói vài câu với thương nhân Chu Nhiêu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31814,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31820,
+"ZH_Text0": "擊潰黑市",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31821,
+"ZH_Text0": "擊敗黑市所有敵人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại tất cả kẻ địch của Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31822,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31823,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31824,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31830,
+"ZH_Text0": "擊潰黑市",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31831,
+"ZH_Text0": "擊敗黑市的敵人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại kẻ địch của Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31832,
+"ZH_Text0": "擊敗所有敵人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại tất cả đối thủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31833,
+"ZH_Text0": "擊敗更多黑市餘黨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại thật nhiều dư đảng của Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31834,
+"ZH_Text0": "擊敗所有黑市餘黨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại tất cả dư đảng của Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31840,
+"ZH_Text0": "最後的心願",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tâm nguyện cuối",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31841,
+"ZH_Text0": "在貴族區找到瀕死的士兵",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Sĩ Binh sắp chết ở khu quý tộc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31842,
+"ZH_Text0": "前往平民區找梓雁對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về khu bình dân nói chuyện với Tử Nhạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31843,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31844,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31850,
+"ZH_Text0": "巫祝岐羅的占卜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vu Chúc Kỳ La xem bói",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31851,
+"ZH_Text0": "貴族區的子承似乎有事情要麻煩你",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Có vẻ Tử Thừa khu Quý Tộc có việc cần nhờ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31852,
+"ZH_Text0": "和巫祝岐羅對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Vu Chúc Kỳ La",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31853,
+"ZH_Text0": "和子承對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Tử Thừa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31854,
+"ZH_Text0": "協助尋找吟兒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp đỡ tìm kiếm Ngâm Nhi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31855,
+"ZH_Text0": "和子承對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Tử Thừa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31860,
+"ZH_Text0": "攤商大根的煩惱（二）",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phiền não của Than Thương Đại Căn (Nhị)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31861,
+"ZH_Text0": "攤商大根想要抓到阿貴的把柄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Than Thương Đại Căn muốn nắm thóp A Quý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31862,
+"ZH_Text0": "和攤商大根對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện cùng Than Thương Đại Căn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31863,
+"ZH_Text0": "向城中的居民探查相關的線索並告知攤商大根",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm manh mối, nói cho Than Thương Đại Căn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31870,
+"ZH_Text0": "攤商大根的煩惱（一）",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phiền não của Than Thương Đại Căn (Nhất)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31871,
+"ZH_Text0": "攤商大根需要幫助",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Than Thương Đại Căn cần trợ giúp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31872,
+"ZH_Text0": "和攤商阿貴對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Than Thương A Quý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31873,
+"ZH_Text0": "將結果告訴攤商大根",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đem kết quả nói cho Than Thương Đại Căn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31880,
+"ZH_Text0": "人生的滋味就像那苦酒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mùi vị của cuộc sống cũng chỉ như rượu đắng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31881,
+"ZH_Text0": "跟商販阿幾對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với tiểu thương A Kỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31882,
+"ZH_Text0": "取得苦酒交給阿幾",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lấy Khổ Tửu giao cho A Kỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31890,
+"ZH_Text0": "靈力童子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thằng nhóc có linh lực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31891,
+"ZH_Text0": "和冬柏對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng Đông Bách nói chuyện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31892,
+"ZH_Text0": "幫忙尋找鞠兒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp tìm kiếm Cúc Nhi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31893,
+"ZH_Text0": "和冬柏對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Đông Bách",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31900,
+"ZH_Text0": "柳樹的惡作劇",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trò đùa của cây liễu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31901,
+"ZH_Text0": "和虞娘對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Ngu Nương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31902,
+"ZH_Text0": "向小礫詢問平安墜的下落",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỏi thăm Tiểu Lịch tung tích của Bình An Truỵ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31903,
+"ZH_Text0": "找到平安墜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Bình An Truỵ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31904,
+"ZH_Text0": "將平安墜交還給虞娘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đem Bình An Truỵ đưa cho Ngu Nương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31910,
+"ZH_Text0": "黑市殘黨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tàn đảng Hắc Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31911,
+"ZH_Text0": "聽到守衛隊長的對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nghe được Thủ vệ đội trưởng nói chuyện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31912,
+"ZH_Text0": "留意逃出的黑市殘黨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lưu ý Hắc Thị tàn đảng chạy trốn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31951,
+"ZH_Text0": "已錯過玩捉迷藏的時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ chơi trốn tìm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31952,
+"ZH_Text0": "血案已真相大白",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": " Đã tra rõ chân tướng huyến án",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31953,
+"ZH_Text0": "帝江已脫困",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đế Giang đã thoát khỏi khốn đốn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31954,
+"ZH_Text0": "母雞平安到家了",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mẫu Kê đã bình an về nhà",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31955,
+"ZH_Text0": "東極行商已離開箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Cực Hành Thương đã rời Châm Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31956,
+"ZH_Text0": "周饒商人已離開箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chu Nhiêu thương nhân đã rời Châm Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31957,
+"ZH_Text0": "錯過治療機會",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bỏ lỡ cơ hội chữa bệnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31958,
+"ZH_Text0": "粟米團已離開箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Túc Mễ Đoàn đã rời Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31959,
+"ZH_Text0": "石靈已離開高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thạch Linh đã rời Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31960,
+"ZH_Text0": "錯過查看時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bỏ lỡ thời cơ tra xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31961,
+"ZH_Text0": "餑餑已回到船塢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bột Bột đã quay về bến tàu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31962,
+"ZH_Text0": "士兵心願已了",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tâm nguyện của Sĩ binh đã xong",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31963,
+"ZH_Text0": "已錯過時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31964,
+"ZH_Text0": "已錯過相助時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ tương trợ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31965,
+"ZH_Text0": "已錯過調查時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ điều tra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31966,
+"ZH_Text0": "已錯過相助時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ tương trợ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31967,
+"ZH_Text0": "已錯過相助時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ tương trợ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31968,
+"ZH_Text0": "已錯過相助時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ tương trợ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31969,
+"ZH_Text0": "虞娘已找回平安墜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngu Nương đã tìm về được Bình An Truỵ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 31970,
+"ZH_Text0": "已錯過調查時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ điều tra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32001,
+"ZH_Text0": "與望舒會合",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tụ hợp với Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32002,
+"ZH_Text0": "協助望舒脫離幻象",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp Vọng Thư thoát khỏi huyễn cảnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32003,
+"ZH_Text0": "找路進入不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm đường vào Bất Chu Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32004,
+"ZH_Text0": "進入幽冥",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào U Minh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32011,
+"ZH_Text0": "搜尋不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Bất Chu Sơn Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32012,
+"ZH_Text0": "躲避土伯之眼，尋找夥伴",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né tránh Thổ Bá Chi Nhãn, tìm kiếm đồng bạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32013,
+"ZH_Text0": "逃離破碎的石橋！",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thoát khỏi cầu đá bị vỡ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32021,
+"ZH_Text0": "搜尋不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Bất Chu Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32022,
+"ZH_Text0": "尋找夥伴",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm đồng bạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32023,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32031,
+"ZH_Text0": "搜尋不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Bất Chu Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32032,
+"ZH_Text0": "前往伊祁帝所在處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về chỗ của Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32033,
+"ZH_Text0": "躲避土伯，尋找伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tránh né Thổ bá, tìm kiếm Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32034,
+"ZH_Text0": "前往伊祁帝所在處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về chỗ của Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32041,
+"ZH_Text0": "搜尋不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Bất Chu Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32042,
+"ZH_Text0": "躲避土伯，尋找伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tránh né Thổ bá, tìm kiếm Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32043,
+"ZH_Text0": "協助伊祁帝抵抗土伯",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiệp trợ Y Kỳ Đế chống cự Thổ bá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32044,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32051,
+"ZH_Text0": "神物之所",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chỗ của Thần vật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32052,
+"ZH_Text0": "前往謎樣光處探察",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về chỗ Mê Dạng Quang dò xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32101,
+"ZH_Text0": "求援賢士",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu viện hiền sĩ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32102,
+"ZH_Text0": "尋找重華",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm Trọng Hoa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32111,
+"ZH_Text0": "聘請大夫",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mời đại phu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32112,
+"ZH_Text0": "前往玄凰祭殿尋訪鵲春",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Huyền Hoàng tế điện hỏi tìm Thước Xuân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32113,
+"ZH_Text0": "回攝日王府",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về Nhiếp Nhật Vương Phủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32121,
+"ZH_Text0": "神秘少年",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thiếu niên thần bí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32122,
+"ZH_Text0": "尋找少年的行蹤",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm hành tung của thiếu niên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32131,
+"ZH_Text0": "圓月之祭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Viên Nguyệt Chi Tế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32132,
+"ZH_Text0": "參加圓月之舞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tham gia hội múa trăng rằm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32141,
+"ZH_Text0": "回憶之痕",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết tích hồi ức",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32142,
+"ZH_Text0": "尋找嵐湘去處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiếm chỗ của Lam Tương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32151,
+"ZH_Text0": "泣血發難",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khấp Huyết nổi loạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32152,
+"ZH_Text0": "協助退敵、救死扶傷",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp đẩy lùi địch, cứu giúp mọi người",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32153,
+"ZH_Text0": "誤入歧途",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lầm đường lạc lối",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32161,
+"ZH_Text0": "混沌之氣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khí Hỗn Độn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32162,
+"ZH_Text0": "前往校場阻止夸父",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến võ đài ngăn cản Khoa Phụ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32201,
+"ZH_Text0": "淨化白龍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tịnh hóa Bạch Long",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32202,
+"ZH_Text0": "前往祭壇協助淨化白龍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến tế đàn trợ giúp tịnh hóa Bạch Long",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32203,
+"ZH_Text0": "前往祭壇協助淨化白龍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến tế đàn trợ giúp tịnh hóa Bạch Long",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32211,
+"ZH_Text0": "遵守約定",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuân thủ ước định",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32212,
+"ZH_Text0": "找馨彤協助前往靈泉湯谷",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Hinh Đồng giúp tiến về Linh Tuyền Thang",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32213,
+"ZH_Text0": "前往鄉主房稟告伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về Hương Chủ Phòng bẩm báo Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32221,
+"ZH_Text0": "憤而回歸",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Uất ức trở về",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32222,
+"ZH_Text0": "找回禍天",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm về Hoạ Thiên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32231,
+"ZH_Text0": "危機再起",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nguy cơ tái khởi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32232,
+"ZH_Text0": "追查神秘男子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Truy xét nam tử thần bí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32233,
+"ZH_Text0": "阻止神秘男子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngăn cản nam tử thần bí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32241,
+"ZH_Text0": "修復神器",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khôi phục Thần khí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32242,
+"ZH_Text0": "查探神器狀況",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra tình trạng Thần khí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32243,
+"ZH_Text0": "問秋初解決之法",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỏi Thu Sơ cách giải quyết",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32251,
+"ZH_Text0": "避世之境",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tị thế chi cảnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 32252,
+"ZH_Text0": "前進神水鄉",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đi tới Thần Thuỷ Hương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33001,
+"ZH_Text0": "九翼遺物",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Dực di vật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33002,
+"ZH_Text0": "收集魂靈之石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thu thập Hồn Linh Chi Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33003,
+"ZH_Text0": "將魂靈之石送到神殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đem Hồn Linh Chi Thạch đưa đến thần điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33004,
+"ZH_Text0": "調查四散的九翼部眾屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra thi thể bộ hạ Cửu Dực khắp bốn phía",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33006,
+"ZH_Text0": "已錯過收集時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ thu thập",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33011,
+"ZH_Text0": "噗嚕嚕搜寶商",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phốc Lỗ Lỗ tìm vật bảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33012,
+"ZH_Text0": "查看聲音的來源",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kiểm tra nơi phát ra thanh âm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33013,
+"ZH_Text0": "到水池邊攪散混沌術法",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến cạnh ao quấy rỗi Hỗn Độn Thuật Pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33014,
+"ZH_Text0": "找噗寶談話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Phốc Bảo nói chuyện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33016,
+"ZH_Text0": "聲音已消失",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thanh âm đã biến mất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33021,
+"ZH_Text0": "元魂重聚",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tập hợp lại Nguyên Hồn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33022,
+"ZH_Text0": "尋找粟米糰分散的元魂",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm kiến Nguyên Hồn phân tán của Túc Mễ Đoàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33023,
+"ZH_Text0": "曾經在箴石小鎮遇見的神靈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Từng gặp Thần Linh ở Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33026,
+"ZH_Text0": "已錯過調查時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ thu thập",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33101,
+"ZH_Text0": "丹羽玄凰的請託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đan Vũ Huyền Hoàng nhờ giúp đỡ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33102,
+"ZH_Text0": "在東極王城中找到陣法並破壞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm và phá trận pháp Đông Cực Vương thành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33103,
+"ZH_Text0": "回神殿向丹羽玄凰回報",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Về Thần Điện hồi báo Đan Vũ Huyền Hoàng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33104,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33105,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33106,
+"ZH_Text0": "前往神殿調查",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra thần điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33107,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33108,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33109,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33110,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33111,
+"ZH_Text0": "武藝切磋",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Luận bàn võ nghệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33112,
+"ZH_Text0": "跟隨丹朱前往守衛軍頭領處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Theo Đan Chu đến chỗ Thủ vệ quân đầu lĩnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33113,
+"ZH_Text0": "與三位東極守衛軍長切磋",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Luận bàn cùng ba vị Thủ Vệ Trưởng Đông Cực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33114,
+"ZH_Text0": "向攝日王與丹朱表達謝意",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói cảm tạ Nhiếp Nhật vương và Đan Chu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33115,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33116,
+"ZH_Text0": "和丹朱對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Đan Chu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33117,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33118,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33119,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33120,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33121,
+"ZH_Text0": "瘋癲巫祝的啞謎",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Điên Vu Chúc bí hiểm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33122,
+"ZH_Text0": "查探東極王城的「樹下」",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều tra “dưới cây“ của Đông Cực Vương Thành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33123,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33124,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33125,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33126,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33127,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33128,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33129,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33130,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33131,
+"ZH_Text0": "失信的玉商",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngọc Thương thất tín",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33132,
+"ZH_Text0": "幫元頌尋回白玉篦的消息",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm thông tin về Bạch Ngọc cho Nguyên Tụng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33133,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33134,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33135,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33136,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33137,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33138,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33139,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33140,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33141,
+"ZH_Text0": "已錯失破壞陣法時機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ thời cơ phá bỏ trận pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33142,
+"ZH_Text0": "已錯失切磋機會",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ cơ hội luận bàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33143,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33144,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33145,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33146,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33201,
+"ZH_Text0": "阿錦的心願",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tâm nguyện của A Cẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33202,
+"ZH_Text0": "將阿錦的布娃娃交給渠順",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đem búp bê vải của A Cẩm giao cho Cừ Thuận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33203,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33204,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33205,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33206,
+"ZH_Text0": "和阿錦對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với A Cẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33207,
+"ZH_Text0": "已錯失對話機會",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ cơ hội đối thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33208,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33209,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33210,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33211,
+"ZH_Text0": "難以傳遞的心意",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khó truyền đạt tâm ý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33212,
+"ZH_Text0": "前往祭台與馨彤會合",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gặp mặt Hinh Đồng ở tế đàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33213,
+"ZH_Text0": "與秋初對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Thu Sơ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33214,
+"ZH_Text0": "與馨彤對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hinh Đồng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33215,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33216,
+"ZH_Text0": "和馨彤對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Hinh Đồng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33217,
+"ZH_Text0": "已錯失對話機會",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đã bỏ lỡ cơ hội nói chuyện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33221,
+"ZH_Text0": "回歸的契機",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thời cơ quay về",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33222,
+"ZH_Text0": "前往祭台祈求處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về chỗ cầu nguyện của tế đàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33223,
+"ZH_Text0": "找尋聲音的來源",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm nơi phát ra âm thanh kia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33224,
+"ZH_Text0": "和蜂玉對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với Phong Ngọc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33225,
+"ZH_Text0": "那神祕的聲音消失了",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Âm thanh thần bí kia biến mất rồi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33701,
+"ZH_Text0": "避開土伯之眼的攻擊",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né tránh công kích của Thổ Bá Chi Nhãn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33702,
+"ZH_Text0": "生命值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lượng HP",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33703,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33801,
+"ZH_Text0": "退敵拯救死傷達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh lui địch nhân, cứu người đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33802,
+"ZH_Text0": "達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu chuẩn đạt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33901,
+"ZH_Text0": "前往祭壇協助淨化白龍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến về tế đàn trợ giúp tịnh hoá Bạch Long",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 33902,
+"ZH_Text0": "生命值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lượng HP",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34001,
+"ZH_Text0": "前往閶闔宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Xương Hạp Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34002,
+"ZH_Text0": "覲見伊祁帝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Yết kiến Y Kỳ Đế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34003,
+"ZH_Text0": "前往祭台",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến tế đàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34004,
+"ZH_Text0": "協助嵐湘祈舞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giúp Lam Tương Kỳ Vũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34005,
+"ZH_Text0": "整理思緒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sắp xếp lại suy nghĩ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34006,
+"ZH_Text0": "到外頭庭院走走",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ra ngoài đầu đình viện đi dạo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34007,
+"ZH_Text0": "追蹤神秘鬼影",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lần theo dấu vết của Quỷ Ảnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34008,
+"ZH_Text0": "追上鵲鬼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đuổi theo Thước Quỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34009,
+"ZH_Text0": "繼續追尋鵲鬼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiếp tục truy lùng Thước Quỷ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34010,
+"ZH_Text0": "與使臣們談談",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nói chuyện với các sứ thần",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34011,
+"ZH_Text0": "打探各國意向後離開青山別宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỏi hướng đi các nước sau khi rời Biệt Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34012,
+"ZH_Text0": "護衛各國首領使臣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo vệ sứ thần của các quốc gia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34013,
+"ZH_Text0": "擊退來襲刺客",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại Thích khách ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34014,
+"ZH_Text0": "護衛各國首領使臣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo vệ sứ thần của các quốc gia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34015,
+"ZH_Text0": "擊退來襲刺客，與重華會合",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đánh bại thích khách, tụ hợp cùng Trọng Hoa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34101,
+"ZH_Text0": "國仇家恨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thù nhà hận nước",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34102,
+"ZH_Text0": "巡視國家與子民，重拾過往回憶",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dò xét quốc gia và dân chúng, thu gom hồi ức",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34111,
+"ZH_Text0": "出使寒荒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngoại giao với Hàn Hoang",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34112,
+"ZH_Text0": "前進寒荒國",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Hàn Hoang Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34121,
+"ZH_Text0": "寒荒邊境",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Biên giới Hàn Hoang",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34122,
+"ZH_Text0": "潛入寒荒國",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thâm nhập Hàn Hoang Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34123,
+"ZH_Text0": "出去看看",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ra ngoài xem xét",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34131,
+"ZH_Text0": "請君入甕",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gậy ông đập lưng ông",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34132,
+"ZH_Text0": "解開陣法",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giải khai trận pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34133,
+"ZH_Text0": "繼續深入寒荒國",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiếp tục thâm nhập Hàn Hoang Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34134,
+"ZH_Text0": "進寒荒城找雲傾和嵐湘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Vân, Lam ở Hàn Hoang thành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34141,
+"ZH_Text0": "進入寒荒城",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiến vào Hàn Hoang thành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34142,
+"ZH_Text0": "找到雲傾和嵐湘",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Vân Khuynh và Lam Tương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34201,
+"ZH_Text0": "臨危之際",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thời khắc lâm nguy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34202,
+"ZH_Text0": "抵擋敵人，救援百姓",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngăn cản kẻ địch, cứu viện bách tính",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34211,
+"ZH_Text0": "九州共主",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửu Châu chung chủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34212,
+"ZH_Text0": "協助帝君抵禦外敵",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hiệp trợ Đế Quân chống cự ngoại địch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34301,
+"ZH_Text0": "入閶闔深宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Xương Hạp thâm cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34302,
+"ZH_Text0": "前往守護神器",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến bảo vệ Thần khí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34303,
+"ZH_Text0": "深宮失散",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thâm cung thất lạc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34304,
+"ZH_Text0": "避免混沌侵蝕並尋找望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tránh Hỗn Độn xâm thực và tìm Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34305,
+"ZH_Text0": "真相",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chân tướng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34306,
+"ZH_Text0": "稟告帝君",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bẩm báo Đế Quân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34307,
+"ZH_Text0": "天穿浩劫",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đại nạn thấu trời",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34308,
+"ZH_Text0": "與眾人拜別",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng mọi người chào hỏi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34309,
+"ZH_Text0": "絕地",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuyệt địa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34310,
+"ZH_Text0": "前往東海，阻止大羿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đến Đông Hải, ngăn cản Đại Nghệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34311,
+"ZH_Text0": "尋找望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tìm Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34312,
+"ZH_Text0": "追上鷹禮，尋找望舒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đuổi Ưng Lễ, tìm Vọng Thư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34401,
+"ZH_Text0": "末日金烏",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kim Ô tận thế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34402,
+"ZH_Text0": "營救金烏朝陽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ứng cứu Kim Ô Triều Dương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34411,
+"ZH_Text0": "神人齊心",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần dân đồng lòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34412,
+"ZH_Text0": "阻止大羿的野心",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngăn chặn dã tâm của Đại Nghệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34421,
+"ZH_Text0": "混沌之境",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỗn Độn Chi Cảnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 34422,
+"ZH_Text0": "救援禍天",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cứu Viện Hoạ Thiên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35001,
+"ZH_Text0": "四處看看",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhìn xung quanh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35002,
+"ZH_Text0": "與臣民聊聊",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cùng thần dân chém gió",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35003,
+"ZH_Text0": "金龍的請託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kim Long nhờ giúp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35004,
+"ZH_Text0": "金龍的請託",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kim Long nhờ giúp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35005,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35006,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35007,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35101,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35201,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35301,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35401,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35501,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35502,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35601,
+"ZH_Text0": "躲避寒荒國人維持警戒分數",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điểm số độ cảnh giác người Hàn Hoang",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35602,
+"ZH_Text0": "潛入隱密度",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Độ ẩn mật khi lẻn vào",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35611,
+"ZH_Text0": "躲避攻擊、解開陣法",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Né tránh công kích, giải khai trận pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35612,
+"ZH_Text0": "生命值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lượng HP",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35701,
+"ZH_Text0": "退敵救援百姓達100%",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đẩy lùi địch, cứu viện bách tính đạt 100%",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35702,
+"ZH_Text0": "達成率",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tỉ lệ tiêu chuẩn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35801,
+"ZH_Text0": "避開混沌黑霧，維持精氣純淨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tránh Hắc Vụ Hỗn Độn, giữ tinh khí tinh khiết",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35802,
+"ZH_Text0": "精氣純淨值",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lượng tinh khí tinh khiết",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35803,
+"ZH_Text0": "混沌黑霧會侵蝕人的精氣，小心避開",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hắc Vụ Hỗn Độn ăn mòn tinh khí, cẩn thận né!",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35901,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 35902,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]

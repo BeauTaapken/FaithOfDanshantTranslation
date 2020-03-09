@@ -1,0 +1,2486 @@
+[
+{
+"ID": 110001,
+"ZH_Text0": "門",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110002,
+"ZH_Text0": "機關",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cơ Quan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110003,
+"ZH_Text0": "寶箱",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo Rương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110004,
+"ZH_Text0": "寶箱(中)",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo Rương (Trung)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110005,
+"ZH_Text0": "寶箱(大)",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảo Rương (Đại)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110006,
+"ZH_Text0": "梅果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110007,
+"ZH_Text0": "杜衡草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đỗ Hành Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110008,
+"ZH_Text0": "皮毛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bì Mao",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110009,
+"ZH_Text0": "梅果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110010,
+"ZH_Text0": "行囊",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bọc Hành Lý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110011,
+"ZH_Text0": "酒罈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vò Rượu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110012,
+"ZH_Text0": "攤開的書簡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lật Ra Thư Từ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110013,
+"ZH_Text0": "不起眼的石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tảng Đá Bình Thường",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110014,
+"ZH_Text0": "玉繭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngọc Kiển",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110015,
+"ZH_Text0": "可疑足跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân Khả Nghi ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110016,
+"ZH_Text0": "黃良草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hoàng Lương Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110017,
+"ZH_Text0": "酸漿果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Toan Tương Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110018,
+"ZH_Text0": "野炊器具",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dụng Cụ Nấu Cơm Dã Ngoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110019,
+"ZH_Text0": "玉墜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngọc Trụy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110020,
+"ZH_Text0": "竹籃",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giỏ Trúc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110021,
+"ZH_Text0": "玉石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngọc Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110022,
+"ZH_Text0": "山神碑",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Thần Bia",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110023,
+"ZH_Text0": "木雕動物",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mộc Điêu Động Vật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110024,
+"ZH_Text0": "紅酬竹片",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thẻ Trúc Hồng Phù",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110025,
+"ZH_Text0": "木刻面具",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mặt Nạ Khắc Gỗ ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110026,
+"ZH_Text0": "空木盤",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Không Mâm Gỗ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110101,
+"ZH_Text0": "香甜樹果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hương Điềm Thụ Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110102,
+"ZH_Text0": "蘑菇",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ma Cô",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110103,
+"ZH_Text0": "飛魚",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cá Chuồn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110104,
+"ZH_Text0": "動物的足跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân Động Vật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110105,
+"ZH_Text0": "動物的腳印",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân Động Vật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110106,
+"ZH_Text0": "奇怪的痕跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết Tích Kỳ Quái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110107,
+"ZH_Text0": "奇怪的植物",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thực Vật Kỳ Quái",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110108,
+"ZH_Text0": "山中的箱子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái Rương Trong Núi ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110109,
+"ZH_Text0": "百寶袋",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Túi Bách Bảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110110,
+"ZH_Text0": "木頭娃娃",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Búp Bê Gỗ ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110111,
+"ZH_Text0": "漂亮的石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tảng Đá Đẹp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110112,
+"ZH_Text0": "水缸",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vạc Nước",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110113,
+"ZH_Text0": "陶珠手環",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đào Châu Thủ Hoàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110114,
+"ZH_Text0": "大羿木偶",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đại Nghệ Con Rối",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110115,
+"ZH_Text0": "琨瑉白玉",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Côn Mân Bạch Ngọc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110116,
+"ZH_Text0": "倒塌的木架",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giá Gỗ Sụp Đổ ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110117,
+"ZH_Text0": "書簡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thư Từ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110118,
+"ZH_Text0": "碗",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bát",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110119,
+"ZH_Text0": "鳥巢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tổ Chim",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110120,
+"ZH_Text0": "覘子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Siêm Tử",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110121,
+"ZH_Text0": "竹籃",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giỏ Trúc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110122,
+"ZH_Text0": "水晶",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thủy Tinh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110123,
+"ZH_Text0": "龜甲",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Rùa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110124,
+"ZH_Text0": "腳印",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110125,
+"ZH_Text0": "樹枝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhánh Cây",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110126,
+"ZH_Text0": "可疑的痕跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết Tích Khả Nghi ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110127,
+"ZH_Text0": "飛靈弓",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phi Linh Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110128,
+"ZH_Text0": "行囊",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bọc Hành Lý",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110129,
+"ZH_Text0": "荀草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuân Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110130,
+"ZH_Text0": "樹膏",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thụ Cao",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110131,
+"ZH_Text0": "山果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quả Dại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110132,
+"ZH_Text0": "梨子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lê Tử",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110133,
+"ZH_Text0": "桌面",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mặt Bàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110134,
+"ZH_Text0": "岩畫",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nham Họa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110135,
+"ZH_Text0": "野獸足跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân Dã Thú ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110136,
+"ZH_Text0": "斷裂的枝木",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhánh Mộc Đứt Gãy ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110137,
+"ZH_Text0": "碎葉落果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Toái Diệp Lạc Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110138,
+"ZH_Text0": "龜裂岩石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nham Thạch Rạn Nứt ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110139,
+"ZH_Text0": "可疑的石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tảng Đá Khả Nghi ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110140,
+"ZH_Text0": "血跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết Máu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110141,
+"ZH_Text0": "採星潭水",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đầm Nước Hái Tinh ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110142,
+"ZH_Text0": "小熊包",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Hùng Bao",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110143,
+"ZH_Text0": "木枝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhánh Cây",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110144,
+"ZH_Text0": "奇怪的斷木",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đoạn Mộc Kỳ Quái ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110145,
+"ZH_Text0": "特別的器皿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dụng Cụ Đặc Biệt ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110146,
+"ZH_Text0": "家人的木雕",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Người Nhà Mộc Điêu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110147,
+"ZH_Text0": "開花的石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tảng Đá Nở Hoa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110148,
+"ZH_Text0": "牛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngưu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110149,
+"ZH_Text0": "幸運草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hạnh Vận Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110150,
+"ZH_Text0": "完好的神像",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tượng Thần Hoàn Hảo ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110151,
+"ZH_Text0": "弓",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110152,
+"ZH_Text0": "小雞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Kê",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110153,
+"ZH_Text0": "補好的褲子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quần Vá Xong",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110154,
+"ZH_Text0": "藤蔓",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dây Leo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110155,
+"ZH_Text0": "夫諸殘魂",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phu Chư Tàn Hồn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110156,
+"ZH_Text0": "泰吉屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thi Thể Thái Cát",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110157,
+"ZH_Text0": "可疑的木杵",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chày Gỗ Khả Nghi ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110158,
+"ZH_Text0": "漂流的龜甲",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Rùa Trôi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110159,
+"ZH_Text0": "隱蔽處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chỗ Bí Mật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110191,
+"ZH_Text0": "金烏靈壼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kim Ô Linh Hồ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110201,
+"ZH_Text0": "床",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giường",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110202,
+"ZH_Text0": "毀壞神像",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tượng Thần Hủy Hoại ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110203,
+"ZH_Text0": "機關",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cơ Quan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110204,
+"ZH_Text0": "毀壞神像",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tượng Thần Hủy Hoại ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110205,
+"ZH_Text0": "散亂的武器",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tán Loạn Vũ Khí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110206,
+"ZH_Text0": "冰髓石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Băng Tủy Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110207,
+"ZH_Text0": "血跡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vết Máu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110208,
+"ZH_Text0": "腳印",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dấu Chân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110209,
+"ZH_Text0": "青玉芝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thanh Ngọc Chi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110210,
+"ZH_Text0": "杜衡草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đỗ Hành Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110211,
+"ZH_Text0": "冰髓石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Băng Tủy Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110212,
+"ZH_Text0": "焉酸草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Yên Toan Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110213,
+"ZH_Text0": "蘼蕪",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mi Vu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110214,
+"ZH_Text0": "苦辛草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khổ Tân Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110215,
+"ZH_Text0": "牛傷果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngưu Thương Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110216,
+"ZH_Text0": "榮草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vinh Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110217,
+"ZH_Text0": "丹木實",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đan Mộc Thực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110218,
+"ZH_Text0": "沙棠果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sa Đường Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110219,
+"ZH_Text0": "洞冥草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Động Minh Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110220,
+"ZH_Text0": "旅人的物品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lữ Nhân Vật Phẩm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110221,
+"ZH_Text0": "藥爐",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Dược Lô",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110222,
+"ZH_Text0": "諸繩草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chư Thằng Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110223,
+"ZH_Text0": "平安墜",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bình An Trụy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110224,
+"ZH_Text0": "厭火人屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thi Thể Yếm Hỏa Nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110225,
+"ZH_Text0": "瀑布",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thác Nước",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110226,
+"ZH_Text0": "機關",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cơ Quan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110227,
+"ZH_Text0": "周饒人的房子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phòng Ở Chu Nhiêu Nhân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110228,
+"ZH_Text0": "窗戶",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửa Sổ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110229,
+"ZH_Text0": "佈告欄",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bảng Thông Báo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110230,
+"ZH_Text0": "苦酒",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khổ Tửu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110231,
+"ZH_Text0": "竹簡",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thẻ Tre",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110232,
+"ZH_Text0": "玉石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ngọc Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110233,
+"ZH_Text0": "白澤靈石",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bạch Trạch Linh Thạch",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110234,
+"ZH_Text0": "擺飾",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Trang Trí",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110235,
+"ZH_Text0": "蝦山二霸的寶箱",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hà Sơn Nhị Bá Bảo Rương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110236,
+"ZH_Text0": "神秘物品",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vật Phẩm Thần Bí ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110237,
+"ZH_Text0": "八陣暗門",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bát Trận Ám Môn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110238,
+"ZH_Text0": "不起眼的木桶",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thùng Gỗ Không Đáng Chú Ý ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110239,
+"ZH_Text0": "熟成的穀物",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thục Ngũ Cốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110240,
+"ZH_Text0": "築在地面的鳥巢",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tổ Chim Xây Ở Mặt Đất",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110241,
+"ZH_Text0": "巨大的羊角",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sừng Dê To Lớn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110242,
+"ZH_Text0": "香噴噴的烤雞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Gà Nướng Thơm Ngào Ngạt ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110243,
+"ZH_Text0": "精巧的盆栽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bồn Hoa Tinh Xảo ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110244,
+"ZH_Text0": "別緻的青瓷",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Độc Đáo Sứ Men Xanh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110245,
+"ZH_Text0": "椅子",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cái Ghế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110401,
+"ZH_Text0": "九翼屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thi Thể Cửu Dực ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110402,
+"ZH_Text0": "巫祝屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thi Thể Vu Chúc ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110403,
+"ZH_Text0": "混沌術法",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỗn Độn Thuật Pháp",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110421,
+"ZH_Text0": "祭祀香爐",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tế Tự Lư Hương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110422,
+"ZH_Text0": "盆栽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bồn Hoa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110501,
+"ZH_Text0": "溢香的酒罈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vò Rượu Tràn Hương ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110502,
+"ZH_Text0": "奇異的羊角",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sừng Dê Kỳ Dị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110601,
+"ZH_Text0": "餐桌上的水果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hoa Quả Trên Bàn Ăn ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110602,
+"ZH_Text0": "祭壇出水處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tế Đàn Xuất Thủy Chỗ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110603,
+"ZH_Text0": "神器流淵",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Khí Lưu Uyên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110604,
+"ZH_Text0": "毀損的神器流淵",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Khí Lưu Uyên Bị Tổn Thương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110605,
+"ZH_Text0": "混沌之水",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỗn Độn Chi Thủy",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110606,
+"ZH_Text0": "華美的石燈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thạch Đèn Hoa Mỹ ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110607,
+"ZH_Text0": "古怪的燒壺",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cổ Quái Đốt Ấm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110701,
+"ZH_Text0": "梅苑房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Uyển Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110702,
+"ZH_Text0": "將軍府",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phủ Tướng Quân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110801,
+"ZH_Text0": "寒荒守衛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hàn Hoang Thủ Vệ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110802,
+"ZH_Text0": "冰封法陣",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Băng Phong Pháp Trận",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110803,
+"ZH_Text0": "冰封牆",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Băng Phong Tường",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110804,
+"ZH_Text0": "積雪的竹簍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuyết Đọng Giỏ Trúc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110805,
+"ZH_Text0": "獨特的雪岩",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tuyết Nham Đặc Biệt ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110901,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 110902,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 111001,
+"ZH_Text0": "屍體",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thi Thể",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 111002,
+"ZH_Text0": "門",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cửa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 111003,
+"ZH_Text0": "鑰匙",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chìa Khoá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 111101,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 111201,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112000,
+"ZH_Text0": "互動行為說明",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mô Tả Hành Vi Tương Tác ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112001,
+"ZH_Text0": "開啟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mở Ra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112002,
+"ZH_Text0": "拾取",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhặt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112003,
+"ZH_Text0": "調查",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Điều Tra",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112004,
+"ZH_Text0": "踢飛",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đá Bay",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112005,
+"ZH_Text0": "感想",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cảm Tưởng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112006,
+"ZH_Text0": "放置",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cất Đặt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112007,
+"ZH_Text0": "操作",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thao Tác",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112008,
+"ZH_Text0": "煉製",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Luyện Chế",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112009,
+"ZH_Text0": "洗滌石頭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tảng Đá Gột Rửa ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112010,
+"ZH_Text0": "對話",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đối Thoại",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112011,
+"ZH_Text0": "祈願",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cầu Nguyện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112012,
+"ZH_Text0": "隱蔽氣息",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Áp Chế Khí Tức",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112013,
+"ZH_Text0": "攀爬",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Leo Lên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112014,
+"ZH_Text0": "淨化",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tịnh Hóa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112015,
+"ZH_Text0": "擊暈",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kích Choáng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112016,
+"ZH_Text0": "破壞",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phá Hư",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112017,
+"ZH_Text0": "藏匿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Giấu Kín",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112018,
+"ZH_Text0": "搜索",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lục Soát",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112019,
+"ZH_Text0": "攪散",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khuấy Tan",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112201,
+"ZH_Text0": "勞山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112202,
+"ZH_Text0": "勞山．飛星樹屋",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn - Nhà Trên Cây",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112203,
+"ZH_Text0": "勞山．採星潭",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn - Thải Tinh Đầm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112204,
+"ZH_Text0": "勞山深處",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn - Chỗ Sâu",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112205,
+"ZH_Text0": "勞山深處．橫雲嶺",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn Thâm Xử - Hoành Vân Lĩnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112206,
+"ZH_Text0": "勞山深處．青石墩",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn Thâm Xử - Thanh Thạch Đôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112207,
+"ZH_Text0": "勞山深處．松葉林",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn Thâm Xử - Tùng Diệp Lâm",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112211,
+"ZH_Text0": "勞山．山道",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn - Sơn Đạo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112212,
+"ZH_Text0": "勞山．歸思崖",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lao Sơn - Quy Tư Nhai",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112213,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112214,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112215,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112216,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112221,
+"ZH_Text0": "風鳴村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Minh Thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112222,
+"ZH_Text0": "風鳴村．南村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Minh Thôn - Nam Thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112223,
+"ZH_Text0": "風鳴村．北村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Minh Thôn - Bắc Thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112224,
+"ZH_Text0": "北村．祭台",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Tế Đài",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112225,
+"ZH_Text0": "東海濱",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Hải Tân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112226,
+"ZH_Text0": "北村．村長房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Thôn Trường Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112227,
+"ZH_Text0": "北村．村巫房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Thôn Vu Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112228,
+"ZH_Text0": "北村．柴房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Sài Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112229,
+"ZH_Text0": "南村．鬃伯房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nam Thôn - Tông Bá Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112230,
+"ZH_Text0": "南村．大樹房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nam Thôn - Đại Thụ Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112231,
+"ZH_Text0": "北村．陶石房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Đào Thạch Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112232,
+"ZH_Text0": "風鳴村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phong Minh Thôn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112238,
+"ZH_Text0": "北村．陶石房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bắc Thôn - Đào Thạch Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112239,
+"ZH_Text0": "風鳴村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112240,
+"ZH_Text0": "風鳴村",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112241,
+"ZH_Text0": "箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112245,
+"ZH_Text0": "黑市",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Chợ Đen",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112246,
+"ZH_Text0": "箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112247,
+"ZH_Text0": "客舍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khách Xá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112248,
+"ZH_Text0": "民房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhà Dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112251,
+"ZH_Text0": "箴石小鎮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Châm Thạch Tiểu Trấn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112252,
+"ZH_Text0": "離開勞山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Rời Lao Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112261,
+"ZH_Text0": "高氏山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cao Thị Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112262,
+"ZH_Text0": "高氏山．洞窟",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cao Thị Sơn - Động Quật",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112263,
+"ZH_Text0": "寒雲崖",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hàn Vân Nhai",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112264,
+"ZH_Text0": "千雲頂",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Vân Đỉnh",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112265,
+"ZH_Text0": "高氏山．湖岸",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cao Thị Sơn - Hồ Ngạn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112266,
+"ZH_Text0": "雲傾小屋",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vân Khuynh Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112267,
+"ZH_Text0": "高氏山．入口",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Cao Thị Sơn - Cửa Vào",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112281,
+"ZH_Text0": "陶唐帝都",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đào Đường Đế Đô",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112282,
+"ZH_Text0": "陶唐帝都",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đào Đường Đế Đô",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112283,
+"ZH_Text0": "青山別宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thanh Sơn Biệt Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112284,
+"ZH_Text0": "客舍",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khách Xá",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112285,
+"ZH_Text0": "伏倩房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Phục Thiến Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112286,
+"ZH_Text0": "民房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhà Dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112287,
+"ZH_Text0": "小礫房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiểu Lịch Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112288,
+"ZH_Text0": "梓雁房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tử Nhạn Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112289,
+"ZH_Text0": "郎中房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lang Trung Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112290,
+"ZH_Text0": "民房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhà Dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112295,
+"ZH_Text0": "梅苑",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Mai Uyển",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112301,
+"ZH_Text0": "閶闔宮",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xương Hạp Cung",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112302,
+"ZH_Text0": "閶闔宮．大殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xương Hạp Cung - Đại Điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112303,
+"ZH_Text0": "閶闔宮．下層",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xương Hạp Cung - Tầng Dưới",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112304,
+"ZH_Text0": "閶闔宮．九翼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Xương Hạp Cung - Cửu Dực",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112305,
+"ZH_Text0": "鏡星殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Kính Tinh Điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112306,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112307,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112308,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112309,
+"ZH_Text0": "",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112321,
+"ZH_Text0": "不周山",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bất Chu Sơn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112341,
+"ZH_Text0": "神水鄉",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thần Thủy Hương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112342,
+"ZH_Text0": "靈泉湯谷",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Linh Tuyền Thang Cốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112343,
+"ZH_Text0": "鄉主房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hương Chủ Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112344,
+"ZH_Text0": "貴賓房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Khách Quý Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112345,
+"ZH_Text0": "山神房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sơn Thần Phòng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112346,
+"ZH_Text0": "民房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhà Dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112347,
+"ZH_Text0": "民房",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhà Dân",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112361,
+"ZH_Text0": "百鳥國(暫定不做)",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bách Điểu Quốc (Tạm Thời Chưa Làm)",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112381,
+"ZH_Text0": "東極國",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Cực Quốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112382,
+"ZH_Text0": "東極．攝日王府",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Cực - Nhiếp Nhật Vương Phủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112383,
+"ZH_Text0": "于府",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Vu Phủ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112384,
+"ZH_Text0": "東極．校場",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Cực - Giáo Tràng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112385,
+"ZH_Text0": "東極．玄凰祭殿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Cực - Huyền Hoàng Tế Điện",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112401,
+"ZH_Text0": "鎏金壑市",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Lưu Kim Hác Thị",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112421,
+"ZH_Text0": "寒荒雪城",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hàn Hoang Tuyết Thành",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112422,
+"ZH_Text0": "祭壇",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tế Đàn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112441,
+"ZH_Text0": "千嶺之野",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thiên Lĩnh Chi Dã",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112461,
+"ZH_Text0": "東海絕地",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đông Hải Tuyệt Địa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 112481,
+"ZH_Text0": "混沌幽洪",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hỗn Độn U Hồng",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113001,
+"ZH_Text0": "接骨花",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiếp Cốt Hoa",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113002,
+"ZH_Text0": "地黃草",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Địa Hoàng Thảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113003,
+"ZH_Text0": "獸瞳果",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Thú Đồng Quả",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113004,
+"ZH_Text0": "蚣蝮足",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Công Phúc Túc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113101,
+"ZH_Text0": "鬼蛙蹼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Quỷ Oa Bốc",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113102,
+"ZH_Text0": "鯤靈淬",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Côn Linh Thối",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113103,
+"ZH_Text0": "鵬翼羽",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bằng Dực Vũ",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113104,
+"ZH_Text0": "睚眥眼",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Nhai Tí Nhãn",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113201,
+"ZH_Text0": "獅翼骨",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Sư Dực Cốt",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113202,
+"ZH_Text0": "虺腹涎",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hủy Phúc Tiên",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113203,
+"ZH_Text0": "帝流漿",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Đế Lưu Tương",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113204,
+"ZH_Text0": "狴犴肝",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bệ Ngạn Can",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113301,
+"ZH_Text0": "螭吻爪",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Ly Vẫn Trảo",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113302,
+"ZH_Text0": "贔屭碑",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Bí Hý Bi",
+"CH_Text1": "",
+"CH_Text2": ""
+},
+{
+"ID": 113303,
+"ZH_Text0": "椒圖甲",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Tiêu Đồ Giáp",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]

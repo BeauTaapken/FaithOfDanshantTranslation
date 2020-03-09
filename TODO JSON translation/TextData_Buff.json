@@ -1,0 +1,65 @@
+[
+{
+"ID": 70001,
+"ZH_Text0": "Buff 1",
+"ZH_Text1": "誇父毀橋",
+"ZH_Text2": "",
+"CH_Text0": "Buff 1",
+"CH_Text1": "Khoa phụ Hủy cầu",
+"CH_Text2": ""
+},
+{
+"ID": 70002,
+"ZH_Text0": "Buff 2",
+"ZH_Text1": "誇父測試",
+"ZH_Text2": "",
+"CH_Text0": "Buff 2",
+"CH_Text1": "Khoa phụ Khảo thí",
+"CH_Text2": ""
+},
+{
+"ID": 70003,
+"ZH_Text0": "Buff 3",
+"ZH_Text1": "玩家bec測試",
+"ZH_Text2": "",
+"CH_Text0": "Buff 3",
+"CH_Text1": "Người chơibecKhảo thí",
+"CH_Text2": ""
+},
+{
+"ID": 70004,
+"ZH_Text0": "Buff 4",
+"ZH_Text1": "玩家測試",
+"ZH_Text2": "",
+"CH_Text0": "Buff 4",
+"CH_Text1": "Người chơi Khảo thí",
+"CH_Text2": ""
+},
+{
+"ID": 70005,
+"ZH_Text0": "Buff 5",
+"ZH_Text1": "玩家測試",
+"ZH_Text2": "",
+"CH_Text0": "Buff 5",
+"CH_Text1": "Người chơi Khảo thí",
+"CH_Text2": ""
+},
+{
+"ID": 70006,
+"ZH_Text0": "Buff 5",
+"ZH_Text1": " 誇父測試",
+"ZH_Text2": "",
+"CH_Text0": "Buff 5",
+"CH_Text1": "Khoa phụ Khảo thí",
+"CH_Text2": ""
+},
+{
+"ID": 70007,
+"ZH_Text0": "黑市首領的狼牙印記，除了減少防禦外，黑市嘍嘍都會攻擊被附加狼牙印記的人",
+"ZH_Text1": "",
+"ZH_Text2": "",
+"CH_Text0": "Hắc Thị Thủ Lĩnh răng sói ấn ký, ngoại trừ giảm bớt phòng ngự bên ngoài, Hắc Thị Lâu La đều sẽ công kích bị kèm theo răng sói ấn ký người",
+"CH_Text1": "",
+"CH_Text2": ""
+}
+]
